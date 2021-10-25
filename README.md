@@ -22,6 +22,15 @@ library(dpjr)
 
 ## Data files
 
+Access files using the `system.file()` function.
+
+Example:
+
+
+```{r, echo=FALSE}
+system.file("extdata", "mtcars.csv", package = "dpjr")
+```
+
 
 ## Licenses
 
