@@ -13,8 +13,8 @@
 #' path_to_file()
 #' path_to_file("mtcars.csv")
 #' head(read.csv(path_to_file("mtcars.csv")))
-#' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path-to-file`.
-dpjr_data_path <- function(path = NULL) {
+#' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path_to_file`.
+dpjr_data <- function(path = NULL) {
   if (is.null(path)) {
     dir(system.file("extdata", package = "dpjr"))
   } else {
