@@ -2,14 +2,50 @@
 
 ## inst/extdata
 
-This folder contains raw data files that will be part of the package
+This folder contains raw data files. The files can be accessed using the appropriate "read" function, with the package function `dpjr_data()` providing the path. For example, 
 
-Examples:
+```
+df_mtcars <- read.csv(dpjr_data("mtcars.csv"))
+```
 
-* raw CSV and Excel files
+## Files
 
-* SPSS files
+**"mtcars.csv"** -- a csv version of the famous mtcars dataset
 
-* PDF files
+**"penguins_fwf.txt"**
 
-See [Raw data](https://r-pkgs.org/data.html#data-extdata) in _R Packages_ (2nd ed.)
+A fixed-width version of the {palmerpenguins} dataset (https://allisonhorst.github.io/palmerpenguins/)
+
+There are 8 different variables, described in the table below:
+
+Variable           Width   Start position   End position
+--------           -----   --------------   ------------
+species            9       1                9
+island             9       10               18
+bill_length_mm     4       19               22
+bill_depth_mm      4       23               26
+flipper_length_mm  3       27               29
+body_mass_g        4       30               33
+sex                6       34               39
+year               4       40               43
+
+
+
+
+The fixed-width file has been created to minimize white space. The first 4 and last 2 rows of the data look like this:
+
+`Adelie   Torgersen39.118.71813750male  2007`
+
+`Adelie   Torgersen39.517.41863800female2007`
+
+`Adelie   Torgersen40.318.01953250female2007`
+
+`Adelie   Torgersen                     2007`
+
+`ChinstrapDream    50.819.02104100male  2009`
+
+`ChinstrapDream    50.218.71983775female2009`
+
+Note that the first row is _not_ the variable names—this is common in fixed-width files.
+
+
