@@ -1,19 +1,19 @@
-# Get file path to data files
-#
-# dpjr comes bundled with various data files in its `inst/extdata`
-# directory. This function make them easy to access.
-#
-#
-#
-# @param path Name of file in quotes with extension;
-# for example `"mtcars.csv"` will work.
-# If `NULL`, the example files will be listed.
-# @export
-# @examples
-# path_to_file()
-# path_to_file("mtcars.csv")
-# head(read.csv(path_to_file("mtcars.csv")))
-# @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path-to-file`.
+#' Get file path to data files
+#'
+#' dpjr comes bundled with various data files in its `inst/extdata`
+#' directory. This function make them easy to access.
+#'
+#'
+#'
+#' @param path Name of file in quotes with extension;
+#' for example `"mtcars.csv"` will work.
+#' If `NULL`, the example files will be listed.
+#' @export
+#' @examples
+#' path_to_file()
+#' path_to_file("mtcars.csv")
+#' head(read.csv(path_to_file("mtcars.csv")))
+#' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path-to-file`.
 dpjr_data_path <- function(path = NULL) {
   if (is.null(path)) {
     dir(system.file("extdata", package = "dpjr"))

@@ -2,8 +2,8 @@ Package: dpjr
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Martin Monkman
+Maintainer: Martin Monkman <monkmanmh@yahoo.ca>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/MonkmanMH/dpjr
 BugReports: https://github.com/MonkmanMH/dpjr/issues
+RoxygenNote: 7.1.1
