@@ -19,17 +19,34 @@ library(dpjr)
 
 ## Usage
 
+There are two groups of datasets in the package: pre-rendered? tables, and raw files.
 
-## Data files
+### Raw data files
 
-Access files using the `system.file()` function.
+The convenience function `dpjr_data()` generates the path to the raw data file, independent of the specific location on the user's computer.
+
+For example, to read the CSV file "mtcars.csv":
+
+```
+df_mtcars <- read.csv(dpjr::dpjr_data("mtcars.csv"))
+```
+
+An alternative to this approach is to access files using the `system.file()` function.
 
 Example:
 
 
 ```{r, echo=FALSE}
+system.file("extdata", package = "dpjr")
+
 system.file("extdata", "mtcars.csv", package = "dpjr")
+
+read.csv(system.file("extdata", "mtcars.csv", package = "dpjr"))
 ```
+
+## Data files
+
+A list of the the raw data files [can be found here](). _link to readme.md?_
 
 
 ## Licenses
@@ -44,5 +61,5 @@ The data files in this package are created by [Martin Monkman](https://github.co
 
 With the following exceptions:
 
-
+* 
 

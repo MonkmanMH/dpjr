@@ -10,9 +10,11 @@ df_mtcars <- read.csv(dpjr_data("mtcars.csv"))
 
 ## Files
 
-**"mtcars.csv"** -- a csv version of the famous mtcars dataset
+### mtcars.csv
 
-**"penguins_fwf.txt"**
+A csv version of the famous mtcars dataset
+
+### penguins_fwf.txt
 
 A fixed-width version of the {palmerpenguins} dataset (https://allisonhorst.github.io/palmerpenguins/)
 
@@ -49,3 +51,6 @@ The fixed-width file has been created to minimize white space. The first 4 and l
 Note that the first row is _not_ the variable names—this is common in fixed-width files.
 
 
+**License:**
+
+Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
