@@ -10,6 +10,7 @@ Description: Data files used in the book
 License: Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/MonkmanMH/dpjr
+URL: https://github.com/MonkmanMH/dpjr,
+    https://monkmanmh.github.io/dpjr
 BugReports: https://github.com/MonkmanMH/dpjr/issues
 RoxygenNote: 7.1.1

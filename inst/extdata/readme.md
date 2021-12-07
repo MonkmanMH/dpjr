@@ -10,6 +10,19 @@ df_mtcars <- read.csv(dpjr_data("mtcars.csv"))
 
 ## Files
 
+### authors_fwf.txt; authors2_fwf.txt
+
+A pair of fixed-width files containing information about ten authors from the United States of America: name, state of birth, and a randomly generated personal ID (similar to a national individual identification number used in different countries).
+
+The variables are as follows:
+
+Variable           Width   Start position   End position
+--------           -----   --------------   ------------
+name               20      1                20
+state_of_birth     10      21               30
+unique_id          12      31               42
+
+
 ### mtcars.csv
 
 A csv version of the famous mtcars dataset
