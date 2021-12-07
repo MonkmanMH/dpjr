@@ -2,3 +2,9 @@ url: https://monkmanmh.github.io/dpjr
 template:
   bootstrap: 5
 
+articles:
+- title: Data
+  navbar: ~
+  contents:
+  - data_list
+
