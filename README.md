@@ -2,6 +2,8 @@
 
 Companion Data for the book _The Data Preparation Journey: Finding Your Way With R_
 
+* a work in progress, to be published by Chapman & Hall/CRC Press at some point in the future.
+
 
 ## Installation
 
