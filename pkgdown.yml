@@ -1,0 +1,10 @@
+pandoc: 2.7.3
+pkgdown: 2.0.1
+pkgdown_sha: ~
+articles:
+  data_list: data_list.html
+last_built: 2021-12-08T14:54Z
+urls:
+  reference: https://monkmanmh.github.io/dpjr/reference
+  article: https://monkmanmh.github.io/dpjr/articles
+
