@@ -1,7 +1,7 @@
 url: https://monkmanmh.github.io/dpjr
 template:
   bootstrap: 5
-  bootswatch: cerulean
+  bootswatch: yeti
 articles:
 - title: Data
   navbar: ~

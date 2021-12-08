@@ -10,9 +10,9 @@
 #' If `NULL`, the example files will be listed.
 #' @export
 #' @examples
-#' path_to_file()
-#' path_to_file("mtcars.csv")
-#' head(read.csv(path_to_file("mtcars.csv")))
+#' dpjr_data()
+#' dpjr_data("mtcars.csv")
+#' head(read.csv(dpjr_data("mtcars.csv")))
 #' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path_to_file`.
 dpjr_data <- function(path = NULL) {
   if (is.null(path)) {
