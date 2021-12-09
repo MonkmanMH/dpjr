@@ -9,14 +9,34 @@ pkgdown:
 This page is a listing of the raw data files in the {dpjr} package. The files can be accessed using the appropriate "read" function, with the package function `dpjr_data()` providing the path. For example, 
 
 ```
-df_mtcars <- read.csv(dpjr_data("mtcars.csv"))
+df_mpg <- read.csv(dpjr_data("mpg.csv"))
 ```
+
+The full list of files is as follows:
+
+```{r data_list}
+dpjr::dpjr_data()
+```
+
+
+## Licenses
+
+All of the data in this package is covered under an open license. For information about the specific license for each data set in this package, please refer to [the vignette "Data licenses"](data_licenses.html). 
+
+
 
 ## Files
 
 ### authors_fwf.txt; authors2_fwf.txt
 
-A pair of fixed-width files containing information about ten authors from the United States of America: name, state of birth, and a randomly generated personal ID (similar to a national individual identification number used in different countries).
+A pair of fixed-width files containing information about ten authors from the United States of America: 
+
+* "name"
+
+* "state of birth", the two-letter abbreviation for the US state in which the author was born
+
+* "unique_id", a randomly generated personal ID (similar to a national individual identification number used in different countries).
+
 
 The variables are as follows:
 
@@ -27,13 +47,18 @@ state_of_birth     10      21               30
 unique_id          12      31               42
 
 
-### mtcars.csv
+### gapminder.csv
 
-A csv version of the famous mtcars dataset
+A csv version of the dataset in the [{gapminder}](https://CRAN.R-project.org/package=gapminder) package
+
+### mpg.csv
+
+A csv version of the famous mpg dataset, included in the [{ggplot2} package](https://ggplot2.tidyverse.org/reference/mpg.html)
+
 
 ### penguins_fwf.txt
 
-A fixed-width version of the {palmerpenguins} dataset (https://allisonhorst.github.io/palmerpenguins/)
+A fixed-width version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/)
 
 There are 8 different variables, described in the table below:
 

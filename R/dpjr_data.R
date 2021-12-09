@@ -6,7 +6,7 @@
 #'
 #'
 #' @param path Name of file in quotes with extension;
-#' for example `"mtcars.csv"` will work.
+#' for example `"mpg.csv"` will work.
 #' If `NULL`, the example files will be listed.
 #' @export
 #' @examples
@@ -14,10 +14,10 @@
 #' dpjr_data()
 #' #
 #' # return the full path of the named file
-#' dpjr_data("mtcars.csv")
+#' dpjr_data("mpg.csv")
 #' #
 #' # return the head (first 6 rows) of the named file
-#' head(read.csv(dpjr_data("mtcars.csv")))
+#' head(read.csv(dpjr_data("mpg.csv")))
 #' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path_to_file`.
 dpjr_data <- function(path = NULL) {
   if (is.null(path)) {

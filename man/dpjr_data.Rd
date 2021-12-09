@@ -11,7 +11,7 @@ dpjr_data(path = NULL)
 }
 \arguments{
 \item{path}{Name of file in quotes with extension;
-for example `"mtcars.csv"` will work.
+for example `"mpg.csv"` will work.
 If `NULL`, the example files will be listed.}
 }
 \description{
@@ -23,8 +23,8 @@ directory. This function make them easy to access.
 dpjr_data()
 #
 # return the full path of the named file
-dpjr_data("mtcars.csv")
+dpjr_data("mpg.csv")
 #
 # return the head (first 6 rows) of the named file
-head(read.csv(dpjr_data("mtcars.csv")))
+head(read.csv(dpjr_data("mpg.csv")))
 }

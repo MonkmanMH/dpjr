@@ -5,5 +5,7 @@ template:
 articles:
 - title: Data
   navbar: ~
-  contents: data_list
+  contents:
+  - data_list
+  - data_licenses
 

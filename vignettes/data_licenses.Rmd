@@ -1,0 +1,29 @@
+---
+title: "Data licenses"
+pkgdown:
+  as_is: true
+---
+
+
+## Licenses
+
+The data in this package is licensed in the following ways:
+
+### Original to {dpjr} 
+
+The data files created for the {dpjr} package by [Martin Monkman](https://github.com/MonkmanMH) are licensed under 
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
+
+
+### Sourced from other R packages
+
+Data sourced from other R packages is covered by the license of the package.
+
+
+### Sourced from open repositories
+
+Data sourced from other repositories are covered by the license of that repository, and are noted individually in [the vignette "Data list"](data_list.html).
+
+
+
