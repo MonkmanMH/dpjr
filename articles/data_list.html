@@ -42,6 +42,7 @@
   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" id="dropdown-articles">Articles</a>
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
     <a class="dropdown-item" href="../articles/data_list.html">Data list</a>
+    <a class="dropdown-item" href="../articles/data_licenses.html">Data licenses</a>
   </div>
 </li>
       </ul>
@@ -79,7 +80,18 @@
 <h2 id="raw-data">Raw data<a class="anchor" aria-label="anchor" href="#raw-data"></a>
 </h2>
 <p>This page is a listing of the raw data files in the {dpjr} package. The files can be accessed using the appropriate “read” function, with the package function <code><a href="../reference/dpjr_data.html">dpjr_data()</a></code> providing the path. For example,</p>
-<pre><code><span class="va">df_mtcars</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.csv</a></span><span class="op">(</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"mtcars.csv"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span class="va">df_mpg</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.csv</a></span><span class="op">(</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"mpg.csv"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<p>The full list of files is as follows:</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
+<pre><code><span class="co">## [1] "authors_count_fwf.txt" "authors_fwf.txt"       "authors2_fwf.txt"     </span>
+<span class="co">## [4] "gapminder.csv"         "mpg.csv"               "mtcars.csv"           </span>
+<span class="co">## [7] "penguins_fwf.txt"</span></code></pre>
+</div>
+<div class="section level2">
+<h2 id="licenses">Licenses<a class="anchor" aria-label="anchor" href="#licenses"></a>
+</h2>
+<p>All of the data in this package is covered under an open license. For information about the specific license for each data set in this package, please refer to <a href="data_licenses.html">the vignette “Data licenses”</a>.</p>
 </div>
 <div class="section level2">
 <h2 id="files">Files<a class="anchor" aria-label="anchor" href="#files"></a>
@@ -87,7 +99,12 @@
 <div class="section level3">
 <h3 id="authors_fwf-txt-authors2_fwf-txt">authors_fwf.txt; authors2_fwf.txt<a class="anchor" aria-label="anchor" href="#authors_fwf-txt-authors2_fwf-txt"></a>
 </h3>
-<p>A pair of fixed-width files containing information about ten authors from the United States of America: name, state of birth, and a randomly generated personal ID (similar to a national individual identification number used in different countries).</p>
+<p>A pair of fixed-width files containing information about ten authors from the United States of America:</p>
+<ul>
+<li><p>“name”</p></li>
+<li><p>“state of birth”, the two-letter abbreviation for the US state in which the author was born</p></li>
+<li><p>“unique_id”, a randomly generated personal ID (similar to a national individual identification number used in different countries).</p></li>
+</ul>
 <p>The variables are as follows:</p>
 <table class="table">
 <thead><tr class="header">
@@ -119,14 +136,19 @@
 </table>
 </div>
 <div class="section level3">
-<h3 id="mtcars-csv">mtcars.csv<a class="anchor" aria-label="anchor" href="#mtcars-csv"></a>
+<h3 id="gapminder-csv">gapminder.csv<a class="anchor" aria-label="anchor" href="#gapminder-csv"></a>
 </h3>
-<p>A csv version of the famous mtcars dataset</p>
+<p>A csv version of the dataset in the <a href="https://CRAN.R-project.org/package=gapminder" class="external-link">{gapminder}</a> package</p>
+</div>
+<div class="section level3">
+<h3 id="mpg-csv">mpg.csv<a class="anchor" aria-label="anchor" href="#mpg-csv"></a>
+</h3>
+<p>A csv version of the famous mpg dataset, included in the <a href="https://ggplot2.tidyverse.org/reference/mpg.html" class="external-link">{ggplot2} package</a></p>
 </div>
 <div class="section level3">
 <h3 id="penguins_fwf-txt">penguins_fwf.txt<a class="anchor" aria-label="anchor" href="#penguins_fwf-txt"></a>
 </h3>
-<p>A fixed-width version of the {palmerpenguins} dataset (<a href="https://allisonhorst.github.io/palmerpenguins/" class="external-link uri">https://allisonhorst.github.io/palmerpenguins/</a>)</p>
+<p>A fixed-width version of the <a href="https://allisonhorst.github.io/palmerpenguins/" class="external-link">{palmerpenguins} dataset</a></p>
 <p>There are 8 different variables, described in the table below:</p>
 <table class="table">
 <thead><tr class="header">
