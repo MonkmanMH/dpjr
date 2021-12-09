@@ -10,8 +10,13 @@
 #' If `NULL`, the example files will be listed.
 #' @export
 #' @examples
+#' # return a list of all the files in the package
 #' dpjr_data()
+#' #
+#' # return the full path of the named file
 #' dpjr_data("mtcars.csv")
+#' #
+#' # return the head (first 6 rows) of the named file
 #' head(read.csv(dpjr_data("mtcars.csv")))
 #' @source This function is adapted from `readxl::readxl_example()` and `palmerpenguins::path_to_file`.
 dpjr_data <- function(path = NULL) {

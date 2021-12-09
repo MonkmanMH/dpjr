@@ -19,7 +19,12 @@ dpjr comes bundled with various data files in its `inst/extdata`
 directory. This function make them easy to access.
 }
 \examples{
-path_to_file()
-path_to_file("mtcars.csv")
-head(read.csv(path_to_file("mtcars.csv")))
+# return a list of all the files in the package
+dpjr_data()
+#
+# return the full path of the named file
+dpjr_data("mtcars.csv")
+#
+# return the head (first 6 rows) of the named file
+head(read.csv(dpjr_data("mtcars.csv")))
 }
