@@ -3,7 +3,7 @@ pkgdown: 2.0.1
 pkgdown_sha: ~
 articles:
   data_list: data_list.html
-last_built: 2021-12-08T20:26Z
+last_built: 2021-12-09T04:55Z
 urls:
   reference: https://monkmanmh.github.io/dpjr/reference
   article: https://monkmanmh.github.io/dpjr/articles
