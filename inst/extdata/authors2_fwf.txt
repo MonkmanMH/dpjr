@@ -1,5 +1,5 @@
-Mary Johnston       VA        XN-5632-TP58
 Toni Morrison       IL        DJ-1944-QF96
+Kurt Vonnegut       IN        XN-5632-TP58
 Walt Whitman        NY        LW-1752-TD08
 Ursula K. Le Guin   CA        EZ-9789-EA77
 Ta-Nehisi Coates    NY        YN-5151-NV82
@@ -8,5 +8,3 @@ F. Scott Fitzgerald MN        YH-4405-TR02
 N.K. Jemisin        IA        EF-7340-DW20
 Flannery O'Connor   GA        HB-8269-XC88
 Henry David Thoreau MA        RL-8200-SU83
-
- 

@@ -1,6 +1,4 @@
 123456789012345678901234567890123456789012
-Emily Dickinson     MA        XN-5632-TP58
 Toni Morrison       IL        DJ-1944-QF96
+Kurt Vonnegut       IN        XN-5632-TP58
 Walt Whitman        NY        LW-1752-TD08
-
-
