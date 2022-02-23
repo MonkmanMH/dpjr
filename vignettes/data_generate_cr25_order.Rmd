@@ -21,9 +21,9 @@ The fictional wholesale company, CR25 (for "Classic Rock 25") only sells 25 albu
 
 ### Setup
 
-The first step is to install the necessary packages. I also set the seed to [a number associated with a classic rock staple](https://www.youtube.com/watch?v=axLRUszuu9I), so that future runs of the code will generate the same data table. This is important, as some of the lessons in the course were based on summary tables drawn from the master file.
+The first step is to install the necessary packages. The seed is set to [a number associated with a classic rock staple](https://www.youtube.com/watch?v=axLRUszuu9I), so that future runs of the code will generate the same data table. This is important, as some of the examples in the book are based on summary tables drawn from the master file.
 
-```{r setup}
+```{r setup, warning=FALSE, message=FALSE}
 # tidyverse packages
 library(dplyr)
 library(readr)
@@ -42,7 +42,7 @@ To create the album list, I created a csv file with the artist and percentage of
 
 I also added a price field; albums released before 1976 are \$7.98, [those released 1976-1981 are $8.98](https://en.wikipedia.org/wiki/Hard_Promises#History), and 1982 and beyond are \$9.98. The sole exception to this is Pink Floyd's double album _The Wall_, which I priced at \$14.98.
 
-```{r}
+```{r cr25_538_read, warning=FALSE, message=FALSE}
 
 albumlist <- read_csv(dpjr::dpjr_data("cr25/cr25_538.csv"))
 albumlist
@@ -54,11 +54,11 @@ The next step was to create a csv file with some fictional stores. What I did he
 
 I also assigned each store to one of four regions (based on the cardinal points of the compass), and gave them a store ID number.
 
-```{r}
+```{r cr25_storelist_read, warning=FALSE, message=FALSE}
 
 storelist <- read_csv(dpjr::dpjr_data("cr25/cr25_storelist.csv"))
 
-storelist
+head(storelist)
 
 storelist %>%
   group_by(chain, region) %>%
@@ -78,11 +78,11 @@ storelist %>%
 
 ## Create order
 
-### order date
-
-https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
 
 ```{r}
+# order date
+# based on https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
+
 jan01 <- ymd("2019-01-01")
 startdate <- as_date(floor_date(jan01, "year"))
 enddate <- as_date(ceiling_date(jan01, "year") - days(1))
@@ -104,10 +104,7 @@ order_mean_fun <- function(orderdate){
     TRUE ~ 5
   )
 }
-```
 
-
-```{r}
 # function to randomly select the store
 store_fun <- function(){ 
 storelist %>%
@@ -115,15 +112,9 @@ storelist %>%
   pull(store.id) 
 }  
 
-```
 
+# album_order_fun
 
-
-### album_order_fun
-
-
-
-```{r}
 # - `rpois` sets the mean value of poisson distribution from which random value is pulled
 
 album_order_fun <- function(...){
@@ -133,60 +124,8 @@ album_order_fun <- function(...){
          qty = rpois(1, 4)
   )
 }
-```
 
 
-### multiples
-
-```{r}
-# TEST
-n = rpois(1, 7)
-order_final <- data.frame(artist = as.character(),
-                          album = as.character(),
-                          price = as.double(),
-                          format = as.character(),
-                          qty = as.integer(),
-                          stringsAsFactors = FALSE)  
-
-for(i in 1:n){
-  order_final[i, ] <- album_order_fun()
-}
-
-order_final
-```
-
-test orderdate and order_mean 
-
-```{r}
-orderdate <- orderdate_fun()
-orderdate
-order_mean <- order_mean_fun(orderdate)
-order_mean
-```
-
-```{r}
-order_fun_1 <- function(){
-  n = rpois(1, 5)
-  order_final <- data.frame(artist = as.character(),
-                          album = as.character(),
-                          price = as.double(),
-                          format = as.character(),
-                          qty = as.integer(),
-                          stringsAsFactors = FALSE)  
-  
-  for(i in 1:n){
-    order_final[i, ] <- album_order_fun()
-  }
-  order_final
-  }
-
-
-#TEST 
-order_fun_1()
-```
-
-
-```{r}
 # now with order date and store id appended after the run
 
 order_fun <- function(){
@@ -226,13 +165,14 @@ order_fun <- function(){
   
   # end if
   }
-# end funtion
+# end function
 }
 
 ```
 
 
 ```{r}
+# run one order...
 order_fun()
 ```
 
@@ -285,7 +225,9 @@ head(order_multi)
 order_multi %>%
   group_by(store.id, orderdate) %>%
   tally()
+```
 
+```{r}
 
 order_multi %>%
   group_by(artist) %>%
@@ -304,6 +246,10 @@ order_multi %>%
   summarise(qty = sum(qty),
             cost = sum(order_price)) %>%
   arrange(desc(qty))
+```
+
+```{r}
+
 
 
 order_multi %>%
@@ -313,6 +259,10 @@ order_multi %>%
   summarise(qty = sum(qty),
             cost = sum(order_price)) %>%
   arrange(desc(qty))
+```
+
+```{r}
+
 
 order_multi %>%
   mutate(order_price = qty * price) %>%

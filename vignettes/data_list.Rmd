@@ -47,6 +47,17 @@ state_of_birth     10      21               30
 unique_id          12      31               42
 
 
+### cr25
+
+The files within the subdirectory `cr25` are as follows:
+
+```{r data_list_cr25}
+list.files(dpjr::dpjr_data("cr25"))
+```
+
+For information about these files see [the vignette "Data generation—CR25 orders"](data_generate_cr25_order.html).
+
+
 ### gapminder.csv
 
 A csv version of the dataset in the [{gapminder}](https://CRAN.R-project.org/package=gapminder) package
