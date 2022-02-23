@@ -1,0 +1,3715 @@
+artist,album,price,format,qty,orderdate,store.id
+AC/DC,Back in Black,8.98,cass,7,2019-06-09,X027
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-06-09,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-06-09,X027
+Journey,Escape,8.98,cass,5,2019-02-07,X027
+AC/DC,Back in Black,8.98,cass,7,2019-02-07,X027
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-05-22,X035
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-05-22,X035
+Journey,Escape,8.98,cass,5,2019-05-22,X035
+Bad Company,Bad Company,7.98,cass,3,2019-05-22,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-05-22,X035
+The Doors,The Doors,7.98,cass,5,2019-09-04,X005
+AC/DC,Back in Black,8.98,cass,7,2019-09-04,X005
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-09-04,X005
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-04,X005
+ZZ Top,Eliminator,9.98,lp,6,2019-06-01,X021
+Foreigner,4,8.98,cass,2,2019-06-01,X021
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-06-01,X021
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-10-19,X041
+Foreigner,4,8.98,cass,4,2019-10-19,X041
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-10-19,X041
+AC/DC,Back in Black,8.98,cass,7,2019-10-19,X041
+The Doors,The Doors,7.98,cass,1,2019-10-19,X041
+The Beatles,Abbey Road,7.98,lp,2,2019-10-19,X041
+Pink Floyd,The Wall,14.98,cass,3,2019-10-19,X041
+Rush,Moving Pictures,8.98,cass,6,2019-09-24,X017
+U2,War,9.98,cass,5,2019-09-24,X017
+Van Halen,1984,9.98,cass,4,2019-09-24,X017
+Foreigner,4,8.98,lp,3,2019-09-24,X017
+The Cars,The Cars,8.98,lp,6,2019-09-24,X017
+AC/DC,Back in Black,8.98,cass,5,2019-09-24,X017
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-01-10,X001
+The Who,Who's Next,7.98,lp,3,2019-01-10,X001
+Pink Floyd,The Wall,14.98,cass,4,2019-01-10,X001
+Bad Company,Bad Company,7.98,cass,1,2019-01-10,X001
+Aerosmith,Toys in the Attic,7.98,lp,0,2019-01-10,X001
+Rush,Moving Pictures,8.98,cass,8,2019-09-13,X014
+Rush,Moving Pictures,8.98,lp,4,2019-09-13,X014
+Boston,Boston,8.98,lp,3,2019-09-13,X014
+Heart,Dreamboat Annie,7.98,cass,0,2019-09-13,X014
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-09-13,X014
+Van Halen,1984,9.98,cass,1,2019-03-13,X013
+Bad Company,Bad Company,7.98,cass,3,2019-03-13,X013
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-03-13,X013
+The Doors,The Doors,7.98,cass,7,2019-06-08,X021
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-06-08,X021
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-06-08,X021
+Queen,Night at the Opera,7.98,cass,5,2019-07-11,X017
+Foreigner,4,8.98,lp,2,2019-07-11,X017
+U2,War,9.98,cass,3,2019-07-11,X017
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-07-11,X017
+Pink Floyd,The Wall,14.98,cass,4,2019-07-11,X017
+Journey,Escape,8.98,cass,4,2019-07-11,X017
+U2,War,9.98,lp,2,2019-03-29,X019
+The Who,Who's Next,7.98,cass,2,2019-03-29,X019
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-03-29,X019
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-03-29,X019
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-03-29,X019
+Led Zeppelin,IV (untitled),7.98,lp,8,2019-03-29,X019
+The Who,Who's Next,7.98,cass,4,2019-04-08,X023
+Foreigner,4,8.98,lp,3,2019-04-08,X023
+Journey,Escape,8.98,cass,7,2019-04-08,X023
+U2,War,9.98,cass,3,2019-04-08,X023
+Heart,Dreamboat Annie,7.98,lp,2,2019-04-08,X023
+The Who,Who's Next,7.98,cass,4,2019-04-08,X023
+U2,War,9.98,cass,1,2019-08-10,X037
+Bad Company,Bad Company,7.98,cass,2,2019-08-10,X037
+Boston,Boston,8.98,lp,5,2019-08-10,X037
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-08-10,X037
+Van Halen,1984,9.98,lp,5,2019-08-10,X037
+Van Halen,1984,9.98,cass,5,2019-04-18,X040
+Foreigner,4,8.98,cass,5,2019-08-29,X015
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-08-29,X015
+Pink Floyd,The Wall,14.98,cass,5,2019-08-29,X015
+Steve Miller Band,Fly Like an Eagle,8.98,cass,10,2019-08-29,X015
+Journey,Escape,8.98,cass,6,2019-08-29,X015
+The Doors,The Doors,7.98,lp,4,2019-07-14,X002
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-01-24,X012
+Rush,Moving Pictures,8.98,lp,2,2019-01-24,X012
+The Doors,The Doors,7.98,lp,3,2019-01-24,X012
+Eagles,Hotel California,8.98,cass,4,2019-01-24,X012
+The Cars,The Cars,8.98,cass,4,2019-12-12,X007
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-12-12,X007
+Journey,Escape,8.98,cass,6,2019-12-12,X007
+Bad Company,Bad Company,7.98,cass,4,2019-12-12,X007
+AC/DC,Back in Black,8.98,cass,4,2019-07-16,X001
+Queen,Night at the Opera,7.98,cass,3,2019-07-16,X001
+ZZ Top,Eliminator,9.98,lp,4,2019-07-16,X001
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-07-16,X001
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-01-08,X011
+The Doors,The Doors,7.98,cass,4,2019-01-08,X011
+Van Halen,1984,9.98,cass,4,2019-01-08,X011
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-01-08,X011
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-01-08,X011
+The Cars,The Cars,8.98,cass,3,2019-01-08,X011
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-09-11,X001
+Pink Floyd,The Wall,14.98,cass,3,2019-09-11,X001
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-09-11,X001
+Fleetwood Mac,Rumours,8.98,cass,2,2019-09-11,X001
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-01-18,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-01-18,X004
+Van Halen,1984,9.98,cass,2,2019-01-18,X004
+Fleetwood Mac,Rumours,8.98,cass,5,2019-08-13,X034
+ZZ Top,Eliminator,9.98,cass,2,2019-08-13,X034
+Van Halen,1984,9.98,cass,4,2019-08-13,X034
+Def Leppard,Hysteria,9.98,lp,5,2019-08-13,X034
+Van Halen,1984,9.98,lp,4,2019-08-13,X034
+Pink Floyd,The Wall,14.98,cass,7,2019-07-30,X022
+Van Halen,1984,9.98,cass,4,2019-07-30,X022
+Pink Floyd,The Wall,14.98,cass,7,2019-07-30,X022
+The Doors,The Doors,7.98,lp,4,2019-07-30,X022
+U2,War,9.98,lp,4,2019-07-30,X022
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-30,X022
+The Beatles,Abbey Road,7.98,lp,5,2019-05-03,X024
+Rush,Moving Pictures,8.98,lp,5,2019-04-02,X027
+Journey,Escape,8.98,cass,6,2019-04-02,X027
+ZZ Top,Eliminator,9.98,lp,6,2019-04-02,X027
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-04-02,X027
+Journey,Escape,8.98,lp,6,2019-04-02,X027
+Bad Company,Bad Company,7.98,cass,3,2019-09-30,X040
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-30,X040
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-09-30,X040
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-09-30,X040
+ZZ Top,Eliminator,9.98,lp,7,2019-09-30,X040
+AC/DC,Back in Black,8.98,cass,5,2019-09-30,X040
+The Doors,The Doors,7.98,lp,2,2019-09-12,X037
+Van Halen,1984,9.98,cass,3,2019-09-12,X037
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-09-12,X037
+Queen,Night at the Opera,7.98,cass,3,2019-09-12,X037
+The Who,Who's Next,7.98,cass,4,2019-06-22,X034
+Eagles,Hotel California,8.98,cass,3,2019-06-22,X034
+Eagles,Hotel California,8.98,lp,4,2019-06-22,X034
+Rush,Moving Pictures,8.98,lp,3,2019-06-22,X034
+The Cars,The Cars,8.98,lp,1,2019-06-22,X034
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-06-22,X034
+ZZ Top,Eliminator,9.98,cass,4,2019-06-22,X034
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-27,X031
+The Doors,The Doors,7.98,cass,10,2019-11-27,X031
+The Cars,The Cars,8.98,cass,4,2019-11-27,X031
+Van Halen,1984,9.98,cass,3,2019-11-27,X031
+The Rolling Stones,Sticky Fingers,7.98,lp,7,2019-10-28,X014
+Boston,Boston,8.98,lp,6,2019-10-28,X014
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-10-28,X014
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-10-28,X014
+The Doors,The Doors,7.98,lp,3,2019-10-28,X014
+Rush,Moving Pictures,8.98,cass,6,2019-10-28,X014
+Bad Company,Bad Company,7.98,cass,4,2019-05-12,X018
+Pink Floyd,The Wall,14.98,lp,3,2019-05-12,X018
+Heart,Dreamboat Annie,7.98,lp,3,2019-05-12,X018
+Journey,Escape,8.98,cass,5,2019-05-12,X018
+Boston,Boston,8.98,lp,4,2019-06-29,X005
+Journey,Escape,8.98,cass,3,2019-06-29,X005
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-06-29,X005
+U2,War,9.98,cass,2,2019-06-29,X005
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-06-29,X005
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-06-29,X005
+Eagles,Hotel California,8.98,cass,4,2019-08-27,X040
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-08-27,X040
+Fleetwood Mac,Rumours,8.98,cass,3,2019-08-27,X040
+Bad Company,Bad Company,7.98,lp,5,2019-08-27,X040
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-02-09,X026
+Queen,Night at the Opera,7.98,cass,6,2019-02-09,X026
+ZZ Top,Eliminator,9.98,cass,5,2019-02-09,X026
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-02-09,X026
+Fleetwood Mac,Rumours,8.98,lp,3,2019-02-09,X026
+AC/DC,Back in Black,8.98,cass,2,2019-02-09,X026
+Boston,Boston,8.98,cass,4,2019-02-09,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-02-09,X026
+Lynyrd Skynyrd,Second Helping,7.98,cass,8,2019-08-28,X023
+Van Halen,1984,9.98,cass,0,2019-08-28,X023
+Boston,Boston,8.98,cass,5,2019-08-28,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-08-28,X023
+ZZ Top,Eliminator,9.98,lp,4,2019-08-28,X023
+AC/DC,Back in Black,8.98,cass,2,2019-08-28,X023
+Foreigner,4,8.98,lp,1,2019-08-28,X023
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-08-31,X010
+Rush,Moving Pictures,8.98,cass,1,2019-08-31,X010
+The Cars,The Cars,8.98,lp,5,2019-08-31,X010
+The Who,Who's Next,7.98,cass,2,2019-08-31,X010
+Fleetwood Mac,Rumours,8.98,lp,2,2019-08-31,X010
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-02-04,X001
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-02-04,X001
+Queen,Night at the Opera,7.98,cass,6,2019-02-04,X001
+The Doors,The Doors,7.98,lp,3,2019-02-04,X001
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-02-04,X001
+Bad Company,Bad Company,7.98,cass,7,2019-08-30,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-08-30,X042
+Pink Floyd,The Wall,14.98,cass,6,2019-08-30,X042
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-08-30,X042
+Van Halen,1984,9.98,lp,4,2019-08-30,X042
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-08-16,X028
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-08-16,X028
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-08-16,X028
+Van Halen,1984,9.98,cass,7,2019-08-16,X028
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-08-16,X028
+Def Leppard,Hysteria,9.98,cass,4,2019-03-02,X015
+Eagles,Hotel California,8.98,lp,2,2019-03-02,X015
+The Beatles,Abbey Road,7.98,cass,5,2019-03-02,X015
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-03-02,X015
+The Doors,The Doors,7.98,cass,1,2019-03-02,X015
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-03-02,X015
+The Rolling Stones,Sticky Fingers,7.98,lp,0,2019-09-02,X014
+The Doors,The Doors,7.98,cass,6,2019-09-02,X014
+ZZ Top,Eliminator,9.98,cass,5,2019-09-02,X014
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-06-23,X023
+Steve Miller Band,Fly Like an Eagle,8.98,lp,2,2019-06-23,X023
+The Beatles,Abbey Road,7.98,cass,5,2019-06-23,X023
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-06-23,X023
+Led Zeppelin,IV (untitled),7.98,lp,11,2019-06-23,X023
+Bad Company,Bad Company,7.98,cass,1,2019-06-23,X023
+The Doors,The Doors,7.98,cass,6,2019-06-23,X023
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-08-06,X016
+Bad Company,Bad Company,7.98,cass,8,2019-08-06,X016
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-08-06,X016
+ZZ Top,Eliminator,9.98,cass,1,2019-08-06,X016
+Van Halen,1984,9.98,lp,5,2019-08-06,X016
+Def Leppard,Hysteria,9.98,lp,5,2019-08-06,X016
+Eagles,Hotel California,8.98,cass,4,2019-03-17,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-03-17,X012
+The Beatles,Abbey Road,7.98,lp,8,2019-02-20,X014
+Journey,Escape,8.98,cass,2,2019-02-20,X014
+Foreigner,4,8.98,lp,9,2019-02-20,X014
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-01-25,X023
+Fleetwood Mac,Rumours,8.98,lp,6,2019-01-25,X023
+Boston,Boston,8.98,cass,6,2019-01-25,X023
+Van Halen,1984,9.98,cass,4,2019-01-25,X023
+Heart,Dreamboat Annie,7.98,lp,3,2019-01-25,X023
+Heart,Dreamboat Annie,7.98,cass,6,2019-08-09,X039
+Boston,Boston,8.98,cass,9,2019-08-09,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-06-08,X037
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-06-08,X037
+Journey,Escape,8.98,cass,12,2019-06-08,X037
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-06-08,X037
+AC/DC,Back in Black,8.98,cass,3,2019-02-06,X031
+The Cars,The Cars,8.98,lp,4,2019-02-06,X031
+Pink Floyd,The Wall,14.98,cass,6,2019-02-06,X031
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-02-06,X031
+Pink Floyd,The Wall,14.98,cass,2,2019-02-06,X031
+Fleetwood Mac,Rumours,8.98,cass,5,2019-09-30,X012
+Van Halen,1984,9.98,cass,5,2019-09-30,X012
+The Beatles,Abbey Road,7.98,cass,4,2019-09-30,X012
+Boston,Boston,8.98,cass,3,2019-09-30,X012
+U2,War,9.98,cass,5,2019-08-15,X027
+Queen,Night at the Opera,7.98,cass,3,2019-08-15,X027
+Pink Floyd,The Wall,14.98,cass,3,2019-08-15,X027
+Foreigner,4,8.98,cass,6,2019-08-15,X027
+Def Leppard,Hysteria,9.98,lp,4,2019-08-15,X027
+Pink Floyd,The Wall,14.98,lp,3,2019-08-15,X027
+The Beatles,Abbey Road,7.98,cass,3,2019-08-15,X027
+Van Halen,1984,9.98,cass,6,2019-09-29,X002
+ZZ Top,Eliminator,9.98,cass,6,2019-09-29,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-09-29,X002
+ZZ Top,Eliminator,9.98,cass,5,2019-09-29,X002
+Bad Company,Bad Company,7.98,cass,6,2019-09-29,X002
+Van Halen,1984,9.98,cass,6,2019-09-29,X002
+Foreigner,4,8.98,cass,5,2019-09-29,X002
+Fleetwood Mac,Rumours,8.98,lp,3,2019-12-13,X002
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-12-13,X002
+Boston,Boston,8.98,lp,3,2019-12-13,X002
+Foreigner,4,8.98,lp,8,2019-12-13,X002
+Foreigner,4,8.98,lp,3,2019-12-13,X002
+Van Halen,1984,9.98,cass,7,2019-12-13,X002
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-09-06,X010
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-09-06,X010
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-09-06,X010
+The Cars,The Cars,8.98,cass,4,2019-08-19,X004
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-08-19,X004
+Steve Miller Band,Fly Like an Eagle,8.98,lp,2,2019-08-19,X004
+Pink Floyd,The Wall,14.98,cass,3,2019-08-19,X004
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-19,X004
+Pink Floyd,The Wall,14.98,cass,5,2019-11-20,X040
+Pink Floyd,The Wall,14.98,cass,7,2019-11-20,X040
+Pink Floyd,The Wall,14.98,cass,5,2019-11-20,X040
+ZZ Top,Eliminator,9.98,lp,2,2019-11-20,X040
+Bad Company,Bad Company,7.98,lp,3,2019-11-20,X040
+Bad Company,Bad Company,7.98,cass,3,2019-11-20,X040
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-04-18,X032
+The Beatles,Abbey Road,7.98,lp,4,2019-04-18,X032
+ZZ Top,Eliminator,9.98,cass,8,2019-04-18,X032
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-04-18,X032
+Boston,Boston,8.98,lp,4,2019-04-18,X032
+Led Zeppelin,IV (untitled),7.98,cass,0,2019-08-10,X034
+Eagles,Hotel California,8.98,cass,7,2019-08-10,X034
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-08-10,X034
+The Doors,The Doors,7.98,cass,3,2019-08-10,X034
+The Cars,The Cars,8.98,cass,4,2019-08-19,X003
+Fleetwood Mac,Rumours,8.98,lp,0,2019-08-19,X003
+Foreigner,4,8.98,cass,5,2019-08-19,X003
+The Doors,The Doors,7.98,cass,4,2019-08-19,X003
+U2,War,9.98,lp,3,2019-01-04,X030
+The Doors,The Doors,7.98,cass,4,2019-09-02,X025
+Pink Floyd,The Wall,14.98,cass,5,2019-09-02,X025
+Boston,Boston,8.98,cass,5,2019-09-02,X025
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-02,X025
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-09-02,X025
+Van Halen,1984,9.98,lp,3,2019-09-02,X025
+The Rolling Stones,Sticky Fingers,7.98,cass,0,2019-09-08,X041
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-09-08,X041
+Aerosmith,Toys in the Attic,7.98,cass,0,2019-09-08,X041
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-09-08,X041
+Van Halen,1984,9.98,lp,5,2019-09-08,X041
+Fleetwood Mac,Rumours,8.98,lp,5,2019-09-08,X041
+Fleetwood Mac,Rumours,8.98,lp,4,2019-01-14,X014
+The Beatles,Abbey Road,7.98,cass,2,2019-01-14,X014
+Bad Company,Bad Company,7.98,cass,4,2019-01-14,X014
+The Doors,The Doors,7.98,cass,4,2019-03-25,X044
+Rush,Moving Pictures,8.98,cass,4,2019-03-25,X044
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-03-25,X044
+AC/DC,Back in Black,8.98,lp,4,2019-03-25,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,0,2019-03-25,X044
+Pink Floyd,The Wall,14.98,cass,3,2019-08-13,X031
+Boston,Boston,8.98,cass,5,2019-08-13,X031
+Def Leppard,Hysteria,9.98,lp,3,2019-08-13,X031
+Pink Floyd,The Wall,14.98,lp,2,2019-08-13,X031
+The Doors,The Doors,7.98,cass,4,2019-08-13,X031
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-08-13,X031
+Journey,Escape,8.98,cass,1,2019-08-13,X031
+The Doors,The Doors,7.98,cass,1,2019-11-08,X043
+Heart,Dreamboat Annie,7.98,cass,7,2019-11-08,X043
+The Who,Who's Next,7.98,lp,0,2019-11-08,X043
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-11-08,X043
+The Rolling Stones,Sticky Fingers,7.98,lp,1,2019-11-08,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-11-08,X043
+Heart,Dreamboat Annie,7.98,lp,3,2019-11-08,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-11-08,X043
+Bad Company,Bad Company,7.98,cass,5,2019-11-08,X043
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-08,X043
+Led Zeppelin,IV (untitled),7.98,cass,9,2019-11-08,X043
+Van Halen,1984,9.98,lp,3,2019-01-12,X007
+The Doors,The Doors,7.98,cass,9,2019-01-12,X007
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-01-12,X007
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-08-02,X022
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-08-02,X022
+U2,War,9.98,cass,6,2019-08-02,X022
+Heart,Dreamboat Annie,7.98,cass,4,2019-08-02,X022
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-08-02,X022
+Queen,Night at the Opera,7.98,lp,4,2019-08-02,X022
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-08-02,X022
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-14,X020
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-11-14,X020
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-14,X020
+U2,War,9.98,lp,5,2019-11-14,X020
+Def Leppard,Hysteria,9.98,cass,2,2019-11-14,X020
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-11-14,X020
+Rush,Moving Pictures,8.98,cass,4,2019-11-14,X020
+ZZ Top,Eliminator,9.98,cass,7,2019-11-14,X020
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-18,X030
+Eagles,Hotel California,8.98,cass,5,2019-08-18,X030
+Fleetwood Mac,Rumours,8.98,cass,4,2019-08-18,X030
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-08-18,X030
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-08-18,X030
+Pink Floyd,The Wall,14.98,lp,3,2019-08-18,X030
+Pink Floyd,The Wall,14.98,lp,5,2019-08-18,X030
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-08-18,X030
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-11-23,X014
+Boston,Boston,8.98,cass,3,2019-11-23,X014
+The Cars,The Cars,8.98,lp,6,2019-11-23,X014
+U2,War,9.98,lp,4,2019-11-23,X014
+U2,War,9.98,lp,4,2019-11-23,X014
+The Who,Who's Next,7.98,cass,5,2019-11-23,X014
+AC/DC,Back in Black,8.98,cass,5,2019-11-23,X014
+Journey,Escape,8.98,lp,3,2019-11-23,X014
+Heart,Dreamboat Annie,7.98,lp,8,2019-11-23,X014
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-04-20,X026
+Bad Company,Bad Company,7.98,cass,3,2019-04-20,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-04-20,X026
+AC/DC,Back in Black,8.98,lp,2,2019-04-20,X026
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-12-08,X001
+Lynyrd Skynyrd,Second Helping,7.98,cass,7,2019-12-08,X001
+Aerosmith,Toys in the Attic,7.98,lp,0,2019-11-10,X028
+ZZ Top,Eliminator,9.98,cass,3,2019-11-10,X028
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-11-10,X028
+Foreigner,4,8.98,cass,4,2019-11-10,X028
+Bad Company,Bad Company,7.98,cass,1,2019-01-29,X045
+Pink Floyd,The Wall,14.98,cass,2,2019-01-29,X045
+Foreigner,4,8.98,cass,3,2019-01-29,X045
+Eagles,Hotel California,8.98,lp,4,2019-01-29,X045
+Eagles,Hotel California,8.98,lp,4,2019-05-09,X010
+ZZ Top,Eliminator,9.98,cass,2,2019-05-09,X010
+Foreigner,4,8.98,cass,3,2019-05-09,X010
+The Doors,The Doors,7.98,cass,5,2019-05-09,X010
+AC/DC,Back in Black,8.98,cass,4,2019-05-09,X010
+Heart,Dreamboat Annie,7.98,cass,5,2019-05-09,X010
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-02-18,X044
+Pink Floyd,The Wall,14.98,cass,1,2019-02-18,X044
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-06-18,X036
+Queen,Night at the Opera,7.98,cass,9,2019-06-18,X036
+Def Leppard,Hysteria,9.98,lp,3,2019-06-18,X036
+Boston,Boston,8.98,lp,3,2019-06-18,X036
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-04-10,X013
+The Cars,The Cars,8.98,cass,5,2019-04-10,X013
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-04-10,X013
+Def Leppard,Hysteria,9.98,cass,6,2019-11-05,X027
+Aerosmith,Toys in the Attic,7.98,cass,8,2019-11-05,X027
+Van Halen,1984,9.98,lp,3,2019-11-05,X027
+Queen,Night at the Opera,7.98,lp,3,2019-06-06,X036
+AC/DC,Back in Black,8.98,cass,0,2019-06-06,X036
+The Beatles,Abbey Road,7.98,cass,2,2019-06-06,X036
+The Who,Who's Next,7.98,lp,3,2019-11-17,X023
+Journey,Escape,8.98,cass,6,2019-11-17,X023
+Bad Company,Bad Company,7.98,lp,6,2019-03-15,X002
+The Who,Who's Next,7.98,cass,4,2019-03-15,X002
+The Doors,The Doors,7.98,lp,5,2019-10-08,X037
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-10-08,X037
+Van Halen,1984,9.98,cass,3,2019-10-08,X037
+The Doors,The Doors,7.98,lp,5,2019-10-08,X037
+The Who,Who's Next,7.98,lp,4,2019-10-08,X037
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-10-08,X037
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-10-08,X037
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-05-05,X031
+Eagles,Hotel California,8.98,lp,4,2019-05-05,X031
+Eagles,Hotel California,8.98,cass,5,2019-05-05,X031
+ZZ Top,Eliminator,9.98,cass,4,2019-05-05,X031
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-05,X031
+Def Leppard,Hysteria,9.98,cass,6,2019-08-17,X034
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-08-17,X034
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-08-17,X034
+AC/DC,Back in Black,8.98,lp,3,2019-08-17,X034
+Lynyrd Skynyrd,Second Helping,7.98,cass,7,2019-04-03,X014
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-04-03,X014
+Foreigner,4,8.98,lp,2,2019-04-03,X014
+The Doors,The Doors,7.98,cass,6,2019-04-03,X014
+Foreigner,4,8.98,cass,0,2019-04-03,X014
+Fleetwood Mac,Rumours,8.98,cass,7,2019-04-03,X014
+The Cars,The Cars,8.98,cass,4,2019-04-03,X014
+Def Leppard,Hysteria,9.98,lp,1,2019-08-22,X035
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-06-19,X035
+Journey,Escape,8.98,lp,4,2019-06-19,X035
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-06-19,X035
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-06-19,X035
+Foreigner,4,8.98,cass,5,2019-06-19,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-06-19,X035
+Pink Floyd,The Wall,14.98,lp,5,2019-06-19,X035
+The Doors,The Doors,7.98,cass,6,2019-06-10,X044
+Van Halen,1984,9.98,lp,6,2019-06-10,X044
+ZZ Top,Eliminator,9.98,cass,5,2019-06-10,X044
+Van Halen,1984,9.98,cass,2,2019-06-10,X044
+Queen,Night at the Opera,7.98,cass,6,2019-01-07,X011
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-01-07,X011
+The Doors,The Doors,7.98,cass,5,2019-01-07,X011
+The Doors,The Doors,7.98,cass,1,2019-01-07,X011
+Van Halen,1984,9.98,lp,3,2019-01-07,X011
+The Beatles,Abbey Road,7.98,cass,7,2019-06-12,X012
+Pink Floyd,The Wall,14.98,cass,3,2019-06-12,X012
+Queen,Night at the Opera,7.98,cass,3,2019-06-12,X012
+The Cars,The Cars,8.98,cass,2,2019-06-12,X012
+The Who,Who's Next,7.98,cass,6,2019-06-12,X012
+The Who,Who's Next,7.98,lp,3,2019-06-12,X012
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-08-16,X026
+Queen,Night at the Opera,7.98,cass,4,2019-08-16,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-08-16,X026
+The Beatles,Abbey Road,7.98,cass,6,2019-08-16,X026
+Queen,Night at the Opera,7.98,lp,1,2019-08-16,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-10-20,X014
+Lynyrd Skynyrd,Second Helping,7.98,lp,2,2019-10-20,X014
+Queen,Night at the Opera,7.98,lp,5,2019-10-20,X014
+Rush,Moving Pictures,8.98,lp,5,2019-10-20,X014
+Pink Floyd,The Wall,14.98,lp,4,2019-10-20,X014
+Heart,Dreamboat Annie,7.98,cass,6,2019-03-05,X044
+Van Halen,1984,9.98,cass,4,2019-03-05,X044
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-03-20,X039
+Pink Floyd,The Wall,14.98,cass,5,2019-03-20,X039
+ZZ Top,Eliminator,9.98,cass,0,2019-02-13,X015
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-02-13,X015
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-02-13,X015
+Fleetwood Mac,Rumours,8.98,lp,3,2019-02-13,X015
+Pink Floyd,The Wall,14.98,cass,5,2019-03-18,X031
+Boston,Boston,8.98,lp,5,2019-03-18,X031
+The Who,Who's Next,7.98,lp,3,2019-01-27,X032
+AC/DC,Back in Black,8.98,cass,6,2019-01-27,X032
+The Beatles,Abbey Road,7.98,cass,3,2019-05-22,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-05-22,X044
+Van Halen,1984,9.98,cass,3,2019-05-22,X044
+Van Halen,1984,9.98,cass,4,2019-05-22,X044
+The Cars,The Cars,8.98,lp,5,2019-05-22,X044
+The Doors,The Doors,7.98,cass,5,2019-05-22,X044
+Van Halen,1984,9.98,cass,4,2019-05-22,X044
+The Rolling Stones,Sticky Fingers,7.98,lp,9,2019-05-22,X044
+AC/DC,Back in Black,8.98,cass,3,2019-05-22,X044
+Steve Miller Band,Fly Like an Eagle,8.98,cass,1,2019-05-22,X044
+Def Leppard,Hysteria,9.98,lp,3,2019-02-08,X031
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-02-08,X031
+Pink Floyd,The Wall,14.98,lp,6,2019-02-08,X031
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-02-08,X031
+The Who,Who's Next,7.98,lp,6,2019-02-08,X031
+Pink Floyd,The Wall,14.98,cass,6,2019-07-20,X027
+Fleetwood Mac,Rumours,8.98,cass,5,2019-07-20,X027
+The Who,Who's Next,7.98,cass,7,2019-07-20,X027
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-01-23,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,10,2019-01-23,X042
+Van Halen,1984,9.98,cass,5,2019-01-23,X042
+Eagles,Hotel California,8.98,lp,1,2019-01-23,X042
+Van Halen,1984,9.98,cass,2,2019-11-18,X004
+AC/DC,Back in Black,8.98,cass,3,2019-11-18,X004
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-11-18,X004
+The Beatles,Abbey Road,7.98,cass,4,2019-11-18,X004
+The Doors,The Doors,7.98,lp,8,2019-11-18,X004
+Queen,Night at the Opera,7.98,cass,2,2019-11-18,X004
+Rush,Moving Pictures,8.98,cass,5,2019-11-18,X004
+Journey,Escape,8.98,lp,4,2019-11-18,X004
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-11-18,X004
+U2,War,9.98,cass,6,2019-12-25,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-12-25,X023
+Foreigner,4,8.98,cass,4,2019-12-25,X023
+Boston,Boston,8.98,cass,6,2019-12-25,X023
+Pink Floyd,The Wall,14.98,cass,3,2019-12-25,X023
+Van Halen,1984,9.98,cass,3,2019-12-25,X023
+Heart,Dreamboat Annie,7.98,cass,5,2019-12-25,X023
+ZZ Top,Eliminator,9.98,lp,3,2019-12-25,X023
+The Cars,The Cars,8.98,lp,0,2019-12-25,X023
+AC/DC,Back in Black,8.98,cass,3,2019-12-25,X023
+AC/DC,Back in Black,8.98,lp,2,2019-11-06,X029
+Van Halen,1984,9.98,lp,1,2019-11-06,X029
+AC/DC,Back in Black,8.98,lp,0,2019-11-06,X029
+ZZ Top,Eliminator,9.98,cass,4,2019-11-06,X029
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-11-06,X029
+Van Halen,1984,9.98,lp,10,2019-11-06,X029
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-11-06,X029
+Bad Company,Bad Company,7.98,cass,5,2019-02-07,X010
+AC/DC,Back in Black,8.98,lp,6,2019-02-07,X010
+ZZ Top,Eliminator,9.98,lp,6,2019-07-02,X044
+Bad Company,Bad Company,7.98,cass,1,2019-07-02,X044
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-07-02,X044
+Pink Floyd,The Wall,14.98,cass,4,2019-07-02,X044
+The Who,Who's Next,7.98,cass,5,2019-07-02,X044
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-04-27,X037
+Queen,Night at the Opera,7.98,cass,3,2019-04-27,X037
+Def Leppard,Hysteria,9.98,cass,1,2019-04-27,X037
+The Cars,The Cars,8.98,cass,2,2019-04-27,X037
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-04-27,X037
+Pink Floyd,The Wall,14.98,cass,0,2019-04-27,X037
+Foreigner,4,8.98,cass,5,2019-04-27,X037
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-07-06,X009
+The Doors,The Doors,7.98,cass,5,2019-07-06,X009
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-07-06,X009
+Boston,Boston,8.98,lp,7,2019-07-06,X009
+Eagles,Hotel California,8.98,cass,0,2019-07-09,X008
+Boston,Boston,8.98,cass,7,2019-07-09,X008
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-07-09,X008
+The Cars,The Cars,8.98,lp,4,2019-01-14,X035
+ZZ Top,Eliminator,9.98,lp,8,2019-01-14,X035
+The Beatles,Abbey Road,7.98,lp,4,2019-01-14,X035
+Boston,Boston,8.98,cass,6,2019-01-14,X035
+The Beatles,Abbey Road,7.98,cass,8,2019-03-03,X023
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-03-03,X023
+The Cars,The Cars,8.98,lp,4,2019-03-03,X023
+Foreigner,4,8.98,cass,7,2019-03-03,X023
+Boston,Boston,8.98,cass,2,2019-03-03,X023
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-09-30,X023
+Van Halen,1984,9.98,cass,2,2019-09-30,X023
+Lynyrd Skynyrd,Second Helping,7.98,cass,1,2019-09-30,X023
+Foreigner,4,8.98,cass,2,2019-09-30,X023
+Def Leppard,Hysteria,9.98,cass,7,2019-09-30,X023
+Bad Company,Bad Company,7.98,cass,2,2019-09-30,X023
+The Cars,The Cars,8.98,lp,3,2019-08-21,X022
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-08-21,X022
+Queen,Night at the Opera,7.98,cass,6,2019-08-21,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-08-21,X022
+AC/DC,Back in Black,8.98,lp,6,2019-08-21,X022
+Van Halen,1984,9.98,lp,2,2019-08-21,X022
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-06-29,X004
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-06-29,X004
+The Beatles,Abbey Road,7.98,lp,5,2019-06-29,X004
+Van Halen,1984,9.98,cass,4,2019-06-29,X004
+Van Halen,1984,9.98,cass,7,2019-11-30,X045
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-30,X045
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-11-30,X045
+Boston,Boston,8.98,cass,2,2019-11-30,X045
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-30,X045
+ZZ Top,Eliminator,9.98,lp,8,2019-11-30,X045
+The Cars,The Cars,8.98,cass,4,2019-11-30,X045
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-11-30,X045
+U2,War,9.98,cass,1,2019-11-30,X045
+Def Leppard,Hysteria,9.98,cass,5,2019-11-30,X045
+The Cars,The Cars,8.98,cass,4,2019-04-13,X017
+Pink Floyd,The Wall,14.98,cass,3,2019-04-13,X017
+Journey,Escape,8.98,lp,4,2019-04-13,X017
+Queen,Night at the Opera,7.98,cass,3,2019-04-13,X017
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-04-13,X017
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-04-13,X017
+Def Leppard,Hysteria,9.98,lp,4,2019-04-13,X017
+Steve Miller Band,Fly Like an Eagle,8.98,lp,3,2019-10-01,X042
+The Beatles,Abbey Road,7.98,cass,4,2019-10-01,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-10-01,X042
+The Doors,The Doors,7.98,cass,2,2019-10-01,X042
+Journey,Escape,8.98,cass,3,2019-12-09,X005
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-12-09,X005
+Def Leppard,Hysteria,9.98,cass,5,2019-12-09,X005
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-04-03,X015
+The Beatles,Abbey Road,7.98,lp,6,2019-04-03,X015
+AC/DC,Back in Black,8.98,lp,3,2019-04-03,X015
+The Cars,The Cars,8.98,cass,6,2019-04-03,X015
+Pink Floyd,The Wall,14.98,cass,6,2019-04-03,X015
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-09-30,X026
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-09-30,X026
+The Beatles,Abbey Road,7.98,cass,4,2019-09-30,X026
+Eagles,Hotel California,8.98,cass,6,2019-09-30,X026
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-30,X026
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-29,X010
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-03-29,X010
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-03-29,X010
+Heart,Dreamboat Annie,7.98,lp,5,2019-03-29,X010
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-03-29,X010
+The Who,Who's Next,7.98,lp,5,2019-03-21,X009
+The Beatles,Abbey Road,7.98,cass,4,2019-03-21,X009
+Queen,Night at the Opera,7.98,lp,3,2019-03-21,X009
+U2,War,9.98,cass,3,2019-03-21,X009
+The Beatles,Abbey Road,7.98,lp,5,2019-09-29,X019
+The Cars,The Cars,8.98,cass,2,2019-09-29,X019
+Queen,Night at the Opera,7.98,lp,2,2019-09-29,X019
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-09-29,X019
+U2,War,9.98,cass,1,2019-08-14,X045
+The Doors,The Doors,7.98,lp,2,2019-08-14,X045
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-06-17,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-06-17,X026
+Fleetwood Mac,Rumours,8.98,cass,2,2019-06-17,X026
+The Beatles,Abbey Road,7.98,cass,7,2019-06-17,X026
+U2,War,9.98,cass,4,2019-06-17,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-06-17,X026
+Foreigner,4,8.98,lp,1,2019-06-17,X026
+The Who,Who's Next,7.98,lp,5,2019-06-17,X026
+Boston,Boston,8.98,cass,3,2019-06-17,X026
+Eagles,Hotel California,8.98,cass,4,2019-06-17,X026
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-06-17,X026
+Van Halen,1984,9.98,cass,3,2019-05-09,X038
+Fleetwood Mac,Rumours,8.98,cass,3,2019-05-09,X038
+Journey,Escape,8.98,cass,7,2019-05-09,X038
+Van Halen,1984,9.98,cass,0,2019-05-09,X038
+Bad Company,Bad Company,7.98,cass,2,2019-05-09,X038
+Boston,Boston,8.98,cass,2,2019-12-30,X043
+Pink Floyd,The Wall,14.98,cass,5,2019-12-30,X043
+Van Halen,1984,9.98,lp,1,2019-12-30,X043
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-12-30,X043
+Queen,Night at the Opera,7.98,cass,3,2019-12-30,X043
+Rush,Moving Pictures,8.98,cass,4,2019-12-30,X043
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-27,X039
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-07-27,X039
+Bad Company,Bad Company,7.98,lp,2,2019-07-27,X039
+AC/DC,Back in Black,8.98,cass,5,2019-07-27,X039
+Def Leppard,Hysteria,9.98,cass,6,2019-01-30,X028
+Boston,Boston,8.98,lp,4,2019-01-30,X028
+Boston,Boston,8.98,cass,5,2019-01-30,X028
+Van Halen,1984,9.98,cass,5,2019-01-30,X028
+Heart,Dreamboat Annie,7.98,lp,1,2019-01-30,X028
+Queen,Night at the Opera,7.98,cass,1,2019-10-26,X004
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-10-26,X004
+Journey,Escape,8.98,cass,4,2019-10-26,X004
+U2,War,9.98,cass,4,2019-10-26,X004
+Aerosmith,Toys in the Attic,7.98,cass,7,2019-10-26,X004
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-17,X002
+Eagles,Hotel California,8.98,cass,6,2019-05-17,X002
+Foreigner,4,8.98,cass,6,2019-05-17,X002
+Aerosmith,Toys in the Attic,7.98,lp,1,2019-05-17,X002
+Led Zeppelin,IV (untitled),7.98,lp,0,2019-05-17,X002
+U2,War,9.98,cass,6,2019-05-17,X002
+The Beatles,Abbey Road,7.98,cass,2,2019-01-19,X008
+Def Leppard,Hysteria,9.98,cass,4,2019-01-19,X008
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-03-24,X001
+AC/DC,Back in Black,8.98,cass,3,2019-03-24,X001
+Lynyrd Skynyrd,Second Helping,7.98,lp,5,2019-03-24,X001
+ZZ Top,Eliminator,9.98,lp,3,2019-05-30,X025
+The Who,Who's Next,7.98,cass,6,2019-05-30,X025
+Led Zeppelin,IV (untitled),7.98,lp,8,2019-05-30,X025
+The Beatles,Abbey Road,7.98,cass,4,2019-05-30,X025
+Bad Company,Bad Company,7.98,cass,7,2019-05-30,X025
+Aerosmith,Toys in the Attic,7.98,lp,7,2019-05-30,X025
+Rush,Moving Pictures,8.98,lp,8,2019-07-30,X008
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-07-30,X008
+Led Zeppelin,IV (untitled),7.98,cass,10,2019-07-30,X008
+Foreigner,4,8.98,cass,5,2019-07-30,X008
+The Rolling Stones,Sticky Fingers,7.98,lp,1,2019-07-30,X008
+The Who,Who's Next,7.98,lp,8,2019-07-30,X008
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-06-07,X027
+AC/DC,Back in Black,8.98,cass,6,2019-06-07,X027
+Lynyrd Skynyrd,Second Helping,7.98,lp,5,2019-06-07,X027
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-06-07,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-06-07,X027
+Van Halen,1984,9.98,lp,3,2019-06-07,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-06-07,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-10-14,X034
+Boston,Boston,8.98,cass,4,2019-10-14,X034
+Van Halen,1984,9.98,lp,4,2019-10-14,X034
+Rush,Moving Pictures,8.98,cass,7,2019-10-14,X034
+Van Halen,1984,9.98,lp,2,2019-10-14,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-10-14,X034
+Journey,Escape,8.98,cass,8,2019-02-20,X018
+Def Leppard,Hysteria,9.98,cass,1,2019-02-20,X018
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-02-20,X018
+Journey,Escape,8.98,lp,3,2019-02-20,X018
+The Who,Who's Next,7.98,cass,4,2019-02-20,X018
+Boston,Boston,8.98,cass,3,2019-02-20,X018
+The Who,Who's Next,7.98,cass,6,2019-07-17,X015
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-07-17,X015
+AC/DC,Back in Black,8.98,cass,5,2019-07-17,X015
+U2,War,9.98,cass,5,2019-05-31,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-05-31,X032
+AC/DC,Back in Black,8.98,cass,5,2019-05-31,X032
+The Beatles,Abbey Road,7.98,cass,4,2019-05-31,X032
+Van Halen,1984,9.98,lp,4,2019-05-31,X032
+Pink Floyd,The Wall,14.98,cass,7,2019-04-12,X040
+Def Leppard,Hysteria,9.98,lp,9,2019-04-12,X040
+The Beatles,Abbey Road,7.98,cass,6,2019-04-12,X040
+The Cars,The Cars,8.98,lp,3,2019-04-12,X040
+Van Halen,1984,9.98,lp,1,2019-04-12,X040
+AC/DC,Back in Black,8.98,lp,2,2019-04-12,X040
+The Beatles,Abbey Road,7.98,cass,3,2019-04-12,X040
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-04-12,X040
+Pink Floyd,The Wall,14.98,cass,3,2019-04-12,X040
+Rush,Moving Pictures,8.98,lp,2,2019-04-12,X040
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-04-12,X040
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-04-12,X040
+U2,War,9.98,cass,4,2019-07-01,X031
+Queen,Night at the Opera,7.98,lp,1,2019-07-01,X031
+Pink Floyd,The Wall,14.98,cass,4,2019-07-01,X031
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-01,X031
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-07-01,X031
+The Cars,The Cars,8.98,cass,3,2019-05-26,X010
+The Rolling Stones,Sticky Fingers,7.98,lp,1,2019-05-26,X010
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-05-26,X010
+Van Halen,1984,9.98,cass,4,2019-05-26,X010
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-03-28,X003
+Van Halen,1984,9.98,cass,5,2019-03-28,X003
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-03-28,X003
+Foreigner,4,8.98,cass,3,2019-03-28,X003
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-03-28,X003
+The Beatles,Abbey Road,7.98,lp,3,2019-11-30,X010
+Van Halen,1984,9.98,cass,2,2019-11-30,X010
+U2,War,9.98,lp,1,2019-11-30,X010
+The Doors,The Doors,7.98,cass,2,2019-06-20,X007
+Bad Company,Bad Company,7.98,lp,6,2019-06-20,X007
+Journey,Escape,8.98,cass,1,2019-06-20,X007
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-06-20,X007
+Van Halen,1984,9.98,cass,2,2019-06-20,X007
+The Cars,The Cars,8.98,cass,4,2019-06-20,X007
+Foreigner,4,8.98,cass,0,2019-03-17,X019
+Def Leppard,Hysteria,9.98,cass,6,2019-03-17,X019
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-03-17,X019
+Eagles,Hotel California,8.98,cass,3,2019-03-17,X019
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-03-17,X019
+AC/DC,Back in Black,8.98,cass,4,2019-04-09,X021
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-04-09,X021
+Fleetwood Mac,Rumours,8.98,cass,7,2019-04-09,X021
+The Doors,The Doors,7.98,lp,5,2019-04-09,X021
+The Beatles,Abbey Road,7.98,lp,5,2019-04-09,X021
+The Cars,The Cars,8.98,cass,3,2019-04-09,X021
+Def Leppard,Hysteria,9.98,cass,2,2019-04-09,X021
+ZZ Top,Eliminator,9.98,cass,5,2019-10-05,X045
+Lynyrd Skynyrd,Second Helping,7.98,lp,7,2019-10-05,X045
+Def Leppard,Hysteria,9.98,lp,5,2019-10-05,X045
+Van Halen,1984,9.98,cass,6,2019-10-05,X045
+Van Halen,1984,9.98,lp,3,2019-10-05,X045
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-10-05,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-02-15,X011
+Foreigner,4,8.98,cass,8,2019-02-15,X011
+Journey,Escape,8.98,cass,4,2019-02-15,X011
+Pink Floyd,The Wall,14.98,cass,1,2019-02-15,X011
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-02-15,X011
+Eagles,Hotel California,8.98,cass,5,2019-02-15,X011
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-17,X018
+AC/DC,Back in Black,8.98,cass,5,2019-03-17,X018
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-03-17,X018
+Rush,Moving Pictures,8.98,cass,7,2019-03-19,X017
+The Cars,The Cars,8.98,cass,4,2019-03-19,X017
+The Beatles,Abbey Road,7.98,cass,3,2019-03-19,X017
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-08-13,X008
+Van Halen,1984,9.98,lp,4,2019-08-13,X008
+Rush,Moving Pictures,8.98,cass,6,2019-08-13,X008
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-08-13,X008
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-06-15,X038
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-06-15,X038
+AC/DC,Back in Black,8.98,cass,6,2019-06-15,X038
+Rush,Moving Pictures,8.98,cass,1,2019-06-15,X038
+Def Leppard,Hysteria,9.98,cass,4,2019-03-01,X043
+Journey,Escape,8.98,cass,3,2019-01-30,X016
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-01-30,X016
+Van Halen,1984,9.98,cass,6,2019-01-30,X016
+The Doors,The Doors,7.98,cass,5,2019-01-30,X016
+Queen,Night at the Opera,7.98,cass,4,2019-07-31,X031
+Eagles,Hotel California,8.98,cass,5,2019-07-31,X031
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-07-31,X031
+The Doors,The Doors,7.98,cass,2,2019-07-31,X031
+The Cars,The Cars,8.98,cass,5,2019-07-31,X031
+Rush,Moving Pictures,8.98,lp,3,2019-07-31,X031
+Van Halen,1984,9.98,lp,5,2019-07-31,X031
+The Doors,The Doors,7.98,cass,6,2019-08-29,X019
+The Beatles,Abbey Road,7.98,lp,2,2019-08-29,X019
+Pink Floyd,The Wall,14.98,cass,5,2019-08-29,X019
+Queen,Night at the Opera,7.98,lp,5,2019-08-29,X019
+Rush,Moving Pictures,8.98,lp,7,2019-10-12,X009
+AC/DC,Back in Black,8.98,cass,7,2019-10-12,X009
+The Who,Who's Next,7.98,cass,5,2019-07-22,X034
+Boston,Boston,8.98,lp,2,2019-07-22,X034
+Journey,Escape,8.98,lp,2,2019-07-22,X034
+Pink Floyd,The Wall,14.98,lp,6,2019-07-22,X034
+Bad Company,Bad Company,7.98,cass,7,2019-07-22,X034
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-07-22,X034
+AC/DC,Back in Black,8.98,cass,4,2019-07-22,X034
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-07-22,X034
+Fleetwood Mac,Rumours,8.98,cass,4,2019-07-22,X034
+Van Halen,1984,9.98,cass,8,2019-07-22,X034
+The Who,Who's Next,7.98,cass,5,2019-10-14,X035
+The Beatles,Abbey Road,7.98,cass,1,2019-10-14,X035
+Van Halen,1984,9.98,cass,6,2019-10-14,X035
+Pink Floyd,The Wall,14.98,cass,4,2019-10-14,X035
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-10-14,X035
+Eagles,Hotel California,8.98,cass,3,2019-12-17,X029
+The Who,Who's Next,7.98,cass,12,2019-12-17,X029
+Pink Floyd,The Wall,14.98,cass,5,2019-12-17,X029
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-12-17,X029
+The Cars,The Cars,8.98,cass,2,2019-07-07,X038
+Journey,Escape,8.98,lp,5,2019-07-07,X038
+ZZ Top,Eliminator,9.98,cass,5,2019-07-07,X038
+Foreigner,4,8.98,lp,8,2019-07-07,X038
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-07-07,X038
+U2,War,9.98,lp,8,2019-07-07,X038
+Journey,Escape,8.98,cass,5,2019-02-22,X030
+Bad Company,Bad Company,7.98,cass,3,2019-02-22,X030
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-02-22,X030
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-02-22,X030
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-10-18,X021
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-10-18,X021
+The Beatles,Abbey Road,7.98,cass,1,2019-10-18,X021
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-10-18,X021
+Queen,Night at the Opera,7.98,cass,4,2019-10-18,X021
+ZZ Top,Eliminator,9.98,lp,3,2019-10-18,X021
+Foreigner,4,8.98,cass,5,2019-10-18,X021
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-10-18,X021
+The Doors,The Doors,7.98,lp,5,2019-10-18,X021
+U2,War,9.98,lp,5,2019-10-18,X021
+Pink Floyd,The Wall,14.98,cass,3,2019-10-07,X034
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-10-07,X034
+Pink Floyd,The Wall,14.98,lp,4,2019-10-07,X034
+ZZ Top,Eliminator,9.98,lp,3,2019-10-07,X034
+The Beatles,Abbey Road,7.98,cass,6,2019-10-07,X034
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-04-29,X008
+Journey,Escape,8.98,cass,7,2019-05-26,X004
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-05-26,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,0,2019-05-26,X004
+U2,War,9.98,lp,6,2019-05-26,X004
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-07-11,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-07-11,X039
+U2,War,9.98,cass,5,2019-07-11,X039
+Journey,Escape,8.98,cass,7,2019-07-11,X039
+Foreigner,4,8.98,cass,4,2019-06-25,X001
+The Who,Who's Next,7.98,cass,3,2019-06-25,X001
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-06-25,X001
+Boston,Boston,8.98,cass,8,2019-06-25,X001
+ZZ Top,Eliminator,9.98,lp,3,2019-06-25,X001
+Def Leppard,Hysteria,9.98,cass,3,2019-06-25,X001
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-03-17,X004
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-03-17,X004
+Van Halen,1984,9.98,lp,2,2019-03-17,X004
+The Who,Who's Next,7.98,cass,5,2019-03-17,X004
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-08-02,X012
+ZZ Top,Eliminator,9.98,cass,6,2019-08-02,X012
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-08-02,X012
+The Who,Who's Next,7.98,cass,5,2019-08-02,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-08-02,X012
+Def Leppard,Hysteria,9.98,cass,3,2019-08-02,X012
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-08-02,X012
+Boston,Boston,8.98,cass,3,2019-08-02,X012
+Foreigner,4,8.98,cass,5,2019-08-02,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-05,X012
+The Doors,The Doors,7.98,lp,1,2019-04-17,X015
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-04-17,X015
+Van Halen,1984,9.98,cass,4,2019-04-17,X015
+Led Zeppelin,IV (untitled),7.98,lp,0,2019-04-17,X015
+The Doors,The Doors,7.98,cass,3,2019-04-17,X015
+Bad Company,Bad Company,7.98,cass,3,2019-04-17,X015
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-12-12,X030
+U2,War,9.98,lp,4,2019-12-12,X030
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-12-12,X030
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-12-12,X030
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-12-12,X030
+Journey,Escape,8.98,lp,4,2019-12-12,X030
+The Who,Who's Next,7.98,lp,4,2019-12-12,X030
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-12-12,X030
+Rush,Moving Pictures,8.98,cass,4,2019-12-12,X030
+Van Halen,1984,9.98,lp,4,2019-07-28,X002
+Foreigner,4,8.98,lp,1,2019-07-28,X002
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-07-28,X002
+Rush,Moving Pictures,8.98,cass,3,2019-08-21,X026
+The Doors,The Doors,7.98,lp,3,2019-08-21,X026
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-08-21,X026
+Van Halen,1984,9.98,cass,3,2019-08-21,X026
+AC/DC,Back in Black,8.98,cass,4,2019-08-21,X026
+Pink Floyd,The Wall,14.98,cass,3,2019-05-09,X041
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-09,X041
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-11-19,X038
+Journey,Escape,8.98,cass,3,2019-11-19,X038
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-11-19,X038
+Fleetwood Mac,Rumours,8.98,cass,9,2019-11-19,X038
+Bad Company,Bad Company,7.98,lp,3,2019-11-19,X038
+Eagles,Hotel California,8.98,lp,3,2019-11-19,X038
+The Doors,The Doors,7.98,cass,2,2019-11-19,X038
+The Beatles,Abbey Road,7.98,cass,2,2019-11-19,X038
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-11-19,X038
+Bad Company,Bad Company,7.98,cass,5,2019-08-31,X002
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-08-31,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-08-31,X002
+The Cars,The Cars,8.98,lp,5,2019-08-31,X002
+Queen,Night at the Opera,7.98,cass,3,2019-08-29,X006
+Van Halen,1984,9.98,cass,7,2019-08-29,X006
+Van Halen,1984,9.98,cass,5,2019-08-29,X006
+The Who,Who's Next,7.98,cass,6,2019-08-29,X006
+Queen,Night at the Opera,7.98,cass,2,2019-08-29,X006
+Van Halen,1984,9.98,lp,2,2019-08-29,X006
+ZZ Top,Eliminator,9.98,lp,3,2019-11-19,X037
+Eagles,Hotel California,8.98,cass,7,2019-11-19,X037
+Journey,Escape,8.98,lp,4,2019-11-19,X037
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-11-19,X037
+AC/DC,Back in Black,8.98,cass,1,2019-11-19,X037
+Queen,Night at the Opera,7.98,lp,5,2019-06-27,X044
+Eagles,Hotel California,8.98,lp,5,2019-06-27,X044
+Foreigner,4,8.98,lp,5,2019-06-27,X044
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-06-27,X044
+Fleetwood Mac,Rumours,8.98,lp,4,2019-04-07,X004
+Lynyrd Skynyrd,Second Helping,7.98,lp,3,2019-04-07,X004
+AC/DC,Back in Black,8.98,lp,4,2019-04-07,X004
+Rush,Moving Pictures,8.98,cass,4,2019-04-07,X004
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-08-06,X016
+Queen,Night at the Opera,7.98,cass,7,2019-08-06,X016
+AC/DC,Back in Black,8.98,cass,8,2019-08-06,X016
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-06,X016
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-09-12,X038
+The Doors,The Doors,7.98,cass,2,2019-09-12,X038
+Eagles,Hotel California,8.98,cass,5,2019-09-12,X038
+The Who,Who's Next,7.98,cass,0,2019-09-12,X038
+Queen,Night at the Opera,7.98,cass,5,2019-02-14,X024
+Journey,Escape,8.98,cass,8,2019-02-14,X024
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-02-14,X024
+Def Leppard,Hysteria,9.98,cass,8,2019-02-14,X024
+Pink Floyd,The Wall,14.98,cass,4,2019-02-14,X024
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-30,X019
+Queen,Night at the Opera,7.98,cass,6,2019-11-30,X019
+AC/DC,Back in Black,8.98,cass,3,2019-11-30,X019
+The Beatles,Abbey Road,7.98,cass,2,2019-11-30,X019
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-11-30,X019
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-11-30,X019
+Aerosmith,Toys in the Attic,7.98,cass,8,2019-01-17,X010
+The Doors,The Doors,7.98,cass,2,2019-01-17,X010
+Foreigner,4,8.98,cass,2,2019-01-17,X010
+U2,War,9.98,cass,6,2019-01-17,X010
+Boston,Boston,8.98,lp,4,2019-01-17,X010
+The Beatles,Abbey Road,7.98,cass,5,2019-01-17,X010
+Queen,Night at the Opera,7.98,lp,6,2019-01-17,X010
+Boston,Boston,8.98,cass,5,2019-01-17,X010
+Pink Floyd,The Wall,14.98,cass,0,2019-01-17,X010
+The Beatles,Abbey Road,7.98,cass,2,2019-01-17,X010
+Pink Floyd,The Wall,14.98,cass,2,2019-02-12,X034
+Journey,Escape,8.98,lp,2,2019-02-12,X034
+Fleetwood Mac,Rumours,8.98,lp,3,2019-02-12,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-02-12,X034
+Van Halen,1984,9.98,cass,4,2019-10-18,X020
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-10-18,X020
+The Beatles,Abbey Road,7.98,lp,4,2019-10-18,X020
+Rush,Moving Pictures,8.98,lp,1,2019-10-18,X020
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-10-18,X020
+The Who,Who's Next,7.98,cass,5,2019-10-18,X020
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-06-23,X004
+Eagles,Hotel California,8.98,cass,3,2019-06-23,X004
+The Cars,The Cars,8.98,cass,7,2019-06-23,X004
+Van Halen,1984,9.98,lp,4,2019-06-23,X004
+Rush,Moving Pictures,8.98,cass,0,2019-06-23,X004
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-03-20,X015
+ZZ Top,Eliminator,9.98,cass,6,2019-03-20,X015
+Boston,Boston,8.98,cass,4,2019-03-20,X015
+ZZ Top,Eliminator,9.98,lp,4,2019-03-20,X015
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-02-07,X043
+Foreigner,4,8.98,cass,4,2019-02-07,X043
+The Doors,The Doors,7.98,cass,3,2019-02-07,X043
+U2,War,9.98,cass,9,2019-02-07,X043
+Pink Floyd,The Wall,14.98,cass,4,2019-02-07,X043
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-08-16,X027
+Bad Company,Bad Company,7.98,cass,2,2019-08-16,X027
+Van Halen,1984,9.98,lp,6,2019-08-16,X027
+The Beatles,Abbey Road,7.98,cass,4,2019-11-29,X016
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-11-29,X016
+Fleetwood Mac,Rumours,8.98,cass,7,2019-11-29,X016
+Boston,Boston,8.98,cass,2,2019-11-29,X016
+Rush,Moving Pictures,8.98,cass,8,2019-11-29,X016
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-29,X016
+Fleetwood Mac,Rumours,8.98,lp,4,2019-11-29,X016
+U2,War,9.98,cass,1,2019-02-03,X027
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-02-03,X027
+Queen,Night at the Opera,7.98,cass,5,2019-02-03,X027
+Lynyrd Skynyrd,Second Helping,7.98,cass,7,2019-10-07,X043
+ZZ Top,Eliminator,9.98,cass,3,2019-10-07,X043
+AC/DC,Back in Black,8.98,lp,2,2019-10-07,X043
+The Who,Who's Next,7.98,lp,7,2019-10-07,X043
+AC/DC,Back in Black,8.98,cass,6,2019-10-07,X043
+AC/DC,Back in Black,8.98,cass,12,2019-10-07,X043
+Pink Floyd,The Wall,14.98,cass,7,2019-10-07,X043
+Pink Floyd,The Wall,14.98,cass,4,2019-11-23,X025
+Van Halen,1984,9.98,cass,7,2019-03-17,X032
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-03-17,X032
+The Beatles,Abbey Road,7.98,lp,3,2019-03-17,X032
+Van Halen,1984,9.98,lp,4,2019-03-17,X032
+Rush,Moving Pictures,8.98,cass,1,2019-06-02,X031
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-06-02,X031
+Def Leppard,Hysteria,9.98,cass,3,2019-06-02,X031
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-06-02,X031
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-12-20,X024
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-12-20,X024
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-12-20,X024
+Boston,Boston,8.98,lp,4,2019-12-20,X024
+The Doors,The Doors,7.98,lp,5,2019-12-20,X024
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-12-20,X024
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-12-20,X024
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-10,X039
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-11-10,X039
+Pink Floyd,The Wall,14.98,lp,5,2019-11-10,X039
+Fleetwood Mac,Rumours,8.98,cass,2,2019-11-10,X039
+The Beatles,Abbey Road,7.98,cass,4,2019-11-10,X039
+Van Halen,1984,9.98,lp,4,2019-11-10,X039
+Rush,Moving Pictures,8.98,lp,4,2019-11-10,X039
+The Doors,The Doors,7.98,cass,0,2019-04-28,X002
+Eagles,Hotel California,8.98,cass,4,2019-04-28,X002
+The Who,Who's Next,7.98,cass,5,2019-04-28,X002
+ZZ Top,Eliminator,9.98,lp,6,2019-04-28,X002
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-04-28,X002
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-04-28,X002
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-05-23,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-05-23,X013
+Def Leppard,Hysteria,9.98,cass,3,2019-05-23,X013
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-05-23,X013
+The Beatles,Abbey Road,7.98,cass,2,2019-06-19,X037
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-06-19,X037
+AC/DC,Back in Black,8.98,lp,5,2019-06-19,X037
+The Who,Who's Next,7.98,cass,4,2019-06-19,X037
+Eagles,Hotel California,8.98,cass,4,2019-06-19,X037
+U2,War,9.98,cass,7,2019-12-07,X012
+Queen,Night at the Opera,7.98,lp,3,2019-12-07,X012
+Journey,Escape,8.98,cass,6,2019-12-07,X012
+Boston,Boston,8.98,cass,3,2019-12-07,X012
+U2,War,9.98,cass,6,2019-12-07,X012
+Van Halen,1984,9.98,lp,6,2019-09-05,X035
+Fleetwood Mac,Rumours,8.98,cass,4,2019-09-05,X035
+Queen,Night at the Opera,7.98,cass,8,2019-09-05,X035
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-09-05,X035
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-09-05,X035
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-04-24,X001
+The Cars,The Cars,8.98,lp,2,2019-04-24,X001
+The Who,Who's Next,7.98,lp,1,2019-04-24,X001
+Bad Company,Bad Company,7.98,cass,4,2019-04-24,X001
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-04-24,X001
+Def Leppard,Hysteria,9.98,cass,4,2019-12-06,X031
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-12-06,X031
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-12-06,X031
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-01-21,X016
+U2,War,9.98,lp,7,2019-01-21,X016
+Pink Floyd,The Wall,14.98,lp,3,2019-01-21,X016
+Journey,Escape,8.98,cass,3,2019-03-24,X021
+Heart,Dreamboat Annie,7.98,cass,7,2019-03-24,X021
+The Who,Who's Next,7.98,cass,3,2019-03-24,X021
+Boston,Boston,8.98,lp,2,2019-03-24,X021
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-24,X021
+The Who,Who's Next,7.98,cass,3,2019-09-22,X031
+Van Halen,1984,9.98,lp,2,2019-09-22,X031
+Heart,Dreamboat Annie,7.98,cass,1,2019-09-22,X031
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-09-22,X031
+The Doors,The Doors,7.98,lp,7,2019-09-22,X031
+AC/DC,Back in Black,8.98,lp,4,2019-09-22,X031
+Pink Floyd,The Wall,14.98,lp,5,2019-09-22,X031
+ZZ Top,Eliminator,9.98,cass,4,2019-12-09,X042
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-12-09,X042
+Def Leppard,Hysteria,9.98,cass,4,2019-12-09,X042
+U2,War,9.98,cass,3,2019-12-09,X042
+The Who,Who's Next,7.98,lp,5,2019-12-09,X042
+Van Halen,1984,9.98,lp,7,2019-12-09,X042
+Foreigner,4,8.98,cass,2,2019-12-09,X042
+The Doors,The Doors,7.98,cass,4,2019-12-09,X042
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-12-09,X042
+AC/DC,Back in Black,8.98,lp,10,2019-12-09,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-12-09,X042
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-01-14,X012
+Eagles,Hotel California,8.98,cass,10,2019-01-14,X012
+Van Halen,1984,9.98,cass,4,2019-06-28,X045
+Boston,Boston,8.98,lp,4,2019-06-28,X045
+Pink Floyd,The Wall,14.98,lp,2,2019-06-28,X045
+Def Leppard,Hysteria,9.98,lp,3,2019-03-20,X038
+U2,War,9.98,cass,4,2019-03-20,X038
+The Who,Who's Next,7.98,cass,2,2019-03-20,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-03-20,X038
+Rush,Moving Pictures,8.98,cass,6,2019-03-20,X038
+Van Halen,1984,9.98,lp,5,2019-03-20,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-03-20,X038
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-03-20,X038
+Boston,Boston,8.98,lp,5,2019-12-07,X002
+ZZ Top,Eliminator,9.98,lp,5,2019-12-07,X002
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-12-07,X002
+Heart,Dreamboat Annie,7.98,lp,7,2019-12-07,X002
+The Who,Who's Next,7.98,cass,2,2019-12-07,X002
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-12-07,X002
+The Rolling Stones,Sticky Fingers,7.98,lp,8,2019-12-07,X002
+The Cars,The Cars,8.98,cass,5,2019-12-07,X002
+Foreigner,4,8.98,lp,4,2019-06-04,X004
+AC/DC,Back in Black,8.98,lp,7,2019-06-04,X004
+AC/DC,Back in Black,8.98,cass,4,2019-06-04,X004
+Steve Miller Band,Fly Like an Eagle,8.98,lp,2,2019-01-19,X003
+Heart,Dreamboat Annie,7.98,cass,2,2019-01-19,X003
+ZZ Top,Eliminator,9.98,cass,2,2019-01-19,X003
+The Beatles,Abbey Road,7.98,cass,3,2019-01-19,X003
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-07-01,X039
+The Rolling Stones,Sticky Fingers,7.98,cass,0,2019-07-01,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-07-01,X039
+ZZ Top,Eliminator,9.98,cass,2,2019-07-01,X039
+ZZ Top,Eliminator,9.98,lp,3,2019-07-01,X039
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-05-18,X012
+Van Halen,1984,9.98,cass,1,2019-05-18,X012
+Journey,Escape,8.98,cass,4,2019-05-18,X012
+Journey,Escape,8.98,cass,3,2019-05-18,X012
+Eagles,Hotel California,8.98,lp,2,2019-05-18,X012
+Bad Company,Bad Company,7.98,lp,3,2019-05-18,X012
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-08-29,X045
+Queen,Night at the Opera,7.98,cass,5,2019-08-29,X045
+The Who,Who's Next,7.98,cass,4,2019-08-29,X045
+Van Halen,1984,9.98,cass,1,2019-03-21,X038
+Foreigner,4,8.98,lp,5,2019-03-21,X038
+Boston,Boston,8.98,cass,2,2019-03-21,X038
+Queen,Night at the Opera,7.98,cass,5,2019-03-21,X038
+AC/DC,Back in Black,8.98,cass,4,2019-03-21,X038
+Def Leppard,Hysteria,9.98,lp,2,2019-02-09,X024
+Queen,Night at the Opera,7.98,cass,4,2019-02-09,X024
+Fleetwood Mac,Rumours,8.98,cass,4,2019-02-09,X024
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-02-09,X024
+The Doors,The Doors,7.98,cass,0,2019-02-24,X017
+Def Leppard,Hysteria,9.98,lp,2,2019-02-24,X017
+ZZ Top,Eliminator,9.98,cass,2,2019-02-24,X017
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-02-24,X017
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-02-24,X017
+The Beatles,Abbey Road,7.98,cass,1,2019-10-04,X020
+Pink Floyd,The Wall,14.98,cass,3,2019-10-04,X020
+Foreigner,4,8.98,cass,7,2019-10-04,X020
+Fleetwood Mac,Rumours,8.98,cass,6,2019-10-04,X020
+Foreigner,4,8.98,lp,6,2019-10-04,X020
+AC/DC,Back in Black,8.98,lp,3,2019-10-04,X020
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-05-16,X019
+Journey,Escape,8.98,lp,3,2019-05-16,X019
+Lynyrd Skynyrd,Second Helping,7.98,lp,5,2019-05-16,X019
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-05-16,X019
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-05-16,X019
+The Doors,The Doors,7.98,cass,5,2019-05-16,X019
+Rush,Moving Pictures,8.98,cass,5,2019-05-16,X019
+Steve Miller Band,Fly Like an Eagle,8.98,cass,1,2019-05-10,X044
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-05-10,X044
+Van Halen,1984,9.98,cass,2,2019-05-10,X044
+The Cars,The Cars,8.98,lp,6,2019-05-28,X021
+Eagles,Hotel California,8.98,cass,6,2019-05-28,X021
+Pink Floyd,The Wall,14.98,cass,6,2019-05-28,X021
+ZZ Top,Eliminator,9.98,lp,2,2019-03-04,X005
+The Cars,The Cars,8.98,lp,3,2019-03-04,X005
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-03-04,X005
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-10-19,X018
+The Who,Who's Next,7.98,cass,6,2019-10-19,X018
+The Beatles,Abbey Road,7.98,lp,2,2019-10-19,X018
+Journey,Escape,8.98,cass,3,2019-10-19,X018
+The Doors,The Doors,7.98,cass,2,2019-10-19,X018
+Heart,Dreamboat Annie,7.98,cass,7,2019-10-19,X018
+Pink Floyd,The Wall,14.98,lp,1,2019-08-31,X006
+The Who,Who's Next,7.98,cass,2,2019-08-31,X006
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-09-01,X040
+Heart,Dreamboat Annie,7.98,cass,4,2019-09-01,X040
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-09-01,X040
+Boston,Boston,8.98,cass,4,2019-09-01,X040
+Fleetwood Mac,Rumours,8.98,cass,5,2019-09-01,X040
+The Cars,The Cars,8.98,lp,6,2019-09-01,X040
+The Who,Who's Next,7.98,cass,3,2019-11-14,X040
+Journey,Escape,8.98,cass,4,2019-11-14,X040
+Fleetwood Mac,Rumours,8.98,cass,1,2019-11-14,X040
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-11-14,X040
+Fleetwood Mac,Rumours,8.98,cass,3,2019-11-14,X040
+ZZ Top,Eliminator,9.98,cass,4,2019-07-20,X031
+Def Leppard,Hysteria,9.98,cass,2,2019-07-20,X031
+The Who,Who's Next,7.98,cass,3,2019-07-20,X031
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-07-20,X031
+The Cars,The Cars,8.98,cass,6,2019-07-20,X031
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-07-20,X031
+Journey,Escape,8.98,cass,1,2019-05-23,X026
+Queen,Night at the Opera,7.98,cass,4,2019-05-23,X026
+Heart,Dreamboat Annie,7.98,cass,2,2019-05-23,X026
+The Cars,The Cars,8.98,cass,4,2019-05-23,X026
+Rush,Moving Pictures,8.98,cass,5,2019-05-23,X026
+ZZ Top,Eliminator,9.98,cass,3,2019-05-23,X026
+Journey,Escape,8.98,cass,4,2019-05-23,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-05-23,X026
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-03-26,X045
+Def Leppard,Hysteria,9.98,cass,5,2019-03-26,X045
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-03-26,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-03-26,X045
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-03-26,X045
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-04-02,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-04-02,X035
+Boston,Boston,8.98,cass,6,2019-04-02,X035
+Eagles,Hotel California,8.98,lp,4,2019-04-02,X035
+Boston,Boston,8.98,cass,8,2019-04-21,X003
+The Who,Who's Next,7.98,cass,5,2019-05-06,X037
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-02-16,X024
+The Cars,The Cars,8.98,cass,8,2019-02-16,X024
+The Rolling Stones,Sticky Fingers,7.98,cass,10,2019-02-16,X024
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-05-06,X038
+Queen,Night at the Opera,7.98,cass,5,2019-05-06,X038
+Journey,Escape,8.98,cass,6,2019-05-06,X038
+Pink Floyd,The Wall,14.98,lp,3,2019-05-06,X038
+The Who,Who's Next,7.98,cass,5,2019-05-06,X038
+Pink Floyd,The Wall,14.98,cass,4,2019-07-07,X036
+Journey,Escape,8.98,cass,3,2019-07-07,X036
+ZZ Top,Eliminator,9.98,cass,6,2019-07-07,X036
+Van Halen,1984,9.98,cass,2,2019-07-07,X036
+The Doors,The Doors,7.98,cass,10,2019-07-07,X036
+Queen,Night at the Opera,7.98,lp,5,2019-07-07,X036
+Def Leppard,Hysteria,9.98,lp,5,2019-07-07,X036
+Eagles,Hotel California,8.98,lp,7,2019-07-07,X036
+The Who,Who's Next,7.98,lp,4,2019-10-04,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-10-04,X039
+Queen,Night at the Opera,7.98,cass,4,2019-10-04,X039
+The Cars,The Cars,8.98,lp,4,2019-10-04,X039
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-06-10,X007
+Van Halen,1984,9.98,cass,6,2019-06-10,X007
+Aerosmith,Toys in the Attic,7.98,lp,1,2019-06-10,X007
+Pink Floyd,The Wall,14.98,cass,2,2019-06-10,X007
+Boston,Boston,8.98,cass,2,2019-06-10,X007
+The Cars,The Cars,8.98,cass,2,2019-06-10,X007
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-01-16,X010
+Journey,Escape,8.98,lp,6,2019-01-16,X010
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-01-16,X010
+The Cars,The Cars,8.98,cass,2,2019-01-16,X010
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-01-16,X010
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-01-16,X010
+Eagles,Hotel California,8.98,cass,1,2019-01-16,X010
+ZZ Top,Eliminator,9.98,cass,3,2019-03-17,X027
+Bad Company,Bad Company,7.98,lp,2,2019-03-17,X027
+Journey,Escape,8.98,lp,4,2019-03-17,X027
+Queen,Night at the Opera,7.98,cass,5,2019-03-17,X027
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-03-17,X027
+Foreigner,4,8.98,cass,7,2019-04-23,X044
+Foreigner,4,8.98,cass,4,2019-04-23,X044
+ZZ Top,Eliminator,9.98,lp,4,2019-04-23,X044
+Eagles,Hotel California,8.98,cass,6,2019-04-23,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-04-23,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-04-23,X044
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-06-30,X035
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-06-30,X035
+AC/DC,Back in Black,8.98,lp,2,2019-06-30,X035
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-06-30,X035
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-06-30,X035
+Eagles,Hotel California,8.98,cass,10,2019-06-30,X035
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-06-30,X035
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-03-05,X021
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-03-05,X021
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-03-05,X021
+The Cars,The Cars,8.98,cass,5,2019-03-05,X021
+U2,War,9.98,cass,3,2019-09-15,X006
+Def Leppard,Hysteria,9.98,lp,4,2019-09-15,X006
+AC/DC,Back in Black,8.98,cass,5,2019-09-15,X006
+Pink Floyd,The Wall,14.98,cass,8,2019-09-15,X006
+Van Halen,1984,9.98,lp,2,2019-09-15,X006
+Lynyrd Skynyrd,Second Helping,7.98,lp,2,2019-08-27,X029
+Eagles,Hotel California,8.98,cass,3,2019-08-27,X029
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-08-27,X029
+Heart,Dreamboat Annie,7.98,cass,5,2019-08-27,X029
+Foreigner,4,8.98,cass,3,2019-10-08,X003
+Journey,Escape,8.98,cass,4,2019-10-08,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-10-08,X003
+Boston,Boston,8.98,cass,3,2019-10-08,X003
+The Beatles,Abbey Road,7.98,lp,5,2019-10-08,X003
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-10-08,X003
+AC/DC,Back in Black,8.98,cass,3,2019-12-11,X006
+Pink Floyd,The Wall,14.98,cass,6,2019-12-11,X006
+The Who,Who's Next,7.98,lp,4,2019-12-11,X006
+Def Leppard,Hysteria,9.98,lp,4,2019-12-11,X006
+Steve Miller Band,Fly Like an Eagle,8.98,lp,5,2019-12-11,X006
+Pink Floyd,The Wall,14.98,cass,4,2019-12-11,X006
+Queen,Night at the Opera,7.98,cass,3,2019-12-11,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-12-11,X006
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-12-11,X006
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-02,X027
+Fleetwood Mac,Rumours,8.98,cass,4,2019-07-02,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-07-02,X027
+Heart,Dreamboat Annie,7.98,cass,4,2019-07-02,X027
+The Beatles,Abbey Road,7.98,lp,6,2019-07-02,X027
+The Beatles,Abbey Road,7.98,cass,3,2019-07-02,X027
+Pink Floyd,The Wall,14.98,lp,4,2019-07-02,X027
+Bad Company,Bad Company,7.98,cass,4,2019-07-02,X027
+The Cars,The Cars,8.98,cass,5,2019-07-02,X027
+ZZ Top,Eliminator,9.98,lp,2,2019-07-24,X040
+U2,War,9.98,cass,6,2019-07-24,X040
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-07-24,X040
+Pink Floyd,The Wall,14.98,cass,5,2019-03-14,X008
+Boston,Boston,8.98,cass,7,2019-03-14,X008
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-11-09,X043
+Pink Floyd,The Wall,14.98,cass,3,2019-11-09,X043
+Foreigner,4,8.98,lp,4,2019-11-09,X043
+The Doors,The Doors,7.98,lp,1,2019-11-09,X043
+Heart,Dreamboat Annie,7.98,cass,4,2019-11-09,X043
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-11-09,X043
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-11-29,X042
+Journey,Escape,8.98,cass,3,2019-11-29,X042
+Queen,Night at the Opera,7.98,cass,3,2019-11-29,X042
+Bad Company,Bad Company,7.98,lp,1,2019-11-29,X042
+AC/DC,Back in Black,8.98,cass,1,2019-11-29,X042
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-11-29,X042
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-05-18,X038
+Journey,Escape,8.98,cass,2,2019-05-18,X038
+Foreigner,4,8.98,cass,2,2019-05-18,X038
+Fleetwood Mac,Rumours,8.98,cass,3,2019-05-18,X038
+The Cars,The Cars,8.98,cass,2,2019-11-30,X007
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-11-30,X007
+Bad Company,Bad Company,7.98,cass,3,2019-11-30,X007
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-30,X007
+Boston,Boston,8.98,lp,5,2019-11-30,X007
+Foreigner,4,8.98,lp,5,2019-11-30,X007
+Pink Floyd,The Wall,14.98,cass,2,2019-11-30,X007
+Heart,Dreamboat Annie,7.98,cass,7,2019-11-30,X007
+The Doors,The Doors,7.98,lp,10,2019-04-14,X034
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-04-14,X034
+Foreigner,4,8.98,cass,1,2019-04-14,X034
+The Beatles,Abbey Road,7.98,lp,1,2019-04-14,X034
+Def Leppard,Hysteria,9.98,cass,3,2019-04-14,X034
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-06-14,X018
+AC/DC,Back in Black,8.98,cass,9,2019-06-14,X018
+Steve Miller Band,Fly Like an Eagle,8.98,lp,3,2019-06-14,X018
+Heart,Dreamboat Annie,7.98,cass,4,2019-06-14,X018
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-04-08,X033
+Journey,Escape,8.98,lp,4,2019-04-08,X033
+Boston,Boston,8.98,cass,3,2019-04-08,X033
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-04-08,X033
+Bad Company,Bad Company,7.98,lp,5,2019-04-08,X033
+ZZ Top,Eliminator,9.98,cass,4,2019-04-08,X033
+Boston,Boston,8.98,lp,5,2019-09-18,X018
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-09-18,X018
+Foreigner,4,8.98,cass,4,2019-09-18,X018
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-09-18,X018
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-01-27,X040
+Pink Floyd,The Wall,14.98,cass,2,2019-01-27,X040
+Bad Company,Bad Company,7.98,cass,6,2019-01-27,X040
+Boston,Boston,8.98,cass,2,2019-04-26,X030
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-04-26,X030
+The Who,Who's Next,7.98,cass,3,2019-04-26,X030
+Def Leppard,Hysteria,9.98,cass,2,2019-04-26,X030
+Foreigner,4,8.98,lp,5,2019-11-24,X016
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-11-24,X016
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-11-24,X016
+Van Halen,1984,9.98,cass,9,2019-11-24,X016
+Pink Floyd,The Wall,14.98,cass,4,2019-10-21,X044
+Def Leppard,Hysteria,9.98,cass,6,2019-10-21,X044
+Pink Floyd,The Wall,14.98,cass,2,2019-10-21,X044
+AC/DC,Back in Black,8.98,cass,4,2019-10-21,X044
+Eagles,Hotel California,8.98,cass,3,2019-10-21,X044
+Bad Company,Bad Company,7.98,cass,6,2019-10-08,X035
+The Who,Who's Next,7.98,cass,4,2019-10-08,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-10-08,X035
+ZZ Top,Eliminator,9.98,cass,1,2019-10-08,X035
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-10-08,X035
+ZZ Top,Eliminator,9.98,cass,5,2019-10-08,X035
+Van Halen,1984,9.98,cass,3,2019-02-23,X004
+Def Leppard,Hysteria,9.98,lp,5,2019-02-23,X004
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-06-07,X039
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-06-07,X039
+The Beatles,Abbey Road,7.98,lp,4,2019-06-07,X039
+AC/DC,Back in Black,8.98,lp,3,2019-06-07,X039
+Queen,Night at the Opera,7.98,cass,5,2019-01-18,X001
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-01-18,X001
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-12-26,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-07,X043
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-07-07,X043
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-07-07,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-07-07,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-07-07,X043
+Bad Company,Bad Company,7.98,cass,7,2019-11-03,X011
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-11-03,X011
+The Doors,The Doors,7.98,cass,2,2019-11-03,X011
+Pink Floyd,The Wall,14.98,lp,0,2019-11-03,X011
+Van Halen,1984,9.98,cass,3,2019-11-03,X011
+Rush,Moving Pictures,8.98,cass,1,2019-02-13,X011
+AC/DC,Back in Black,8.98,lp,6,2019-02-13,X011
+Bad Company,Bad Company,7.98,lp,1,2019-06-09,X018
+Boston,Boston,8.98,lp,4,2019-06-09,X018
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-06-09,X018
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-06-09,X018
+Boston,Boston,8.98,cass,5,2019-06-09,X018
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-05-30,X020
+Foreigner,4,8.98,lp,3,2019-05-30,X020
+Fleetwood Mac,Rumours,8.98,cass,4,2019-05-30,X020
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-05-30,X020
+Def Leppard,Hysteria,9.98,cass,1,2019-05-30,X020
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-01-17,X039
+Queen,Night at the Opera,7.98,cass,2,2019-01-17,X039
+Rush,Moving Pictures,8.98,cass,8,2019-01-17,X039
+The Beatles,Abbey Road,7.98,cass,4,2019-10-03,X013
+The Doors,The Doors,7.98,cass,4,2019-10-03,X013
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-10-03,X013
+Def Leppard,Hysteria,9.98,cass,3,2019-10-03,X013
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-11-06,X035
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-11-06,X035
+Pink Floyd,The Wall,14.98,lp,5,2019-11-06,X035
+Van Halen,1984,9.98,lp,4,2019-11-06,X035
+AC/DC,Back in Black,8.98,cass,4,2019-11-06,X035
+Van Halen,1984,9.98,cass,1,2019-11-06,X035
+U2,War,9.98,cass,2,2019-03-20,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-03-20,X033
+ZZ Top,Eliminator,9.98,cass,4,2019-03-20,X033
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-03-20,X033
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-03-20,X033
+The Doors,The Doors,7.98,cass,5,2019-12-08,X040
+Bad Company,Bad Company,7.98,cass,1,2019-12-08,X040
+ZZ Top,Eliminator,9.98,lp,1,2019-12-08,X040
+ZZ Top,Eliminator,9.98,cass,3,2019-12-08,X040
+The Rolling Stones,Sticky Fingers,7.98,cass,9,2019-12-08,X040
+Foreigner,4,8.98,cass,3,2019-12-08,X040
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-12-08,X040
+Journey,Escape,8.98,cass,5,2019-12-08,X040
+ZZ Top,Eliminator,9.98,cass,3,2019-12-08,X040
+Boston,Boston,8.98,lp,2,2019-05-15,X017
+Eagles,Hotel California,8.98,cass,4,2019-05-15,X017
+Pink Floyd,The Wall,14.98,cass,4,2019-05-15,X017
+Pink Floyd,The Wall,14.98,cass,4,2019-03-02,X045
+Van Halen,1984,9.98,cass,5,2019-03-02,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-03-02,X045
+The Doors,The Doors,7.98,cass,8,2019-03-02,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-05-31,X032
+Steve Miller Band,Fly Like an Eagle,8.98,lp,8,2019-05-31,X032
+The Who,Who's Next,7.98,cass,4,2019-05-31,X032
+Journey,Escape,8.98,lp,3,2019-05-31,X032
+Van Halen,1984,9.98,cass,5,2019-05-31,X032
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-05-31,X032
+Bad Company,Bad Company,7.98,cass,4,2019-05-31,X032
+Boston,Boston,8.98,lp,3,2019-05-31,X032
+Boston,Boston,8.98,lp,3,2019-04-12,X031
+The Cars,The Cars,8.98,cass,3,2019-04-12,X031
+Journey,Escape,8.98,cass,3,2019-04-12,X031
+The Who,Who's Next,7.98,cass,3,2019-04-12,X031
+Van Halen,1984,9.98,cass,7,2019-04-12,X031
+Rush,Moving Pictures,8.98,cass,5,2019-10-06,X015
+The Beatles,Abbey Road,7.98,lp,3,2019-10-06,X015
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-10-06,X015
+The Beatles,Abbey Road,7.98,cass,4,2019-10-06,X015
+Van Halen,1984,9.98,lp,3,2019-10-06,X015
+Pink Floyd,The Wall,14.98,lp,1,2019-10-06,X015
+Boston,Boston,8.98,lp,4,2019-05-24,X026
+Pink Floyd,The Wall,14.98,cass,5,2019-05-24,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-10-23,X028
+The Beatles,Abbey Road,7.98,cass,4,2019-10-23,X028
+Foreigner,4,8.98,cass,7,2019-10-23,X028
+The Doors,The Doors,7.98,cass,1,2019-10-23,X028
+Steve Miller Band,Fly Like an Eagle,8.98,lp,3,2019-03-01,X016
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-03-01,X016
+U2,War,9.98,cass,6,2019-03-01,X016
+The Cars,The Cars,8.98,lp,1,2019-03-01,X016
+Queen,Night at the Opera,7.98,cass,6,2019-11-22,X013
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-11-22,X013
+Def Leppard,Hysteria,9.98,lp,2,2019-11-22,X013
+The Beatles,Abbey Road,7.98,lp,7,2019-11-22,X013
+Queen,Night at the Opera,7.98,lp,3,2019-11-22,X013
+The Beatles,Abbey Road,7.98,lp,3,2019-11-22,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-04-17,X017
+Pink Floyd,The Wall,14.98,lp,5,2019-04-17,X017
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-04-17,X017
+Eagles,Hotel California,8.98,cass,5,2019-04-17,X017
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-04-17,X017
+Foreigner,4,8.98,cass,9,2019-04-17,X017
+Boston,Boston,8.98,cass,7,2019-04-17,X017
+Def Leppard,Hysteria,9.98,lp,2,2019-04-17,X017
+The Doors,The Doors,7.98,cass,3,2019-04-17,X017
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-13,X030
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-08-13,X030
+Van Halen,1984,9.98,cass,3,2019-08-13,X030
+Van Halen,1984,9.98,lp,4,2019-08-13,X030
+The Who,Who's Next,7.98,cass,2,2019-12-24,X024
+The Beatles,Abbey Road,7.98,cass,0,2019-12-24,X024
+AC/DC,Back in Black,8.98,cass,2,2019-12-24,X024
+The Who,Who's Next,7.98,lp,5,2019-12-24,X024
+Eagles,Hotel California,8.98,cass,2,2019-07-30,X032
+ZZ Top,Eliminator,9.98,lp,7,2019-07-30,X032
+Rush,Moving Pictures,8.98,cass,4,2019-07-30,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-07-30,X032
+The Doors,The Doors,7.98,cass,4,2019-07-30,X032
+Fleetwood Mac,Rumours,8.98,lp,5,2019-07-24,X035
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-07-24,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-07-24,X035
+The Beatles,Abbey Road,7.98,cass,1,2019-07-24,X035
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-07-24,X035
+Journey,Escape,8.98,cass,4,2019-07-24,X035
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-03-17,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-03-17,X022
+Steve Miller Band,Fly Like an Eagle,8.98,cass,1,2019-03-17,X022
+AC/DC,Back in Black,8.98,cass,5,2019-03-17,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-10-14,X041
+AC/DC,Back in Black,8.98,cass,6,2019-10-14,X041
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-10-14,X041
+Eagles,Hotel California,8.98,cass,2,2019-10-14,X041
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-02-13,X026
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-02-13,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-02-13,X026
+Bad Company,Bad Company,7.98,cass,3,2019-02-09,X014
+Eagles,Hotel California,8.98,lp,3,2019-02-09,X014
+Foreigner,4,8.98,cass,4,2019-02-09,X014
+Eagles,Hotel California,8.98,cass,3,2019-02-09,X014
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-02-09,X014
+U2,War,9.98,cass,2,2019-02-09,X014
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-02-09,X014
+Boston,Boston,8.98,cass,2,2019-03-07,X024
+Van Halen,1984,9.98,lp,6,2019-03-07,X024
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-03-07,X024
+Queen,Night at the Opera,7.98,cass,8,2019-07-14,X021
+AC/DC,Back in Black,8.98,cass,0,2019-07-14,X021
+The Who,Who's Next,7.98,cass,6,2019-07-14,X021
+Rush,Moving Pictures,8.98,cass,4,2019-07-14,X021
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-07-14,X021
+The Who,Who's Next,7.98,lp,3,2019-07-14,X021
+The Who,Who's Next,7.98,cass,5,2019-02-20,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-02-20,X033
+Fleetwood Mac,Rumours,8.98,lp,3,2019-02-20,X033
+The Doors,The Doors,7.98,lp,2,2019-02-20,X033
+Fleetwood Mac,Rumours,8.98,cass,6,2019-02-20,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-04-13,X033
+ZZ Top,Eliminator,9.98,cass,6,2019-04-13,X033
+Eagles,Hotel California,8.98,lp,5,2019-04-13,X033
+Van Halen,1984,9.98,cass,2,2019-04-13,X033
+Journey,Escape,8.98,lp,3,2019-04-13,X033
+U2,War,9.98,lp,4,2019-04-13,X033
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-10-03,X027
+Queen,Night at the Opera,7.98,cass,4,2019-10-03,X027
+The Who,Who's Next,7.98,cass,5,2019-10-03,X027
+ZZ Top,Eliminator,9.98,lp,0,2019-10-03,X027
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-10-03,X027
+Rush,Moving Pictures,8.98,cass,5,2019-10-03,X027
+Queen,Night at the Opera,7.98,cass,2,2019-10-03,X027
+Boston,Boston,8.98,cass,5,2019-10-03,X027
+AC/DC,Back in Black,8.98,cass,1,2019-10-03,X027
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-10-03,X027
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-10-03,X027
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-03-08,X020
+AC/DC,Back in Black,8.98,cass,1,2019-03-08,X020
+Fleetwood Mac,Rumours,8.98,cass,3,2019-03-08,X020
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-03-08,X020
+Foreigner,4,8.98,lp,2,2019-07-07,X037
+AC/DC,Back in Black,8.98,cass,3,2019-07-07,X037
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-07-07,X037
+Pink Floyd,The Wall,14.98,cass,4,2019-07-07,X037
+The Cars,The Cars,8.98,lp,4,2019-07-07,X037
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-07-07,X037
+Journey,Escape,8.98,cass,3,2019-07-07,X037
+Foreigner,4,8.98,lp,3,2019-07-07,X037
+Pink Floyd,The Wall,14.98,cass,2,2019-08-20,X034
+Queen,Night at the Opera,7.98,cass,3,2019-08-20,X034
+The Beatles,Abbey Road,7.98,cass,6,2019-08-20,X034
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-07-06,X001
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-06,X001
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-07-06,X001
+Foreigner,4,8.98,cass,3,2019-02-22,X030
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-02-22,X030
+Steve Miller Band,Fly Like an Eagle,8.98,lp,3,2019-02-22,X030
+Eagles,Hotel California,8.98,lp,5,2019-03-06,X026
+Bad Company,Bad Company,7.98,cass,7,2019-03-06,X026
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-03-06,X026
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-03-06,X026
+Queen,Night at the Opera,7.98,cass,4,2019-12-05,X036
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-12-05,X036
+Foreigner,4,8.98,lp,3,2019-12-05,X036
+AC/DC,Back in Black,8.98,cass,5,2019-12-05,X036
+Heart,Dreamboat Annie,7.98,lp,3,2019-12-25,X002
+Van Halen,1984,9.98,cass,1,2019-12-25,X002
+Pink Floyd,The Wall,14.98,cass,4,2019-12-25,X002
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-12-25,X002
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-12-25,X002
+Fleetwood Mac,Rumours,8.98,cass,1,2019-12-25,X002
+Bad Company,Bad Company,7.98,cass,4,2019-12-25,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-12-25,X002
+Van Halen,1984,9.98,cass,4,2019-12-25,X002
+The Who,Who's Next,7.98,cass,4,2019-11-25,X001
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-11-25,X001
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-11-25,X001
+The Doors,The Doors,7.98,cass,5,2019-11-25,X001
+Eagles,Hotel California,8.98,cass,4,2019-11-25,X001
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-11-25,X001
+Foreigner,4,8.98,cass,2,2019-09-14,X033
+Fleetwood Mac,Rumours,8.98,cass,3,2019-09-14,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-09-14,X033
+Foreigner,4,8.98,cass,5,2019-09-14,X033
+Lynyrd Skynyrd,Second Helping,7.98,cass,8,2019-05-06,X035
+The Who,Who's Next,7.98,lp,7,2019-05-06,X035
+Van Halen,1984,9.98,lp,2,2019-05-06,X035
+The Beatles,Abbey Road,7.98,cass,5,2019-05-06,X035
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-05-06,X035
+Foreigner,4,8.98,cass,4,2019-05-06,X035
+The Who,Who's Next,7.98,cass,1,2019-05-06,X035
+Boston,Boston,8.98,lp,6,2019-05-06,X035
+The Who,Who's Next,7.98,lp,4,2019-05-06,X035
+AC/DC,Back in Black,8.98,cass,1,2019-06-17,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-06-17,X027
+The Who,Who's Next,7.98,cass,5,2019-06-17,X027
+Van Halen,1984,9.98,cass,4,2019-06-17,X027
+ZZ Top,Eliminator,9.98,lp,3,2019-06-17,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-01-11,X013
+Eagles,Hotel California,8.98,cass,4,2019-01-11,X013
+Heart,Dreamboat Annie,7.98,cass,5,2019-01-11,X013
+Pink Floyd,The Wall,14.98,lp,4,2019-11-03,X037
+U2,War,9.98,lp,6,2019-11-03,X037
+U2,War,9.98,lp,2,2019-11-03,X037
+The Cars,The Cars,8.98,lp,3,2019-11-03,X037
+Pink Floyd,The Wall,14.98,cass,4,2019-11-30,X043
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-11-30,X043
+Bad Company,Bad Company,7.98,cass,13,2019-11-30,X043
+Lynyrd Skynyrd,Second Helping,7.98,lp,6,2019-11-30,X043
+The Cars,The Cars,8.98,cass,4,2019-11-30,X043
+Eagles,Hotel California,8.98,cass,2,2019-11-30,X043
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-11-30,X043
+Pink Floyd,The Wall,14.98,cass,3,2019-11-30,X043
+Pink Floyd,The Wall,14.98,lp,3,2019-01-17,X022
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-01-17,X022
+ZZ Top,Eliminator,9.98,lp,7,2019-01-17,X022
+The Cars,The Cars,8.98,lp,1,2019-01-17,X022
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-01-17,X022
+Boston,Boston,8.98,lp,4,2019-01-17,X022
+Queen,Night at the Opera,7.98,lp,1,2019-05-28,X044
+Van Halen,1984,9.98,lp,5,2019-05-28,X044
+Van Halen,1984,9.98,cass,3,2019-05-28,X044
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-05-28,X044
+Van Halen,1984,9.98,cass,4,2019-05-28,X044
+Pink Floyd,The Wall,14.98,lp,4,2019-05-28,X044
+AC/DC,Back in Black,8.98,lp,4,2019-05-28,X044
+Pink Floyd,The Wall,14.98,lp,2,2019-05-28,X044
+The Beatles,Abbey Road,7.98,lp,2,2019-05-28,X044
+Eagles,Hotel California,8.98,cass,7,2019-12-03,X021
+The Beatles,Abbey Road,7.98,lp,2,2019-12-03,X021
+The Cars,The Cars,8.98,cass,0,2019-12-03,X021
+Foreigner,4,8.98,lp,6,2019-04-29,X003
+Heart,Dreamboat Annie,7.98,cass,6,2019-04-29,X003
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-04-29,X003
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-04-29,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-04-29,X003
+Van Halen,1984,9.98,cass,1,2019-04-29,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-04-29,X003
+Eagles,Hotel California,8.98,cass,7,2019-04-29,X003
+Fleetwood Mac,Rumours,8.98,cass,2,2019-04-29,X003
+Def Leppard,Hysteria,9.98,cass,8,2019-03-04,X036
+Journey,Escape,8.98,cass,9,2019-03-04,X036
+AC/DC,Back in Black,8.98,lp,4,2019-03-04,X036
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-09-19,X024
+ZZ Top,Eliminator,9.98,cass,9,2019-09-19,X024
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-09-19,X024
+Van Halen,1984,9.98,cass,5,2019-09-19,X024
+Fleetwood Mac,Rumours,8.98,cass,5,2019-09-19,X024
+Fleetwood Mac,Rumours,8.98,cass,6,2019-09-19,X024
+Queen,Night at the Opera,7.98,lp,6,2019-09-19,X024
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-09-19,X024
+ZZ Top,Eliminator,9.98,cass,1,2019-12-25,X002
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-12-25,X002
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-12-25,X002
+Boston,Boston,8.98,cass,5,2019-12-25,X002
+ZZ Top,Eliminator,9.98,lp,9,2019-12-25,X002
+The Who,Who's Next,7.98,cass,2,2019-12-25,X002
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-08-24,X028
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-08-24,X028
+Queen,Night at the Opera,7.98,cass,3,2019-02-16,X009
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-02-16,X009
+Fleetwood Mac,Rumours,8.98,cass,4,2019-02-16,X009
+AC/DC,Back in Black,8.98,lp,5,2019-04-01,X022
+Foreigner,4,8.98,lp,3,2019-04-01,X022
+Heart,Dreamboat Annie,7.98,cass,3,2019-04-01,X022
+Pink Floyd,The Wall,14.98,lp,6,2019-04-01,X022
+Queen,Night at the Opera,7.98,cass,5,2019-04-01,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-04-01,X022
+The Beatles,Abbey Road,7.98,lp,6,2019-04-01,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-04-26,X019
+Fleetwood Mac,Rumours,8.98,lp,6,2019-04-26,X019
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-04-26,X019
+Bad Company,Bad Company,7.98,lp,5,2019-04-26,X019
+AC/DC,Back in Black,8.98,cass,4,2019-04-26,X019
+The Doors,The Doors,7.98,cass,1,2019-04-26,X019
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-04-26,X019
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-11-09,X009
+The Cars,The Cars,8.98,cass,5,2019-11-09,X009
+Lynyrd Skynyrd,Second Helping,7.98,lp,3,2019-11-09,X009
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-11-09,X009
+Queen,Night at the Opera,7.98,cass,3,2019-11-09,X009
+Fleetwood Mac,Rumours,8.98,cass,4,2019-11-09,X009
+The Beatles,Abbey Road,7.98,cass,7,2019-11-09,X009
+Van Halen,1984,9.98,lp,5,2019-11-09,X009
+The Cars,The Cars,8.98,cass,4,2019-08-06,X016
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-08-06,X016
+Queen,Night at the Opera,7.98,cass,4,2019-08-06,X016
+Eagles,Hotel California,8.98,cass,2,2019-08-06,X016
+Foreigner,4,8.98,lp,4,2019-05-05,X024
+The Beatles,Abbey Road,7.98,cass,3,2019-05-05,X024
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-05-05,X024
+Journey,Escape,8.98,lp,4,2019-05-05,X024
+Rush,Moving Pictures,8.98,lp,5,2019-05-05,X024
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-05,X024
+AC/DC,Back in Black,8.98,cass,6,2019-05-05,X024
+AC/DC,Back in Black,8.98,cass,2,2019-05-05,X024
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-05-05,X024
+AC/DC,Back in Black,8.98,cass,5,2019-01-09,X018
+Def Leppard,Hysteria,9.98,cass,8,2019-01-09,X018
+Eagles,Hotel California,8.98,cass,3,2019-10-28,X035
+The Cars,The Cars,8.98,cass,2,2019-10-28,X035
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-10-28,X035
+Van Halen,1984,9.98,lp,5,2019-10-28,X035
+The Who,Who's Next,7.98,cass,6,2019-10-28,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,10,2019-09-11,X006
+The Doors,The Doors,7.98,cass,4,2019-09-11,X006
+Led Zeppelin,IV (untitled),7.98,cass,9,2019-09-11,X006
+Heart,Dreamboat Annie,7.98,cass,5,2019-09-11,X006
+The Cars,The Cars,8.98,cass,1,2019-09-11,X006
+Pink Floyd,The Wall,14.98,cass,1,2019-09-11,X006
+Heart,Dreamboat Annie,7.98,lp,3,2019-09-11,X006
+Fleetwood Mac,Rumours,8.98,cass,3,2019-09-11,X006
+Foreigner,4,8.98,cass,4,2019-06-11,X009
+U2,War,9.98,cass,3,2019-06-11,X009
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-08-06,X033
+Boston,Boston,8.98,lp,5,2019-08-06,X033
+Queen,Night at the Opera,7.98,cass,2,2019-08-06,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-08-06,X033
+The Doors,The Doors,7.98,cass,5,2019-08-06,X033
+Foreigner,4,8.98,cass,4,2019-08-06,X033
+The Cars,The Cars,8.98,cass,7,2019-08-06,X033
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-06,X033
+ZZ Top,Eliminator,9.98,cass,6,2019-08-06,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-06-16,X028
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-06-16,X028
+Foreigner,4,8.98,lp,4,2019-06-16,X028
+The Who,Who's Next,7.98,lp,6,2019-06-16,X028
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-06-16,X028
+The Cars,The Cars,8.98,cass,4,2019-06-16,X028
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-01-31,X023
+Def Leppard,Hysteria,9.98,lp,0,2019-01-31,X023
+Bad Company,Bad Company,7.98,cass,3,2019-01-31,X023
+Pink Floyd,The Wall,14.98,lp,4,2019-01-31,X023
+The Doors,The Doors,7.98,cass,2,2019-01-31,X023
+Bad Company,Bad Company,7.98,cass,5,2019-01-31,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-10-10,X044
+The Cars,The Cars,8.98,cass,5,2019-10-10,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-10-10,X044
+Bad Company,Bad Company,7.98,cass,8,2019-10-10,X044
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-10-10,X044
+Foreigner,4,8.98,lp,4,2019-10-10,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-06-20,X019
+Van Halen,1984,9.98,cass,4,2019-06-20,X019
+Queen,Night at the Opera,7.98,cass,5,2019-01-15,X022
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-01-15,X022
+Queen,Night at the Opera,7.98,cass,1,2019-01-24,X031
+ZZ Top,Eliminator,9.98,lp,10,2019-01-24,X031
+Heart,Dreamboat Annie,7.98,cass,2,2019-01-24,X031
+The Doors,The Doors,7.98,lp,4,2019-01-24,X031
+The Beatles,Abbey Road,7.98,cass,6,2019-08-26,X007
+ZZ Top,Eliminator,9.98,cass,3,2019-03-10,X027
+Foreigner,4,8.98,cass,5,2019-03-10,X027
+ZZ Top,Eliminator,9.98,cass,13,2019-03-10,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-03-10,X027
+AC/DC,Back in Black,8.98,lp,4,2019-03-10,X027
+The Beatles,Abbey Road,7.98,cass,1,2019-03-10,X027
+Fleetwood Mac,Rumours,8.98,cass,2,2019-03-10,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-12-08,X016
+The Cars,The Cars,8.98,cass,5,2019-12-08,X016
+The Cars,The Cars,8.98,cass,3,2019-12-08,X016
+Foreigner,4,8.98,cass,4,2019-12-08,X016
+U2,War,9.98,cass,5,2019-11-03,X036
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-11-03,X036
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-11-03,X036
+Van Halen,1984,9.98,lp,8,2019-08-04,X007
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-08-04,X007
+Pink Floyd,The Wall,14.98,cass,5,2019-07-29,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-07-29,X033
+Van Halen,1984,9.98,cass,1,2019-07-29,X033
+Heart,Dreamboat Annie,7.98,cass,3,2019-07-29,X033
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-21,X012
+U2,War,9.98,cass,3,2019-11-21,X012
+Pink Floyd,The Wall,14.98,cass,6,2019-11-21,X012
+AC/DC,Back in Black,8.98,cass,5,2019-11-21,X012
+Foreigner,4,8.98,cass,3,2019-11-21,X012
+Eagles,Hotel California,8.98,cass,1,2019-11-21,X012
+Van Halen,1984,9.98,cass,4,2019-11-21,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-11-21,X012
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-11-21,X012
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-11-21,X012
+U2,War,9.98,cass,1,2019-11-21,X012
+The Beatles,Abbey Road,7.98,cass,3,2019-11-21,X012
+The Rolling Stones,Sticky Fingers,7.98,lp,7,2019-11-21,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-12-04,X023
+The Cars,The Cars,8.98,cass,5,2019-12-04,X023
+Rush,Moving Pictures,8.98,lp,1,2019-12-04,X023
+U2,War,9.98,cass,6,2019-12-04,X023
+AC/DC,Back in Black,8.98,cass,2,2019-12-04,X023
+Heart,Dreamboat Annie,7.98,cass,3,2019-12-04,X023
+The Beatles,Abbey Road,7.98,cass,2,2019-12-04,X023
+Journey,Escape,8.98,cass,4,2019-12-04,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-08-15,X034
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-08-15,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-08-15,X034
+Van Halen,1984,9.98,cass,5,2019-09-10,X019
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-09-10,X019
+U2,War,9.98,cass,5,2019-02-02,X040
+Van Halen,1984,9.98,cass,4,2019-02-02,X040
+Journey,Escape,8.98,cass,4,2019-02-02,X040
+Journey,Escape,8.98,cass,8,2019-11-16,X030
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-16,X030
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-16,X030
+Boston,Boston,8.98,cass,4,2019-11-16,X030
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-11-16,X030
+Queen,Night at the Opera,7.98,cass,6,2019-06-20,X027
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-06-20,X027
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-06-20,X027
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-06-20,X027
+Van Halen,1984,9.98,cass,5,2019-06-20,X027
+Eagles,Hotel California,8.98,cass,2,2019-06-20,X027
+Journey,Escape,8.98,cass,1,2019-09-24,X043
+Boston,Boston,8.98,cass,1,2019-09-24,X043
+ZZ Top,Eliminator,9.98,lp,3,2019-09-24,X043
+Bad Company,Bad Company,7.98,lp,4,2019-11-19,X020
+Foreigner,4,8.98,lp,5,2019-11-19,X020
+AC/DC,Back in Black,8.98,lp,5,2019-11-19,X020
+The Who,Who's Next,7.98,cass,4,2019-04-22,X027
+ZZ Top,Eliminator,9.98,cass,6,2019-04-22,X027
+The Who,Who's Next,7.98,cass,4,2019-04-22,X027
+Queen,Night at the Opera,7.98,cass,6,2019-04-22,X027
+Journey,Escape,8.98,cass,5,2019-09-16,X043
+The Doors,The Doors,7.98,cass,4,2019-09-16,X043
+Rush,Moving Pictures,8.98,cass,5,2019-09-16,X043
+Foreigner,4,8.98,lp,4,2019-09-16,X043
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-09-16,X043
+Foreigner,4,8.98,cass,1,2019-02-26,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-02-26,X042
+Bad Company,Bad Company,7.98,lp,3,2019-02-26,X042
+AC/DC,Back in Black,8.98,cass,4,2019-02-26,X042
+Van Halen,1984,9.98,cass,4,2019-02-26,X042
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-10-29,X034
+Foreigner,4,8.98,cass,2,2019-10-29,X034
+ZZ Top,Eliminator,9.98,cass,5,2019-10-29,X034
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-10-29,X034
+Journey,Escape,8.98,cass,1,2019-10-29,X034
+The Who,Who's Next,7.98,cass,1,2019-10-29,X034
+Rush,Moving Pictures,8.98,lp,2,2019-05-10,X008
+Eagles,Hotel California,8.98,lp,5,2019-05-10,X008
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-05-10,X008
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-05-10,X008
+Journey,Escape,8.98,lp,4,2019-05-10,X008
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-08-02,X036
+Eagles,Hotel California,8.98,cass,3,2019-08-02,X036
+Rush,Moving Pictures,8.98,cass,4,2019-08-02,X036
+Fleetwood Mac,Rumours,8.98,cass,4,2019-08-02,X036
+The Beatles,Abbey Road,7.98,lp,8,2019-08-02,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-08-02,X036
+Van Halen,1984,9.98,lp,3,2019-08-02,X036
+The Who,Who's Next,7.98,cass,8,2019-09-21,X006
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-09-21,X006
+Pink Floyd,The Wall,14.98,cass,2,2019-09-21,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-09-21,X006
+Pink Floyd,The Wall,14.98,cass,2,2019-09-21,X006
+Rush,Moving Pictures,8.98,cass,3,2019-09-21,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-09-21,X006
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-09-21,X006
+Pink Floyd,The Wall,14.98,cass,7,2019-09-21,X006
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-06-19,X024
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-06-19,X024
+AC/DC,Back in Black,8.98,cass,5,2019-06-19,X024
+Eagles,Hotel California,8.98,lp,3,2019-06-19,X024
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-06-19,X024
+Heart,Dreamboat Annie,7.98,cass,7,2019-06-05,X029
+Boston,Boston,8.98,cass,3,2019-06-05,X029
+Pink Floyd,The Wall,14.98,lp,4,2019-06-05,X029
+Heart,Dreamboat Annie,7.98,cass,4,2019-06-05,X029
+Van Halen,1984,9.98,cass,5,2019-06-05,X029
+ZZ Top,Eliminator,9.98,cass,3,2019-05-25,X019
+ZZ Top,Eliminator,9.98,cass,3,2019-05-25,X019
+Boston,Boston,8.98,cass,1,2019-05-25,X019
+The Doors,The Doors,7.98,lp,4,2019-05-25,X019
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-05-25,X019
+The Who,Who's Next,7.98,cass,0,2019-01-17,X041
+Pink Floyd,The Wall,14.98,cass,3,2019-01-17,X041
+Queen,Night at the Opera,7.98,lp,5,2019-01-17,X041
+Van Halen,1984,9.98,cass,9,2019-01-17,X041
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-09-16,X004
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-09-16,X004
+U2,War,9.98,cass,10,2019-09-06,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-09-06,X006
+The Beatles,Abbey Road,7.98,cass,4,2019-09-06,X006
+Boston,Boston,8.98,lp,2,2019-02-04,X019
+Eagles,Hotel California,8.98,lp,4,2019-02-04,X019
+Rush,Moving Pictures,8.98,cass,1,2019-02-04,X019
+Boston,Boston,8.98,cass,3,2019-07-02,X022
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-02,X022
+Def Leppard,Hysteria,9.98,cass,2,2019-07-02,X022
+Bad Company,Bad Company,7.98,cass,3,2019-07-02,X022
+The Cars,The Cars,8.98,lp,2,2019-07-02,X022
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-07-02,X022
+Van Halen,1984,9.98,lp,3,2019-07-25,X006
+Fleetwood Mac,Rumours,8.98,cass,4,2019-10-25,X022
+Def Leppard,Hysteria,9.98,cass,5,2019-10-25,X022
+Rush,Moving Pictures,8.98,cass,4,2019-10-25,X022
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-05-30,X017
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-05-30,X017
+Eagles,Hotel California,8.98,cass,5,2019-05-30,X017
+AC/DC,Back in Black,8.98,lp,6,2019-05-30,X017
+Heart,Dreamboat Annie,7.98,cass,3,2019-05-30,X028
+Heart,Dreamboat Annie,7.98,lp,3,2019-05-30,X028
+Van Halen,1984,9.98,cass,4,2019-05-30,X028
+Boston,Boston,8.98,lp,6,2019-08-18,X041
+The Who,Who's Next,7.98,lp,4,2019-08-18,X041
+Queen,Night at the Opera,7.98,lp,2,2019-08-18,X041
+Foreigner,4,8.98,cass,6,2019-10-18,X001
+Van Halen,1984,9.98,lp,3,2019-10-18,X001
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-10-18,X001
+Queen,Night at the Opera,7.98,cass,1,2019-10-18,X001
+Bad Company,Bad Company,7.98,lp,4,2019-10-18,X001
+Boston,Boston,8.98,lp,5,2019-04-30,X043
+Bad Company,Bad Company,7.98,cass,7,2019-04-30,X043
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-04-30,X043
+Def Leppard,Hysteria,9.98,cass,3,2019-04-30,X043
+Boston,Boston,8.98,cass,2,2019-04-30,X043
+Pink Floyd,The Wall,14.98,cass,2,2019-09-18,X041
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-09-18,X041
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-09-18,X041
+AC/DC,Back in Black,8.98,lp,2,2019-09-18,X041
+Heart,Dreamboat Annie,7.98,cass,8,2019-09-18,X041
+Pink Floyd,The Wall,14.98,lp,4,2019-09-18,X041
+Pink Floyd,The Wall,14.98,cass,7,2019-11-15,X032
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-11-15,X032
+Pink Floyd,The Wall,14.98,cass,5,2019-11-15,X032
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-11-15,X032
+Queen,Night at the Opera,7.98,lp,6,2019-11-15,X032
+Heart,Dreamboat Annie,7.98,cass,5,2019-11-15,X032
+AC/DC,Back in Black,8.98,cass,6,2019-11-15,X032
+Heart,Dreamboat Annie,7.98,cass,5,2019-11-15,X032
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-04-13,X018
+Journey,Escape,8.98,lp,4,2019-04-13,X018
+Journey,Escape,8.98,lp,5,2019-05-18,X014
+Pink Floyd,The Wall,14.98,lp,3,2019-05-18,X014
+Fleetwood Mac,Rumours,8.98,cass,4,2019-05-18,X014
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-09-24,X023
+Van Halen,1984,9.98,cass,5,2019-11-27,X020
+ZZ Top,Eliminator,9.98,cass,2,2019-11-27,X020
+ZZ Top,Eliminator,9.98,lp,2,2019-11-27,X020
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-11-27,X020
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-11-27,X020
+Steve Miller Band,Fly Like an Eagle,8.98,lp,7,2019-11-27,X020
+Journey,Escape,8.98,cass,6,2019-01-06,X023
+Foreigner,4,8.98,cass,2,2019-01-06,X023
+Foreigner,4,8.98,cass,5,2019-01-06,X023
+Van Halen,1984,9.98,cass,2,2019-04-17,X037
+Fleetwood Mac,Rumours,8.98,lp,2,2019-04-17,X037
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-04-17,X037
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-04-17,X037
+Queen,Night at the Opera,7.98,lp,6,2019-04-17,X037
+The Doors,The Doors,7.98,lp,5,2019-04-17,X037
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-10-10,X027
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-10-10,X027
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-10-10,X027
+AC/DC,Back in Black,8.98,lp,2,2019-10-10,X027
+Def Leppard,Hysteria,9.98,cass,5,2019-10-10,X027
+Fleetwood Mac,Rumours,8.98,lp,2,2019-10-10,X027
+Journey,Escape,8.98,cass,8,2019-10-10,X027
+Pink Floyd,The Wall,14.98,cass,10,2019-10-10,X027
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-10-10,X027
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-09-20,X035
+The Cars,The Cars,8.98,lp,2,2019-09-20,X035
+Van Halen,1984,9.98,cass,2,2019-09-20,X035
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-09-20,X035
+ZZ Top,Eliminator,9.98,cass,3,2019-09-20,X035
+Queen,Night at the Opera,7.98,cass,1,2019-09-20,X035
+Boston,Boston,8.98,lp,4,2019-05-07,X042
+Queen,Night at the Opera,7.98,cass,4,2019-05-07,X042
+The Cars,The Cars,8.98,cass,5,2019-05-07,X042
+Eagles,Hotel California,8.98,lp,2,2019-05-07,X042
+The Cars,The Cars,8.98,lp,5,2019-05-07,X042
+The Beatles,Abbey Road,7.98,cass,9,2019-05-07,X042
+ZZ Top,Eliminator,9.98,lp,1,2019-11-14,X027
+Van Halen,1984,9.98,lp,5,2019-11-14,X027
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-11-14,X027
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-11-14,X027
+Boston,Boston,8.98,lp,6,2019-11-14,X027
+Rush,Moving Pictures,8.98,cass,2,2019-11-15,X029
+Boston,Boston,8.98,lp,3,2019-11-15,X029
+The Beatles,Abbey Road,7.98,cass,2,2019-11-15,X029
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-11-15,X029
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-11-15,X029
+Pink Floyd,The Wall,14.98,lp,7,2019-11-15,X029
+Van Halen,1984,9.98,lp,4,2019-11-15,X029
+Heart,Dreamboat Annie,7.98,cass,5,2019-11-15,X029
+Led Zeppelin,IV (untitled),7.98,lp,8,2019-08-25,X011
+Eagles,Hotel California,8.98,cass,4,2019-08-25,X011
+ZZ Top,Eliminator,9.98,lp,3,2019-08-25,X011
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-08-26,X033
+The Who,Who's Next,7.98,cass,4,2019-08-26,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-08-26,X033
+AC/DC,Back in Black,8.98,lp,3,2019-08-26,X033
+Journey,Escape,8.98,lp,3,2019-10-02,X040
+Boston,Boston,8.98,cass,3,2019-10-02,X040
+Eagles,Hotel California,8.98,lp,3,2019-10-02,X040
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-10-02,X040
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-02-18,X027
+Journey,Escape,8.98,lp,4,2019-02-18,X027
+Van Halen,1984,9.98,cass,4,2019-02-18,X027
+U2,War,9.98,cass,4,2019-02-18,X027
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-02-18,X027
+The Who,Who's Next,7.98,cass,3,2019-02-18,X027
+Boston,Boston,8.98,lp,4,2019-10-06,X027
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-10-06,X027
+Van Halen,1984,9.98,lp,4,2019-10-06,X027
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-10-06,X027
+Journey,Escape,8.98,cass,5,2019-10-06,X027
+Def Leppard,Hysteria,9.98,cass,4,2019-10-06,X027
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-10-06,X027
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-03-13,X045
+The Doors,The Doors,7.98,cass,5,2019-03-13,X045
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-03-13,X045
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-03-13,X045
+The Who,Who's Next,7.98,lp,4,2019-07-08,X030
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-07-08,X030
+Van Halen,1984,9.98,cass,3,2019-07-08,X030
+Foreigner,4,8.98,cass,2,2019-07-08,X030
+ZZ Top,Eliminator,9.98,cass,6,2019-07-08,X030
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-08,X030
+Fleetwood Mac,Rumours,8.98,cass,4,2019-07-08,X030
+The Beatles,Abbey Road,7.98,cass,6,2019-02-17,X025
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-02-17,X025
+Queen,Night at the Opera,7.98,cass,7,2019-02-17,X025
+Van Halen,1984,9.98,cass,4,2019-02-17,X025
+Pink Floyd,The Wall,14.98,cass,1,2019-10-04,X011
+Queen,Night at the Opera,7.98,cass,1,2019-10-04,X011
+ZZ Top,Eliminator,9.98,cass,3,2019-10-04,X011
+Journey,Escape,8.98,cass,6,2019-10-04,X011
+Eagles,Hotel California,8.98,cass,6,2019-10-04,X011
+The Cars,The Cars,8.98,cass,3,2019-10-04,X011
+U2,War,9.98,cass,4,2019-10-04,X011
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-10-04,X011
+Foreigner,4,8.98,lp,8,2019-10-04,X011
+Heart,Dreamboat Annie,7.98,cass,6,2019-10-04,X011
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-02-22,X041
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-02-22,X041
+AC/DC,Back in Black,8.98,cass,6,2019-02-22,X041
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-02-22,X041
+Fleetwood Mac,Rumours,8.98,cass,5,2019-02-22,X041
+The Cars,The Cars,8.98,cass,9,2019-05-30,X032
+Boston,Boston,8.98,cass,3,2019-05-30,X032
+The Cars,The Cars,8.98,cass,4,2019-05-30,X032
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-05-30,X032
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-05-30,X032
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-30,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-05-30,X032
+The Who,Who's Next,7.98,lp,8,2019-03-09,X036
+Queen,Night at the Opera,7.98,cass,6,2019-03-09,X036
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-03-09,X036
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-03-09,X036
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-03-09,X036
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-09-20,X040
+Pink Floyd,The Wall,14.98,cass,5,2019-09-20,X040
+Van Halen,1984,9.98,cass,2,2019-05-14,X018
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-05-14,X018
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-05-14,X018
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-08-10,X033
+Queen,Night at the Opera,7.98,cass,5,2019-08-10,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-08-10,X033
+Pink Floyd,The Wall,14.98,lp,1,2019-08-10,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-07-30,X038
+Queen,Night at the Opera,7.98,cass,4,2019-07-30,X038
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-07-30,X038
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-07-30,X038
+Eagles,Hotel California,8.98,lp,2,2019-07-30,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-07-30,X038
+Def Leppard,Hysteria,9.98,lp,3,2019-10-12,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-10-12,X027
+Journey,Escape,8.98,cass,6,2019-10-12,X027
+Foreigner,4,8.98,cass,2,2019-10-12,X027
+Van Halen,1984,9.98,lp,4,2019-10-28,X035
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-10-28,X035
+U2,War,9.98,cass,9,2019-10-28,X035
+AC/DC,Back in Black,8.98,cass,4,2019-10-28,X035
+Foreigner,4,8.98,cass,6,2019-10-28,X035
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-01-22,X032
+ZZ Top,Eliminator,9.98,cass,3,2019-01-22,X032
+The Beatles,Abbey Road,7.98,cass,5,2019-01-22,X032
+Heart,Dreamboat Annie,7.98,lp,3,2019-01-22,X032
+U2,War,9.98,lp,1,2019-01-22,X032
+The Cars,The Cars,8.98,cass,9,2019-09-18,X018
+Foreigner,4,8.98,lp,5,2019-09-18,X018
+U2,War,9.98,lp,8,2019-09-18,X018
+Foreigner,4,8.98,cass,3,2019-09-18,X018
+Bad Company,Bad Company,7.98,cass,5,2019-10-31,X042
+Rush,Moving Pictures,8.98,cass,8,2019-10-31,X042
+Bad Company,Bad Company,7.98,lp,4,2019-10-31,X042
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-10-31,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-10-31,X042
+Heart,Dreamboat Annie,7.98,cass,3,2019-10-31,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-10-31,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-10-31,X042
+ZZ Top,Eliminator,9.98,cass,4,2019-09-25,X025
+The Doors,The Doors,7.98,cass,5,2019-09-25,X025
+The Cars,The Cars,8.98,lp,3,2019-09-25,X025
+Rush,Moving Pictures,8.98,cass,4,2019-09-25,X025
+Van Halen,1984,9.98,cass,7,2019-09-25,X025
+Eagles,Hotel California,8.98,lp,5,2019-09-25,X025
+AC/DC,Back in Black,8.98,lp,3,2019-01-04,X040
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-08-08,X006
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-05-21,X006
+Lynyrd Skynyrd,Second Helping,7.98,lp,10,2019-05-21,X006
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-05-21,X006
+Van Halen,1984,9.98,cass,4,2019-05-21,X006
+The Beatles,Abbey Road,7.98,cass,3,2019-05-21,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-05-21,X006
+Van Halen,1984,9.98,cass,3,2019-05-21,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-05-21,X006
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-06-25,X027
+Eagles,Hotel California,8.98,cass,2,2019-06-25,X027
+U2,War,9.98,cass,4,2019-06-25,X027
+Eagles,Hotel California,8.98,cass,4,2019-06-25,X027
+Pink Floyd,The Wall,14.98,cass,1,2019-06-25,X027
+ZZ Top,Eliminator,9.98,lp,6,2019-06-25,X027
+Fleetwood Mac,Rumours,8.98,cass,2,2019-06-25,X027
+AC/DC,Back in Black,8.98,cass,4,2019-08-02,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-08-02,X013
+Boston,Boston,8.98,cass,3,2019-08-02,X013
+Fleetwood Mac,Rumours,8.98,cass,7,2019-08-02,X013
+Boston,Boston,8.98,cass,6,2019-08-02,X013
+Eagles,Hotel California,8.98,lp,5,2019-08-02,X013
+Pink Floyd,The Wall,14.98,cass,3,2019-08-19,X008
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-08-19,X008
+The Who,Who's Next,7.98,cass,4,2019-08-19,X008
+The Beatles,Abbey Road,7.98,cass,4,2019-08-19,X008
+ZZ Top,Eliminator,9.98,cass,2,2019-08-19,X008
+The Beatles,Abbey Road,7.98,cass,3,2019-08-19,X008
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-19,X008
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-08-19,X008
+The Beatles,Abbey Road,7.98,cass,6,2019-07-19,X022
+The Who,Who's Next,7.98,lp,4,2019-07-19,X022
+AC/DC,Back in Black,8.98,cass,6,2019-06-16,X014
+Pink Floyd,The Wall,14.98,lp,6,2019-06-16,X014
+ZZ Top,Eliminator,9.98,cass,6,2019-06-16,X014
+The Doors,The Doors,7.98,cass,4,2019-06-16,X014
+The Cars,The Cars,8.98,lp,5,2019-06-16,X014
+Queen,Night at the Opera,7.98,cass,3,2019-06-16,X014
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-06-16,X014
+U2,War,9.98,cass,6,2019-07-26,X014
+Queen,Night at the Opera,7.98,cass,5,2019-07-26,X014
+Bad Company,Bad Company,7.98,lp,6,2019-07-26,X014
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-07-26,X014
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-07-26,X014
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-12-09,X044
+The Beatles,Abbey Road,7.98,cass,4,2019-12-09,X044
+The Cars,The Cars,8.98,cass,3,2019-12-09,X044
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-12-09,X044
+Eagles,Hotel California,8.98,cass,5,2019-12-09,X044
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-12-09,X044
+Aerosmith,Toys in the Attic,7.98,cass,9,2019-12-09,X044
+Journey,Escape,8.98,lp,3,2019-08-26,X030
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-08-26,X030
+The Cars,The Cars,8.98,cass,1,2019-08-26,X030
+The Beatles,Abbey Road,7.98,lp,1,2019-08-26,X030
+Van Halen,1984,9.98,cass,3,2019-08-26,X030
+The Who,Who's Next,7.98,cass,5,2019-08-26,X030
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-26,X030
+Pink Floyd,The Wall,14.98,lp,5,2019-02-19,X006
+Pink Floyd,The Wall,14.98,lp,7,2019-02-19,X006
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-12-26,X016
+The Rolling Stones,Sticky Fingers,7.98,cass,9,2019-12-26,X016
+Fleetwood Mac,Rumours,8.98,cass,3,2019-12-26,X016
+The Who,Who's Next,7.98,cass,2,2019-12-26,X016
+ZZ Top,Eliminator,9.98,lp,6,2019-05-20,X017
+Bad Company,Bad Company,7.98,cass,1,2019-05-20,X017
+Foreigner,4,8.98,cass,4,2019-05-20,X017
+AC/DC,Back in Black,8.98,lp,5,2019-05-20,X017
+Van Halen,1984,9.98,cass,4,2019-05-20,X017
+The Who,Who's Next,7.98,cass,4,2019-06-16,X030
+Heart,Dreamboat Annie,7.98,cass,1,2019-06-16,X030
+ZZ Top,Eliminator,9.98,cass,8,2019-06-16,X030
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-06-16,X030
+The Beatles,Abbey Road,7.98,cass,5,2019-08-13,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-08-13,X027
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-09-29,X032
+Heart,Dreamboat Annie,7.98,cass,7,2019-09-29,X032
+Def Leppard,Hysteria,9.98,lp,3,2019-09-29,X032
+Van Halen,1984,9.98,lp,5,2019-09-29,X032
+Van Halen,1984,9.98,lp,4,2019-09-29,X032
+The Who,Who's Next,7.98,cass,8,2019-09-29,X032
+Rush,Moving Pictures,8.98,cass,5,2019-09-29,X032
+AC/DC,Back in Black,8.98,cass,5,2019-02-25,X008
+ZZ Top,Eliminator,9.98,cass,2,2019-02-25,X008
+Bad Company,Bad Company,7.98,lp,5,2019-02-25,X008
+Foreigner,4,8.98,lp,2,2019-02-25,X008
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-02-25,X008
+Boston,Boston,8.98,cass,7,2019-02-25,X008
+Journey,Escape,8.98,cass,4,2019-06-27,X013
+Steve Miller Band,Fly Like an Eagle,8.98,lp,5,2019-06-27,X013
+Van Halen,1984,9.98,lp,2,2019-06-27,X013
+Heart,Dreamboat Annie,7.98,lp,0,2019-06-27,X013
+Foreigner,4,8.98,cass,10,2019-06-27,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-06-27,X013
+Boston,Boston,8.98,lp,5,2019-11-09,X035
+Van Halen,1984,9.98,cass,3,2019-11-09,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-11-09,X035
+The Cars,The Cars,8.98,cass,5,2019-11-09,X035
+Pink Floyd,The Wall,14.98,cass,4,2019-05-20,X004
+Heart,Dreamboat Annie,7.98,cass,6,2019-05-20,X004
+The Who,Who's Next,7.98,cass,5,2019-05-20,X004
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-05-20,X004
+Rush,Moving Pictures,8.98,cass,5,2019-05-20,X004
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-11-12,X042
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-11-12,X042
+ZZ Top,Eliminator,9.98,lp,4,2019-11-12,X042
+Foreigner,4,8.98,cass,6,2019-11-12,X042
+Van Halen,1984,9.98,cass,4,2019-07-10,X027
+Eagles,Hotel California,8.98,cass,4,2019-07-10,X027
+Van Halen,1984,9.98,cass,3,2019-05-08,X041
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-27,X012
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-11-27,X012
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-11-27,X012
+ZZ Top,Eliminator,9.98,cass,5,2019-11-27,X012
+Rush,Moving Pictures,8.98,cass,4,2019-11-27,X012
+Fleetwood Mac,Rumours,8.98,lp,3,2019-11-27,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-11-27,X012
+Fleetwood Mac,Rumours,8.98,cass,5,2019-11-27,X012
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-11-26,X039
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-11-26,X039
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-11-26,X039
+ZZ Top,Eliminator,9.98,cass,8,2019-11-26,X039
+Pink Floyd,The Wall,14.98,cass,3,2019-11-26,X039
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-11-26,X039
+Pink Floyd,The Wall,14.98,cass,3,2019-03-31,X032
+Journey,Escape,8.98,cass,8,2019-03-31,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-03-31,X032
+Eagles,Hotel California,8.98,lp,5,2019-03-31,X032
+Fleetwood Mac,Rumours,8.98,cass,2,2019-03-31,X032
+ZZ Top,Eliminator,9.98,cass,5,2019-03-31,X032
+Def Leppard,Hysteria,9.98,cass,9,2019-08-30,X004
+AC/DC,Back in Black,8.98,cass,6,2019-08-30,X004
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-30,X004
+Van Halen,1984,9.98,cass,5,2019-08-30,X004
+ZZ Top,Eliminator,9.98,lp,5,2019-08-30,X004
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-06-29,X025
+The Beatles,Abbey Road,7.98,cass,5,2019-06-29,X025
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-06-29,X025
+Pink Floyd,The Wall,14.98,lp,3,2019-06-23,X044
+Def Leppard,Hysteria,9.98,cass,5,2019-06-23,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-06-23,X044
+Fleetwood Mac,Rumours,8.98,lp,2,2019-06-23,X044
+Def Leppard,Hysteria,9.98,lp,8,2019-11-14,X013
+The Doors,The Doors,7.98,lp,5,2019-11-14,X013
+Led Zeppelin,IV (untitled),7.98,cass,10,2019-11-14,X013
+Bad Company,Bad Company,7.98,cass,3,2019-11-14,X013
+The Who,Who's Next,7.98,lp,6,2019-11-14,X013
+Heart,Dreamboat Annie,7.98,cass,3,2019-09-04,X010
+ZZ Top,Eliminator,9.98,lp,6,2019-09-04,X010
+AC/DC,Back in Black,8.98,cass,3,2019-12-29,X040
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-12-29,X040
+Van Halen,1984,9.98,cass,3,2019-12-29,X040
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-12-29,X040
+Journey,Escape,8.98,lp,2,2019-06-09,X003
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-06-09,X003
+Queen,Night at the Opera,7.98,cass,6,2019-06-09,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-06-09,X003
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-06-30,X045
+Rush,Moving Pictures,8.98,cass,7,2019-06-30,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-06-30,X045
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-06-30,X045
+Heart,Dreamboat Annie,7.98,cass,3,2019-06-30,X045
+AC/DC,Back in Black,8.98,lp,5,2019-06-30,X045
+Van Halen,1984,9.98,cass,3,2019-06-07,X017
+Fleetwood Mac,Rumours,8.98,cass,7,2019-06-07,X017
+Def Leppard,Hysteria,9.98,lp,2,2019-06-07,X017
+Journey,Escape,8.98,lp,3,2019-12-06,X013
+The Doors,The Doors,7.98,lp,2,2019-05-04,X016
+Eagles,Hotel California,8.98,lp,3,2019-05-04,X016
+The Who,Who's Next,7.98,cass,3,2019-05-04,X016
+Boston,Boston,8.98,cass,6,2019-05-04,X016
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-01-16,X032
+Journey,Escape,8.98,cass,2,2019-01-16,X032
+AC/DC,Back in Black,8.98,cass,8,2019-01-16,X032
+Def Leppard,Hysteria,9.98,lp,4,2019-01-16,X032
+The Who,Who's Next,7.98,cass,1,2019-01-23,X019
+ZZ Top,Eliminator,9.98,lp,9,2019-11-10,X002
+Queen,Night at the Opera,7.98,lp,1,2019-11-10,X002
+Fleetwood Mac,Rumours,8.98,cass,5,2019-11-10,X002
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-11-10,X002
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-11-10,X002
+Van Halen,1984,9.98,cass,6,2019-11-10,X002
+Pink Floyd,The Wall,14.98,lp,3,2019-11-10,X002
+Boston,Boston,8.98,cass,5,2019-11-21,X010
+Fleetwood Mac,Rumours,8.98,cass,4,2019-11-21,X010
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-11-21,X010
+The Cars,The Cars,8.98,cass,3,2019-11-21,X010
+The Beatles,Abbey Road,7.98,cass,8,2019-11-08,X002
+Aerosmith,Toys in the Attic,7.98,cass,7,2019-11-08,X002
+Journey,Escape,8.98,lp,5,2019-11-08,X002
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-11-08,X002
+The Cars,The Cars,8.98,cass,2,2019-11-08,X002
+Queen,Night at the Opera,7.98,cass,1,2019-11-08,X002
+Pink Floyd,The Wall,14.98,cass,3,2019-01-25,X041
+The Beatles,Abbey Road,7.98,cass,3,2019-01-25,X041
+Queen,Night at the Opera,7.98,cass,1,2019-01-25,X041
+Van Halen,1984,9.98,cass,2,2019-01-25,X041
+U2,War,9.98,lp,5,2019-12-09,X008
+The Beatles,Abbey Road,7.98,cass,3,2019-12-09,X008
+Def Leppard,Hysteria,9.98,lp,1,2019-12-09,X008
+Van Halen,1984,9.98,cass,4,2019-12-09,X008
+The Doors,The Doors,7.98,cass,6,2019-12-09,X008
+The Beatles,Abbey Road,7.98,cass,4,2019-07-27,X044
+Heart,Dreamboat Annie,7.98,cass,4,2019-07-27,X044
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-07-27,X044
+Heart,Dreamboat Annie,7.98,cass,2,2019-07-27,X044
+Def Leppard,Hysteria,9.98,cass,4,2019-06-18,X007
+The Beatles,Abbey Road,7.98,lp,6,2019-06-18,X007
+AC/DC,Back in Black,8.98,cass,4,2019-06-18,X007
+U2,War,9.98,cass,2,2019-06-18,X007
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-06-18,X007
+Pink Floyd,The Wall,14.98,lp,4,2019-08-06,X025
+Eagles,Hotel California,8.98,lp,6,2019-08-06,X025
+The Who,Who's Next,7.98,cass,4,2019-08-06,X025
+Pink Floyd,The Wall,14.98,cass,5,2019-08-06,X025
+Boston,Boston,8.98,cass,6,2019-11-05,X027
+Bad Company,Bad Company,7.98,lp,6,2019-11-05,X027
+Boston,Boston,8.98,cass,3,2019-11-05,X027
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-11-05,X027
+Queen,Night at the Opera,7.98,cass,5,2019-11-05,X027
+Eagles,Hotel California,8.98,cass,4,2019-11-05,X027
+The Who,Who's Next,7.98,cass,7,2019-11-04,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-04,X003
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-11-04,X003
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-11-04,X003
+Journey,Escape,8.98,cass,0,2019-11-04,X003
+Boston,Boston,8.98,lp,5,2019-11-04,X003
+U2,War,9.98,cass,6,2019-11-04,X003
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-11-04,X003
+Pink Floyd,The Wall,14.98,cass,2,2019-11-04,X003
+Pink Floyd,The Wall,14.98,lp,2,2019-11-04,X003
+Eagles,Hotel California,8.98,cass,3,2019-11-04,X003
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-08-24,X016
+ZZ Top,Eliminator,9.98,lp,4,2019-08-24,X016
+U2,War,9.98,cass,8,2019-08-24,X016
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-08-24,X016
+Queen,Night at the Opera,7.98,cass,2,2019-07-06,X008
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-07-06,X008
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-07-06,X008
+The Who,Who's Next,7.98,lp,2,2019-07-06,X008
+The Doors,The Doors,7.98,cass,4,2019-07-06,X008
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-07-06,X008
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-07-06,X008
+Van Halen,1984,9.98,lp,3,2019-02-06,X028
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-02-06,X028
+Fleetwood Mac,Rumours,8.98,cass,5,2019-02-06,X028
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-06,X043
+Bad Company,Bad Company,7.98,cass,0,2019-11-06,X043
+U2,War,9.98,cass,2,2019-11-06,X043
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-11-06,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-11-06,X043
+The Beatles,Abbey Road,7.98,cass,3,2019-11-06,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-12-11,X020
+Steve Miller Band,Fly Like an Eagle,8.98,cass,8,2019-12-11,X020
+The Cars,The Cars,8.98,cass,2,2019-12-11,X020
+Queen,Night at the Opera,7.98,lp,3,2019-12-11,X020
+Van Halen,1984,9.98,lp,3,2019-12-11,X020
+Bad Company,Bad Company,7.98,cass,4,2019-06-02,X035
+AC/DC,Back in Black,8.98,cass,5,2019-06-02,X035
+The Cars,The Cars,8.98,cass,0,2019-06-02,X035
+The Beatles,Abbey Road,7.98,cass,6,2019-06-02,X035
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-06-02,X035
+Heart,Dreamboat Annie,7.98,cass,2,2019-07-19,X013
+Pink Floyd,The Wall,14.98,cass,4,2019-07-19,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-07-19,X013
+The Who,Who's Next,7.98,cass,3,2019-07-19,X013
+Aerosmith,Toys in the Attic,7.98,lp,1,2019-07-19,X013
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-07-19,X013
+Steve Miller Band,Fly Like an Eagle,8.98,lp,2,2019-07-19,X013
+The Doors,The Doors,7.98,lp,5,2019-07-19,X013
+Boston,Boston,8.98,cass,2,2019-07-19,X013
+Steve Miller Band,Fly Like an Eagle,8.98,lp,2,2019-01-07,X043
+U2,War,9.98,lp,4,2019-01-07,X043
+Eagles,Hotel California,8.98,cass,5,2019-01-07,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-01-07,X043
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-01-07,X043
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-01-07,X043
+The Beatles,Abbey Road,7.98,cass,1,2019-01-07,X043
+The Who,Who's Next,7.98,cass,5,2019-07-09,X044
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-07-09,X044
+Van Halen,1984,9.98,lp,4,2019-07-09,X044
+The Doors,The Doors,7.98,cass,2,2019-07-09,X044
+Van Halen,1984,9.98,cass,4,2019-07-09,X044
+AC/DC,Back in Black,8.98,cass,5,2019-07-09,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-09,X044
+The Beatles,Abbey Road,7.98,lp,1,2019-09-09,X034
+Van Halen,1984,9.98,lp,5,2019-09-09,X034
+Heart,Dreamboat Annie,7.98,cass,3,2019-09-09,X034
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-03-14,X042
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-14,X042
+Queen,Night at the Opera,7.98,cass,3,2019-03-14,X042
+Eagles,Hotel California,8.98,cass,5,2019-03-14,X042
+AC/DC,Back in Black,8.98,lp,4,2019-01-16,X044
+Fleetwood Mac,Rumours,8.98,cass,4,2019-01-16,X044
+Pink Floyd,The Wall,14.98,cass,5,2019-01-16,X044
+Pink Floyd,The Wall,14.98,cass,3,2019-01-16,X044
+The Who,Who's Next,7.98,cass,5,2019-01-16,X044
+Pink Floyd,The Wall,14.98,cass,4,2019-04-11,X011
+The Cars,The Cars,8.98,cass,6,2019-04-11,X011
+Pink Floyd,The Wall,14.98,cass,2,2019-01-21,X032
+Def Leppard,Hysteria,9.98,lp,8,2019-01-21,X032
+The Who,Who's Next,7.98,cass,5,2019-04-03,X041
+The Beatles,Abbey Road,7.98,lp,2,2019-04-03,X041
+ZZ Top,Eliminator,9.98,cass,2,2019-04-03,X041
+Queen,Night at the Opera,7.98,cass,3,2019-04-03,X041
+Foreigner,4,8.98,cass,4,2019-04-16,X042
+AC/DC,Back in Black,8.98,lp,2,2019-04-16,X042
+Queen,Night at the Opera,7.98,lp,3,2019-04-16,X042
+The Beatles,Abbey Road,7.98,cass,7,2019-04-16,X042
+Eagles,Hotel California,8.98,cass,3,2019-04-16,X042
+Van Halen,1984,9.98,cass,6,2019-04-16,X042
+The Cars,The Cars,8.98,lp,3,2019-04-16,X042
+Eagles,Hotel California,8.98,cass,3,2019-04-16,X042
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-23,X032
+The Beatles,Abbey Road,7.98,cass,6,2019-03-23,X032
+U2,War,9.98,cass,1,2019-08-15,X037
+Foreigner,4,8.98,lp,7,2019-08-15,X037
+Van Halen,1984,9.98,cass,1,2019-08-15,X037
+Aerosmith,Toys in the Attic,7.98,lp,7,2019-08-15,X037
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-08-15,X037
+Foreigner,4,8.98,cass,2,2019-08-25,X019
+Boston,Boston,8.98,cass,5,2019-08-25,X019
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-08-25,X019
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-08-25,X019
+Eagles,Hotel California,8.98,cass,3,2019-08-25,X019
+Eagles,Hotel California,8.98,lp,7,2019-03-30,X006
+Bad Company,Bad Company,7.98,cass,4,2019-03-30,X006
+Van Halen,1984,9.98,lp,5,2019-03-30,X006
+Boston,Boston,8.98,cass,5,2019-03-30,X006
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-03-30,X006
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-04,X044
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-07-04,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-07-04,X044
+The Cars,The Cars,8.98,cass,7,2019-07-29,X003
+Queen,Night at the Opera,7.98,cass,8,2019-07-29,X003
+Rush,Moving Pictures,8.98,cass,4,2019-07-29,X003
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-07-29,X003
+ZZ Top,Eliminator,9.98,lp,4,2019-07-29,X003
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-07-13,X028
+The Who,Who's Next,7.98,lp,1,2019-07-13,X028
+Rush,Moving Pictures,8.98,cass,4,2019-07-13,X028
+Boston,Boston,8.98,cass,5,2019-07-13,X028
+Def Leppard,Hysteria,9.98,lp,3,2019-07-13,X028
+Van Halen,1984,9.98,cass,3,2019-05-28,X010
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-05-28,X010
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-02-10,X022
+Boston,Boston,8.98,cass,7,2019-02-10,X022
+Boston,Boston,8.98,cass,3,2019-02-10,X022
+U2,War,9.98,cass,0,2019-02-22,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-02-22,X032
+Boston,Boston,8.98,lp,5,2019-02-22,X032
+Heart,Dreamboat Annie,7.98,cass,5,2019-02-22,X032
+AC/DC,Back in Black,8.98,cass,6,2019-02-22,X032
+Pink Floyd,The Wall,14.98,cass,3,2019-02-22,X032
+Queen,Night at the Opera,7.98,cass,4,2019-02-22,X032
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-05-05,X028
+Van Halen,1984,9.98,lp,7,2019-02-04,X021
+Bad Company,Bad Company,7.98,cass,7,2019-02-04,X021
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-02-04,X021
+The Who,Who's Next,7.98,lp,2,2019-02-04,X021
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-02-04,X021
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-08-12,X041
+The Doors,The Doors,7.98,cass,2,2019-08-12,X041
+The Doors,The Doors,7.98,lp,1,2019-08-12,X041
+Van Halen,1984,9.98,lp,7,2019-06-07,X010
+U2,War,9.98,cass,4,2019-06-07,X010
+Lynyrd Skynyrd,Second Helping,7.98,lp,5,2019-06-07,X010
+Pink Floyd,The Wall,14.98,lp,6,2019-06-07,X010
+The Beatles,Abbey Road,7.98,cass,3,2019-08-21,X018
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-08-21,X018
+Led Zeppelin,IV (untitled),7.98,lp,11,2019-08-21,X018
+Boston,Boston,8.98,lp,0,2019-04-27,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-04-27,X036
+AC/DC,Back in Black,8.98,cass,4,2019-04-27,X036
+The Beatles,Abbey Road,7.98,lp,3,2019-04-27,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-04-27,X036
+Queen,Night at the Opera,7.98,lp,3,2019-02-16,X024
+Journey,Escape,8.98,cass,7,2019-04-01,X030
+Fleetwood Mac,Rumours,8.98,lp,8,2019-04-01,X030
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-04-01,X030
+Van Halen,1984,9.98,lp,9,2019-01-09,X024
+Bad Company,Bad Company,7.98,cass,2,2019-01-09,X024
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-01-09,X024
+Eagles,Hotel California,8.98,cass,5,2019-01-09,X024
+Van Halen,1984,9.98,cass,1,2019-01-09,X024
+Van Halen,1984,9.98,cass,3,2019-07-13,X040
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-07-13,X040
+U2,War,9.98,cass,5,2019-07-13,X040
+Pink Floyd,The Wall,14.98,cass,3,2019-07-13,X040
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-04-25,X033
+The Cars,The Cars,8.98,cass,3,2019-04-25,X033
+The Cars,The Cars,8.98,lp,4,2019-04-25,X033
+Boston,Boston,8.98,cass,5,2019-04-25,X033
+Journey,Escape,8.98,cass,9,2019-04-25,X033
+The Doors,The Doors,7.98,cass,0,2019-04-25,X033
+Van Halen,1984,9.98,cass,4,2019-04-25,X033
+The Who,Who's Next,7.98,cass,3,2019-03-18,X032
+Lynyrd Skynyrd,Second Helping,7.98,lp,4,2019-03-18,X032
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-03-18,X032
+Def Leppard,Hysteria,9.98,lp,7,2019-03-18,X032
+Van Halen,1984,9.98,lp,3,2019-03-18,X032
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-03-18,X032
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-03-18,X032
+Van Halen,1984,9.98,cass,4,2019-02-11,X010
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-02-11,X010
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-02-11,X010
+Foreigner,4,8.98,cass,7,2019-01-16,X016
+ZZ Top,Eliminator,9.98,lp,7,2019-01-16,X016
+Fleetwood Mac,Rumours,8.98,lp,5,2019-01-16,X016
+Pink Floyd,The Wall,14.98,cass,3,2019-01-16,X016
+ZZ Top,Eliminator,9.98,cass,2,2019-11-07,X034
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-11-07,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-11-07,X034
+U2,War,9.98,lp,7,2019-11-07,X034
+U2,War,9.98,cass,4,2019-11-07,X034
+Lynyrd Skynyrd,Second Helping,7.98,lp,8,2019-10-19,X028
+The Cars,The Cars,8.98,cass,1,2019-10-19,X028
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-10-19,X028
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-10-19,X028
+Boston,Boston,8.98,cass,3,2019-10-19,X028
+Bad Company,Bad Company,7.98,cass,3,2019-05-22,X029
+Led Zeppelin,IV (untitled),7.98,lp,5,2019-05-22,X029
+The Beatles,Abbey Road,7.98,cass,3,2019-05-22,X029
+ZZ Top,Eliminator,9.98,cass,4,2019-05-22,X029
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-05-22,X029
+The Doors,The Doors,7.98,lp,4,2019-05-22,X029
+ZZ Top,Eliminator,9.98,cass,3,2019-05-22,X029
+The Cars,The Cars,8.98,lp,7,2019-05-22,X029
+Rush,Moving Pictures,8.98,cass,6,2019-02-18,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-02-18,X044
+Rush,Moving Pictures,8.98,cass,5,2019-02-18,X044
+Pink Floyd,The Wall,14.98,cass,6,2019-09-23,X034
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-09-23,X034
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-09-23,X034
+Boston,Boston,8.98,cass,3,2019-09-23,X034
+Van Halen,1984,9.98,cass,3,2019-09-23,X034
+Foreigner,4,8.98,lp,6,2019-09-23,X034
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-09-12,X012
+AC/DC,Back in Black,8.98,cass,4,2019-09-12,X012
+The Who,Who's Next,7.98,lp,4,2019-09-12,X012
+Queen,Night at the Opera,7.98,cass,4,2019-02-06,X025
+Van Halen,1984,9.98,cass,3,2019-02-06,X025
+Van Halen,1984,9.98,cass,3,2019-02-06,X025
+The Cars,The Cars,8.98,cass,4,2019-02-06,X025
+Van Halen,1984,9.98,lp,6,2019-11-11,X022
+Van Halen,1984,9.98,cass,2,2019-11-11,X022
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-11,X022
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-11-11,X022
+AC/DC,Back in Black,8.98,cass,3,2019-11-11,X022
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-11-11,X022
+Def Leppard,Hysteria,9.98,cass,2,2019-11-11,X022
+Heart,Dreamboat Annie,7.98,cass,3,2019-11-11,X022
+Fleetwood Mac,Rumours,8.98,lp,6,2019-03-25,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-03-25,X004
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-03-25,X004
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-03-25,X004
+Eagles,Hotel California,8.98,cass,5,2019-03-25,X004
+Journey,Escape,8.98,cass,0,2019-06-30,X003
+The Who,Who's Next,7.98,cass,6,2019-06-30,X003
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-10-03,X032
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-10-03,X032
+Steve Miller Band,Fly Like an Eagle,8.98,cass,1,2019-10-03,X032
+AC/DC,Back in Black,8.98,cass,5,2019-10-03,X032
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-10-03,X032
+The Cars,The Cars,8.98,cass,7,2019-10-03,X032
+Queen,Night at the Opera,7.98,cass,9,2019-08-13,X042
+Van Halen,1984,9.98,cass,6,2019-08-13,X042
+Aerosmith,Toys in the Attic,7.98,cass,7,2019-08-13,X042
+Boston,Boston,8.98,cass,5,2019-08-13,X042
+The Beatles,Abbey Road,7.98,cass,4,2019-08-13,X042
+Van Halen,1984,9.98,lp,3,2019-08-13,X042
+AC/DC,Back in Black,8.98,cass,9,2019-08-13,X042
+Eagles,Hotel California,8.98,cass,2,2019-08-13,X042
+The Doors,The Doors,7.98,cass,5,2019-08-13,X042
+Queen,Night at the Opera,7.98,cass,6,2019-04-08,X038
+AC/DC,Back in Black,8.98,lp,6,2019-04-08,X038
+U2,War,9.98,lp,1,2019-06-02,X032
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-06-02,X032
+Queen,Night at the Opera,7.98,lp,4,2019-06-02,X032
+The Doors,The Doors,7.98,lp,7,2019-06-21,X023
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-06-21,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-06-21,X023
+AC/DC,Back in Black,8.98,lp,4,2019-06-21,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-06-21,X023
+The Doors,The Doors,7.98,lp,1,2019-06-21,X023
+Journey,Escape,8.98,lp,3,2019-07-24,X031
+The Cars,The Cars,8.98,lp,1,2019-07-24,X031
+Foreigner,4,8.98,lp,4,2019-07-24,X031
+The Who,Who's Next,7.98,cass,5,2019-08-19,X028
+Foreigner,4,8.98,lp,2,2019-08-19,X028
+The Cars,The Cars,8.98,lp,4,2019-08-19,X028
+Def Leppard,Hysteria,9.98,cass,5,2019-08-19,X028
+The Beatles,Abbey Road,7.98,cass,4,2019-08-19,X028
+Eagles,Hotel California,8.98,cass,4,2019-03-18,X043
+Van Halen,1984,9.98,cass,7,2019-03-18,X043
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-03-18,X043
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-03-18,X043
+Queen,Night at the Opera,7.98,cass,6,2019-03-18,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-03-18,X043
+Steve Miller Band,Fly Like an Eagle,8.98,lp,7,2019-03-18,X043
+The Who,Who's Next,7.98,cass,2,2019-07-29,X032
+ZZ Top,Eliminator,9.98,cass,5,2019-07-29,X032
+Fleetwood Mac,Rumours,8.98,cass,5,2019-07-29,X032
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-07-29,X032
+Fleetwood Mac,Rumours,8.98,cass,7,2019-12-13,X017
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-12-13,X017
+The Doors,The Doors,7.98,cass,4,2019-12-13,X017
+ZZ Top,Eliminator,9.98,cass,1,2019-12-13,X017
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-12-13,X017
+The Cars,The Cars,8.98,cass,5,2019-12-13,X017
+The Doors,The Doors,7.98,cass,5,2019-07-24,X039
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-07-24,X039
+Def Leppard,Hysteria,9.98,cass,4,2019-07-24,X039
+Fleetwood Mac,Rumours,8.98,cass,4,2019-07-24,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-07-24,X039
+Boston,Boston,8.98,cass,5,2019-07-24,X039
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-06-21,X017
+Van Halen,1984,9.98,lp,2,2019-06-21,X017
+Steve Miller Band,Fly Like an Eagle,8.98,lp,4,2019-06-21,X017
+U2,War,9.98,lp,5,2019-06-21,X017
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-06-21,X017
+Queen,Night at the Opera,7.98,cass,3,2019-06-21,X017
+The Cars,The Cars,8.98,lp,4,2019-06-21,X017
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-06-21,X017
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-06-21,X017
+Foreigner,4,8.98,lp,6,2019-06-21,X017
+The Cars,The Cars,8.98,cass,4,2019-06-21,X017
+AC/DC,Back in Black,8.98,lp,2,2019-06-21,X017
+U2,War,9.98,lp,4,2019-06-21,X017
+The Beatles,Abbey Road,7.98,cass,3,2019-04-28,X045
+U2,War,9.98,cass,1,2019-04-28,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-02-08,X025
+Fleetwood Mac,Rumours,8.98,cass,3,2019-02-08,X025
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-02-08,X025
+The Who,Who's Next,7.98,lp,5,2019-02-08,X025
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-02-08,X025
+U2,War,9.98,cass,5,2019-02-08,X025
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-03-16,X022
+Eagles,Hotel California,8.98,cass,10,2019-03-16,X022
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-03-16,X022
+Journey,Escape,8.98,cass,6,2019-03-16,X022
+The Beatles,Abbey Road,7.98,cass,5,2019-03-16,X022
+AC/DC,Back in Black,8.98,cass,2,2019-02-24,X037
+ZZ Top,Eliminator,9.98,lp,1,2019-02-24,X037
+ZZ Top,Eliminator,9.98,cass,3,2019-02-24,X037
+U2,War,9.98,lp,1,2019-07-10,X015
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-07-10,X015
+Foreigner,4,8.98,cass,4,2019-07-10,X015
+Foreigner,4,8.98,cass,4,2019-07-18,X030
+Journey,Escape,8.98,lp,1,2019-07-18,X030
+Fleetwood Mac,Rumours,8.98,cass,0,2019-07-18,X030
+The Cars,The Cars,8.98,cass,4,2019-07-18,X030
+ZZ Top,Eliminator,9.98,lp,5,2019-07-18,X030
+Def Leppard,Hysteria,9.98,cass,4,2019-07-18,X030
+U2,War,9.98,lp,3,2019-05-26,X005
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-05-26,X005
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-05-26,X005
+Boston,Boston,8.98,lp,4,2019-12-14,X042
+Bad Company,Bad Company,7.98,lp,5,2019-12-14,X042
+The Who,Who's Next,7.98,cass,6,2019-12-14,X042
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-12-14,X042
+Pink Floyd,The Wall,14.98,lp,10,2019-07-02,X022
+Boston,Boston,8.98,cass,3,2019-07-02,X022
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-07-02,X022
+The Who,Who's Next,7.98,cass,6,2019-07-02,X022
+AC/DC,Back in Black,8.98,cass,4,2019-07-02,X022
+Fleetwood Mac,Rumours,8.98,cass,6,2019-07-02,X022
+Foreigner,4,8.98,lp,4,2019-08-09,X043
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-08-09,X043
+The Who,Who's Next,7.98,cass,3,2019-08-09,X043
+Fleetwood Mac,Rumours,8.98,cass,4,2019-08-09,X043
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-08-09,X043
+U2,War,9.98,cass,3,2019-08-09,X043
+Van Halen,1984,9.98,lp,3,2019-08-09,X043
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-08-09,X043
+Van Halen,1984,9.98,lp,3,2019-06-28,X005
+Foreigner,4,8.98,cass,4,2019-06-28,X005
+Eagles,Hotel California,8.98,cass,4,2019-06-28,X005
+Queen,Night at the Opera,7.98,cass,4,2019-06-28,X005
+The Beatles,Abbey Road,7.98,cass,2,2019-06-28,X005
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-06-28,X005
+AC/DC,Back in Black,8.98,cass,6,2019-06-28,X005
+Fleetwood Mac,Rumours,8.98,cass,1,2019-06-26,X015
+AC/DC,Back in Black,8.98,cass,4,2019-06-26,X015
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-06-26,X015
+Fleetwood Mac,Rumours,8.98,cass,1,2019-06-26,X015
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-06-26,X015
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-06-26,X015
+Journey,Escape,8.98,cass,4,2019-06-26,X015
+Pink Floyd,The Wall,14.98,cass,8,2019-06-26,X015
+The Beatles,Abbey Road,7.98,lp,4,2019-06-26,X015
+Queen,Night at the Opera,7.98,lp,3,2019-09-24,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-09-24,X022
+The Beatles,Abbey Road,7.98,lp,6,2019-09-24,X022
+The Who,Who's Next,7.98,lp,6,2019-09-24,X022
+Bad Company,Bad Company,7.98,cass,3,2019-08-16,X005
+ZZ Top,Eliminator,9.98,cass,5,2019-08-16,X005
+AC/DC,Back in Black,8.98,cass,2,2019-08-16,X005
+Foreigner,4,8.98,lp,6,2019-08-16,X005
+Boston,Boston,8.98,cass,2,2019-01-28,X034
+Queen,Night at the Opera,7.98,cass,3,2019-01-28,X034
+Pink Floyd,The Wall,14.98,cass,3,2019-01-28,X034
+Bad Company,Bad Company,7.98,cass,6,2019-01-28,X034
+The Who,Who's Next,7.98,cass,2,2019-01-28,X034
+Queen,Night at the Opera,7.98,cass,6,2019-08-28,X031
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-08-28,X031
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-28,X031
+Journey,Escape,8.98,cass,6,2019-08-28,X031
+Eagles,Hotel California,8.98,lp,4,2019-08-28,X031
+Journey,Escape,8.98,lp,1,2019-08-28,X031
+The Rolling Stones,Sticky Fingers,7.98,lp,10,2019-04-27,X007
+Boston,Boston,8.98,cass,2,2019-04-27,X007
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-04-27,X007
+Boston,Boston,8.98,cass,1,2019-04-27,X007
+The Doors,The Doors,7.98,lp,4,2019-04-27,X007
+Steve Miller Band,Fly Like an Eagle,8.98,cass,9,2019-04-27,X007
+Foreigner,4,8.98,cass,4,2019-04-27,X007
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-04-27,X007
+ZZ Top,Eliminator,9.98,lp,7,2019-02-12,X011
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-02-12,X011
+Queen,Night at the Opera,7.98,cass,7,2019-02-12,X011
+Bad Company,Bad Company,7.98,cass,5,2019-02-12,X011
+Van Halen,1984,9.98,cass,4,2019-02-12,X011
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-02-12,X011
+Fleetwood Mac,Rumours,8.98,lp,2,2019-02-12,X011
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-04-28,X029
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-04-28,X029
+AC/DC,Back in Black,8.98,lp,4,2019-04-28,X029
+Boston,Boston,8.98,cass,2,2019-04-28,X029
+Bad Company,Bad Company,7.98,cass,3,2019-04-28,X029
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-11-23,X034
+U2,War,9.98,cass,4,2019-11-23,X034
+The Beatles,Abbey Road,7.98,cass,7,2019-11-23,X034
+ZZ Top,Eliminator,9.98,cass,2,2019-11-23,X034
+Van Halen,1984,9.98,cass,1,2019-11-23,X034
+Foreigner,4,8.98,cass,2,2019-11-23,X034
+The Cars,The Cars,8.98,lp,6,2019-11-23,X034
+U2,War,9.98,cass,4,2019-11-23,X034
+Aerosmith,Toys in the Attic,7.98,cass,8,2019-02-10,X041
+ZZ Top,Eliminator,9.98,cass,2,2019-02-10,X041
+ZZ Top,Eliminator,9.98,cass,6,2019-02-10,X041
+Journey,Escape,8.98,cass,6,2019-02-10,X041
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-02-10,X041
+Van Halen,1984,9.98,cass,2,2019-02-10,X041
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-05-24,X037
+Bad Company,Bad Company,7.98,lp,5,2019-05-24,X037
+Van Halen,1984,9.98,cass,5,2019-05-08,X013
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-05-08,X013
+ZZ Top,Eliminator,9.98,cass,4,2019-05-08,X013
+The Beatles,Abbey Road,7.98,cass,3,2019-05-08,X013
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-05-08,X013
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-05-08,X013
+Van Halen,1984,9.98,cass,5,2019-05-08,X013
+ZZ Top,Eliminator,9.98,lp,4,2019-06-04,X012
+Def Leppard,Hysteria,9.98,lp,4,2019-06-04,X012
+Pink Floyd,The Wall,14.98,lp,2,2019-06-04,X012
+Queen,Night at the Opera,7.98,cass,8,2019-06-04,X012
+AC/DC,Back in Black,8.98,cass,6,2019-06-04,X012
+Van Halen,1984,9.98,lp,3,2019-08-28,X034
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-08-28,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-08-28,X034
+Fleetwood Mac,Rumours,8.98,lp,5,2019-08-28,X034
+Journey,Escape,8.98,cass,7,2019-08-28,X034
+The Who,Who's Next,7.98,lp,0,2019-08-28,X034
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-11-05,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-11-05,X004
+The Beatles,Abbey Road,7.98,cass,7,2019-11-05,X004
+U2,War,9.98,cass,4,2019-11-05,X004
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-05,X004
+Van Halen,1984,9.98,cass,2,2019-11-05,X004
+AC/DC,Back in Black,8.98,cass,0,2019-11-05,X004
+Van Halen,1984,9.98,lp,0,2019-04-22,X013
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-04-22,X013
+Foreigner,4,8.98,cass,4,2019-04-22,X013
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-04-22,X013
+Pink Floyd,The Wall,14.98,cass,3,2019-04-22,X013
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-04-22,X013
+The Cars,The Cars,8.98,lp,3,2019-04-22,X013
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-04-22,X013
+Pink Floyd,The Wall,14.98,cass,6,2019-10-13,X018
+Van Halen,1984,9.98,cass,6,2019-10-13,X018
+U2,War,9.98,cass,4,2019-10-13,X018
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-10-13,X018
+Heart,Dreamboat Annie,7.98,lp,5,2019-10-13,X018
+The Beatles,Abbey Road,7.98,lp,3,2019-10-13,X018
+Led Zeppelin,IV (untitled),7.98,lp,0,2019-10-13,X018
+Van Halen,1984,9.98,cass,0,2019-10-13,X018
+ZZ Top,Eliminator,9.98,cass,6,2019-01-11,X002
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-01-11,X002
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-01-11,X002
+Journey,Escape,8.98,cass,4,2019-01-11,X002
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-09-15,X018
+Foreigner,4,8.98,lp,2,2019-09-15,X018
+Van Halen,1984,9.98,cass,2,2019-09-15,X018
+The Doors,The Doors,7.98,cass,5,2019-09-15,X018
+Lynyrd Skynyrd,Second Helping,7.98,cass,1,2019-09-15,X018
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-09-15,X018
+Def Leppard,Hysteria,9.98,lp,0,2019-09-15,X018
+Journey,Escape,8.98,cass,1,2019-09-15,X018
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-09-15,X018
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-02-16,X006
+Boston,Boston,8.98,cass,3,2019-02-16,X006
+The Doors,The Doors,7.98,cass,5,2019-09-12,X017
+Queen,Night at the Opera,7.98,cass,3,2019-09-12,X017
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-09-12,X017
+The Cars,The Cars,8.98,lp,2,2019-09-12,X017
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-09-12,X017
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-09-12,X017
+Queen,Night at the Opera,7.98,cass,2,2019-09-12,X017
+Van Halen,1984,9.98,cass,1,2019-09-12,X017
+Pink Floyd,The Wall,14.98,lp,1,2019-09-12,X017
+Def Leppard,Hysteria,9.98,cass,2,2019-09-12,X017
+Fleetwood Mac,Rumours,8.98,cass,3,2019-09-12,X017
+ZZ Top,Eliminator,9.98,lp,7,2019-06-25,X042
+Foreigner,4,8.98,cass,5,2019-06-25,X042
+Bad Company,Bad Company,7.98,lp,2,2019-06-25,X042
+Rush,Moving Pictures,8.98,cass,11,2019-06-25,X042
+Bad Company,Bad Company,7.98,cass,10,2019-06-25,X042
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-18,X019
+The Beatles,Abbey Road,7.98,lp,4,2019-07-18,X019
+The Cars,The Cars,8.98,cass,6,2019-07-18,X019
+U2,War,9.98,lp,4,2019-07-18,X019
+ZZ Top,Eliminator,9.98,cass,4,2019-07-18,X019
+Eagles,Hotel California,8.98,cass,4,2019-07-18,X019
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-08-16,X033
+AC/DC,Back in Black,8.98,cass,1,2019-08-16,X033
+The Beatles,Abbey Road,7.98,cass,5,2019-08-16,X033
+AC/DC,Back in Black,8.98,cass,2,2019-08-16,X033
+The Who,Who's Next,7.98,cass,6,2019-08-16,X033
+Journey,Escape,8.98,lp,1,2019-08-16,X033
+Def Leppard,Hysteria,9.98,cass,6,2019-02-18,X001
+Pink Floyd,The Wall,14.98,lp,5,2019-03-09,X041
+Van Halen,1984,9.98,lp,1,2019-03-09,X041
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-03-09,X041
+Eagles,Hotel California,8.98,cass,7,2019-03-09,X041
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-03-09,X041
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-03-09,X041
+The Rolling Stones,Sticky Fingers,7.98,cass,10,2019-03-09,X041
+Van Halen,1984,9.98,cass,3,2019-03-09,X041
+Van Halen,1984,9.98,cass,4,2019-03-09,X041
+Van Halen,1984,9.98,lp,2,2019-03-09,X041
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-03-09,X041
+Pink Floyd,The Wall,14.98,cass,5,2019-01-27,X004
+Aerosmith,Toys in the Attic,7.98,lp,0,2019-02-17,X014
+Eagles,Hotel California,8.98,cass,6,2019-02-17,X014
+Pink Floyd,The Wall,14.98,cass,2,2019-02-17,X014
+Queen,Night at the Opera,7.98,lp,3,2019-02-17,X014
+ZZ Top,Eliminator,9.98,lp,5,2019-01-07,X024
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-01-07,X024
+Heart,Dreamboat Annie,7.98,lp,3,2019-01-07,X024
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-01-07,X024
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-01-07,X024
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-01-07,X024
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-10-08,X002
+AC/DC,Back in Black,8.98,cass,0,2019-10-08,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-10-08,X002
+Van Halen,1984,9.98,lp,3,2019-10-08,X002
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-10-08,X002
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-10-08,X002
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-10-08,X002
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-10-08,X002
+Eagles,Hotel California,8.98,cass,3,2019-10-21,X023
+Eagles,Hotel California,8.98,lp,5,2019-10-21,X023
+Bad Company,Bad Company,7.98,lp,3,2019-10-21,X023
+The Beatles,Abbey Road,7.98,cass,2,2019-10-21,X023
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-10-21,X023
+Pink Floyd,The Wall,14.98,lp,4,2019-10-21,X023
+Pink Floyd,The Wall,14.98,cass,5,2019-01-17,X013
+Van Halen,1984,9.98,cass,4,2019-01-17,X013
+Eagles,Hotel California,8.98,cass,3,2019-01-17,X013
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-01-17,X013
+Boston,Boston,8.98,cass,1,2019-07-03,X016
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-07-03,X016
+Van Halen,1984,9.98,cass,5,2019-07-03,X016
+Fleetwood Mac,Rumours,8.98,cass,5,2019-07-03,X016
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-11-19,X004
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-11-19,X004
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-11-19,X004
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-19,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-19,X004
+The Who,Who's Next,7.98,cass,5,2019-11-19,X004
+Bad Company,Bad Company,7.98,cass,6,2019-01-12,X041
+Foreigner,4,8.98,cass,9,2019-09-29,X036
+Queen,Night at the Opera,7.98,lp,6,2019-09-29,X036
+The Who,Who's Next,7.98,cass,2,2019-09-29,X036
+Boston,Boston,8.98,lp,0,2019-09-29,X036
+Eagles,Hotel California,8.98,cass,7,2019-09-29,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-09-29,X036
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-09-29,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-09-29,X036
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-01-10,X010
+The Who,Who's Next,7.98,cass,6,2019-01-10,X010
+AC/DC,Back in Black,8.98,lp,4,2019-01-10,X010
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-01-10,X010
+AC/DC,Back in Black,8.98,cass,1,2019-12-23,X044
+AC/DC,Back in Black,8.98,cass,6,2019-12-23,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-12-23,X044
+ZZ Top,Eliminator,9.98,lp,7,2019-12-23,X044
+Van Halen,1984,9.98,lp,7,2019-12-23,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-12-23,X044
+ZZ Top,Eliminator,9.98,lp,7,2019-12-23,X044
+Van Halen,1984,9.98,cass,7,2019-11-15,X008
+Foreigner,4,8.98,lp,2,2019-11-15,X008
+Bad Company,Bad Company,7.98,lp,7,2019-11-15,X008
+Fleetwood Mac,Rumours,8.98,lp,6,2019-11-15,X008
+Steve Miller Band,Fly Like an Eagle,8.98,cass,2,2019-10-14,X044
+Van Halen,1984,9.98,cass,5,2019-10-14,X044
+Steve Miller Band,Fly Like an Eagle,8.98,cass,1,2019-10-14,X044
+Fleetwood Mac,Rumours,8.98,cass,3,2019-10-14,X044
+The Cars,The Cars,8.98,lp,4,2019-10-14,X044
+Fleetwood Mac,Rumours,8.98,cass,0,2019-10-14,X044
+Pink Floyd,The Wall,14.98,cass,7,2019-10-14,X044
+The Who,Who's Next,7.98,cass,5,2019-03-08,X038
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-03-08,X038
+Bad Company,Bad Company,7.98,cass,3,2019-03-08,X038
+Bad Company,Bad Company,7.98,cass,3,2019-03-08,X038
+Journey,Escape,8.98,cass,8,2019-03-08,X038
+Van Halen,1984,9.98,cass,0,2019-03-08,X038
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-03-08,X038
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-05-07,X035
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-05-07,X035
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-05-07,X035
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-05-07,X035
+Heart,Dreamboat Annie,7.98,lp,1,2019-05-07,X035
+The Cars,The Cars,8.98,cass,4,2019-02-10,X011
+Eagles,Hotel California,8.98,cass,5,2019-02-10,X011
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-02-10,X011
+The Who,Who's Next,7.98,lp,2,2019-09-05,X036
+Fleetwood Mac,Rumours,8.98,cass,4,2019-09-05,X036
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-09-05,X036
+ZZ Top,Eliminator,9.98,cass,2,2019-09-05,X036
+Journey,Escape,8.98,cass,2,2019-09-05,X036
+Fleetwood Mac,Rumours,8.98,cass,5,2019-09-05,X036
+Journey,Escape,8.98,lp,4,2019-09-05,X036
+Rush,Moving Pictures,8.98,lp,2,2019-09-05,X036
+Def Leppard,Hysteria,9.98,cass,3,2019-09-05,X036
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-09-05,X036
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-09-05,X036
+ZZ Top,Eliminator,9.98,cass,3,2019-09-05,X036
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-09-05,X036
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-10,X043
+Foreigner,4,8.98,lp,6,2019-07-24,X032
+The Who,Who's Next,7.98,lp,5,2019-07-24,X032
+The Beatles,Abbey Road,7.98,cass,6,2019-07-24,X032
+Rush,Moving Pictures,8.98,lp,4,2019-05-04,X033
+Eagles,Hotel California,8.98,cass,4,2019-05-04,X033
+Pink Floyd,The Wall,14.98,lp,4,2019-05-04,X033
+ZZ Top,Eliminator,9.98,lp,3,2019-05-04,X033
+Def Leppard,Hysteria,9.98,lp,6,2019-05-04,X033
+U2,War,9.98,lp,0,2019-05-04,X033
+Steve Miller Band,Fly Like an Eagle,8.98,cass,6,2019-08-07,X004
+Foreigner,4,8.98,cass,4,2019-12-27,X035
+The Beatles,Abbey Road,7.98,cass,5,2019-12-27,X035
+Fleetwood Mac,Rumours,8.98,cass,4,2019-12-27,X035
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-07-06,X024
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-07-06,X024
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-06,X024
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-07-06,X024
+AC/DC,Back in Black,8.98,cass,0,2019-07-06,X024
+Bad Company,Bad Company,7.98,lp,3,2019-07-06,X024
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-06,X024
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-07-06,X024
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-07-06,X024
+The Cars,The Cars,8.98,cass,1,2019-08-13,X037
+Journey,Escape,8.98,cass,5,2019-08-13,X037
+Rush,Moving Pictures,8.98,lp,0,2019-08-13,X037
+Van Halen,1984,9.98,cass,1,2019-08-13,X037
+Foreigner,4,8.98,cass,8,2019-08-13,X037
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-08-13,X037
+Eagles,Hotel California,8.98,cass,5,2019-08-13,X037
+The Cars,The Cars,8.98,lp,5,2019-02-25,X015
+ZZ Top,Eliminator,9.98,cass,6,2019-02-25,X015
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-02-25,X015
+Heart,Dreamboat Annie,7.98,cass,3,2019-02-25,X015
+Foreigner,4,8.98,lp,1,2019-12-26,X042
+AC/DC,Back in Black,8.98,cass,3,2019-12-26,X042
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-12-26,X042
+The Cars,The Cars,8.98,cass,6,2019-12-26,X042
+Foreigner,4,8.98,lp,3,2019-12-26,X042
+Rush,Moving Pictures,8.98,cass,5,2019-12-26,X042
+The Who,Who's Next,7.98,cass,2,2019-12-26,X042
+Bad Company,Bad Company,7.98,lp,7,2019-07-06,X003
+The Cars,The Cars,8.98,cass,4,2019-07-06,X003
+ZZ Top,Eliminator,9.98,lp,4,2019-07-06,X003
+Rush,Moving Pictures,8.98,lp,3,2019-07-06,X003
+Foreigner,4,8.98,cass,4,2019-07-06,X003
+Van Halen,1984,9.98,lp,1,2019-07-06,X003
+Eagles,Hotel California,8.98,lp,5,2019-07-06,X003
+Pink Floyd,The Wall,14.98,cass,5,2019-07-06,X003
+Journey,Escape,8.98,cass,4,2019-03-10,X015
+AC/DC,Back in Black,8.98,lp,6,2019-03-10,X015
+Aerosmith,Toys in the Attic,7.98,cass,1,2019-03-10,X015
+Bad Company,Bad Company,7.98,lp,3,2019-11-07,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-11-07,X027
+Van Halen,1984,9.98,cass,6,2019-11-07,X027
+Fleetwood Mac,Rumours,8.98,lp,3,2019-11-07,X027
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-07,X027
+Pink Floyd,The Wall,14.98,cass,5,2019-11-07,X027
+Pink Floyd,The Wall,14.98,cass,5,2019-11-07,X027
+Pink Floyd,The Wall,14.98,cass,5,2019-02-10,X031
+Pink Floyd,The Wall,14.98,lp,2,2019-02-10,X031
+Rush,Moving Pictures,8.98,lp,7,2019-02-10,X031
+Bad Company,Bad Company,7.98,lp,4,2019-12-27,X039
+Eagles,Hotel California,8.98,lp,3,2019-12-27,X039
+Lynyrd Skynyrd,Second Helping,7.98,lp,8,2019-12-27,X039
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-12-27,X039
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-05-27,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-05-27,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-05-27,X038
+Heart,Dreamboat Annie,7.98,cass,5,2019-02-12,X012
+Foreigner,4,8.98,cass,2,2019-02-12,X012
+Def Leppard,Hysteria,9.98,cass,1,2019-01-22,X028
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-01-22,X028
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-09-06,X035
+Journey,Escape,8.98,lp,5,2019-09-06,X035
+Eagles,Hotel California,8.98,cass,5,2019-09-06,X035
+Bad Company,Bad Company,7.98,cass,3,2019-06-25,X013
+Pink Floyd,The Wall,14.98,cass,3,2019-06-25,X013
+ZZ Top,Eliminator,9.98,lp,3,2019-06-25,X013
+Heart,Dreamboat Annie,7.98,cass,2,2019-06-25,X013
+Rush,Moving Pictures,8.98,cass,6,2019-06-25,X013
+Van Halen,1984,9.98,cass,6,2019-06-25,X013
+Fleetwood Mac,Rumours,8.98,lp,4,2019-03-09,X029
+The Beatles,Abbey Road,7.98,cass,1,2019-03-09,X029
+Journey,Escape,8.98,lp,10,2019-03-09,X029
+Journey,Escape,8.98,cass,2,2019-03-09,X029
+Fleetwood Mac,Rumours,8.98,lp,5,2019-03-09,X029
+Rush,Moving Pictures,8.98,cass,9,2019-06-05,X040
+Pink Floyd,The Wall,14.98,lp,1,2019-06-05,X040
+Steve Miller Band,Fly Like an Eagle,8.98,cass,10,2019-06-05,X040
+Van Halen,1984,9.98,cass,5,2019-09-27,X025
+Heart,Dreamboat Annie,7.98,cass,7,2019-09-27,X025
+Fleetwood Mac,Rumours,8.98,cass,3,2019-09-27,X025
+AC/DC,Back in Black,8.98,cass,6,2019-09-11,X014
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-09-11,X014
+Foreigner,4,8.98,cass,3,2019-09-11,X014
+Eagles,Hotel California,8.98,lp,3,2019-09-11,X014
+Eagles,Hotel California,8.98,lp,8,2019-09-11,X014
+Rush,Moving Pictures,8.98,cass,5,2019-09-11,X014
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-11,X014
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,7,2019-09-11,X014
+Journey,Escape,8.98,cass,4,2019-11-27,X039
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-11-27,X039
+The Beatles,Abbey Road,7.98,cass,6,2019-11-27,X039
+Heart,Dreamboat Annie,7.98,cass,3,2019-11-27,X039
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-11-27,X039
+Pink Floyd,The Wall,14.98,cass,1,2019-04-30,X036
+Queen,Night at the Opera,7.98,lp,3,2019-04-30,X036
+The Cars,The Cars,8.98,cass,3,2019-04-30,X036
+AC/DC,Back in Black,8.98,cass,6,2019-04-30,X036
+Bad Company,Bad Company,7.98,cass,5,2019-04-30,X036
+Bad Company,Bad Company,7.98,cass,2,2019-04-30,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-04-30,X036
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-04-30,X036
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-04-30,X036
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-05-19,X044
+Fleetwood Mac,Rumours,8.98,cass,2,2019-05-19,X044
+AC/DC,Back in Black,8.98,cass,4,2019-05-19,X044
+Foreigner,4,8.98,lp,6,2019-05-19,X044
+Foreigner,4,8.98,cass,4,2019-05-19,X044
+The Cars,The Cars,8.98,lp,7,2019-05-19,X044
+Fleetwood Mac,Rumours,8.98,cass,6,2019-08-21,X040
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-08-21,X040
+The Doors,The Doors,7.98,cass,4,2019-08-21,X040
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,6,2019-08-21,X040
+AC/DC,Back in Black,8.98,lp,5,2019-06-12,X006
+Heart,Dreamboat Annie,7.98,cass,0,2019-06-12,X006
+Boston,Boston,8.98,cass,5,2019-10-30,X011
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-10-30,X011
+Eagles,Hotel California,8.98,cass,2,2019-10-30,X011
+Eagles,Hotel California,8.98,lp,5,2019-10-30,X011
+The Beatles,Abbey Road,7.98,cass,5,2019-10-30,X011
+Eagles,Hotel California,8.98,cass,5,2019-10-30,X011
+Boston,Boston,8.98,cass,2,2019-10-30,X011
+The Doors,The Doors,7.98,cass,4,2019-10-30,X011
+Pink Floyd,The Wall,14.98,lp,3,2019-10-30,X011
+Fleetwood Mac,Rumours,8.98,lp,3,2019-07-22,X029
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-07-22,X029
+AC/DC,Back in Black,8.98,cass,6,2019-07-22,X029
+Bad Company,Bad Company,7.98,cass,4,2019-07-22,X029
+Bad Company,Bad Company,7.98,lp,3,2019-08-03,X033
+Foreigner,4,8.98,lp,5,2019-08-03,X033
+Heart,Dreamboat Annie,7.98,cass,7,2019-08-03,X033
+Pink Floyd,The Wall,14.98,cass,2,2019-08-03,X033
+Van Halen,1984,9.98,cass,2,2019-08-03,X033
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-06-04,X044
+Foreigner,4,8.98,cass,2,2019-06-04,X044
+Bad Company,Bad Company,7.98,lp,5,2019-06-04,X044
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-06-04,X044
+ZZ Top,Eliminator,9.98,cass,3,2019-06-04,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-06-04,X044
+AC/DC,Back in Black,8.98,cass,0,2019-06-04,X044
+Journey,Escape,8.98,cass,5,2019-01-19,X022
+Steve Miller Band,Fly Like an Eagle,8.98,lp,5,2019-01-19,X022
+Van Halen,1984,9.98,cass,2,2019-01-19,X022
+Fleetwood Mac,Rumours,8.98,cass,2,2019-01-19,X022
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-01-19,X022
+Boston,Boston,8.98,cass,6,2019-12-10,X024
+Journey,Escape,8.98,lp,6,2019-12-10,X024
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-12-10,X024
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-12-10,X024
+Queen,Night at the Opera,7.98,lp,4,2019-05-26,X017
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-05-26,X017
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-05-26,X017
+Van Halen,1984,9.98,cass,2,2019-09-28,X010
+Steve Miller Band,Fly Like an Eagle,8.98,cass,3,2019-09-28,X010
+Journey,Escape,8.98,cass,3,2019-09-28,X010
+Eagles,Hotel California,8.98,lp,8,2019-09-28,X010
+The Doors,The Doors,7.98,cass,4,2019-09-28,X010
+Bad Company,Bad Company,7.98,cass,2,2019-09-28,X010
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-07-27,X020
+ZZ Top,Eliminator,9.98,lp,5,2019-07-27,X020
+Boston,Boston,8.98,lp,3,2019-07-27,X020
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-02-21,X004
+The Who,Who's Next,7.98,cass,3,2019-02-21,X004
+Bad Company,Bad Company,7.98,cass,3,2019-12-01,X038
+Foreigner,4,8.98,cass,6,2019-12-01,X038
+Pink Floyd,The Wall,14.98,lp,5,2019-08-30,X041
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-08-30,X041
+U2,War,9.98,cass,5,2019-08-30,X041
+Eagles,Hotel California,8.98,cass,2,2019-08-30,X041
+The Beatles,Abbey Road,7.98,cass,2,2019-08-30,X041
+Pink Floyd,The Wall,14.98,lp,5,2019-08-30,X041
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-30,X041
+Rush,Moving Pictures,8.98,lp,5,2019-08-30,X041
+Foreigner,4,8.98,lp,7,2019-06-25,X024
+Van Halen,1984,9.98,cass,9,2019-06-25,X024
+Fleetwood Mac,Rumours,8.98,cass,5,2019-06-25,X024
+ZZ Top,Eliminator,9.98,lp,4,2019-06-25,X024
+Van Halen,1984,9.98,cass,5,2019-08-31,X027
+ZZ Top,Eliminator,9.98,cass,5,2019-08-31,X027
+AC/DC,Back in Black,8.98,cass,6,2019-08-31,X027
+Boston,Boston,8.98,cass,4,2019-08-31,X027
+Journey,Escape,8.98,cass,5,2019-07-21,X008
+The Who,Who's Next,7.98,lp,2,2019-07-21,X008
+Steve Miller Band,Fly Like an Eagle,8.98,cass,4,2019-05-10,X006
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-05-10,X006
+Pink Floyd,The Wall,14.98,lp,5,2019-05-10,X006
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-10,X006
+The Doors,The Doors,7.98,cass,1,2019-08-31,X013
+Lynyrd Skynyrd,Second Helping,7.98,lp,3,2019-08-31,X013
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-08-31,X013
+Pink Floyd,The Wall,14.98,cass,5,2019-08-31,X013
+Journey,Escape,8.98,lp,9,2019-08-31,X013
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-08-31,X013
+Van Halen,1984,9.98,cass,2,2019-08-31,X013
+Foreigner,4,8.98,cass,3,2019-08-31,X013
+Queen,Night at the Opera,7.98,cass,4,2019-01-27,X003
+Pink Floyd,The Wall,14.98,cass,0,2019-01-27,X003
+Boston,Boston,8.98,cass,1,2019-01-27,X003
+Van Halen,1984,9.98,lp,1,2019-01-27,X003
+The Who,Who's Next,7.98,lp,4,2019-07-31,X041
+Van Halen,1984,9.98,lp,4,2019-07-31,X041
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-07-31,X041
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-07-31,X041
+Aerosmith,Toys in the Attic,7.98,cass,2,2019-07-31,X041
+Queen,Night at the Opera,7.98,cass,1,2019-06-25,X044
+Van Halen,1984,9.98,lp,6,2019-06-25,X044
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-06-25,X044
+Rush,Moving Pictures,8.98,cass,7,2019-06-25,X044
+Aerosmith,Toys in the Attic,7.98,lp,1,2019-06-25,X044
+Van Halen,1984,9.98,cass,3,2019-06-25,X044
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-06-25,X044
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-11-25,X004
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-11-25,X004
+Van Halen,1984,9.98,cass,4,2019-11-25,X004
+The Who,Who's Next,7.98,lp,2,2019-11-25,X004
+Bad Company,Bad Company,7.98,cass,1,2019-11-25,X004
+Boston,Boston,8.98,cass,0,2019-11-25,X004
+Def Leppard,Hysteria,9.98,lp,3,2019-11-25,X004
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-11-25,X004
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-11-25,X004
+Pink Floyd,The Wall,14.98,cass,4,2019-11-25,X004
+Fleetwood Mac,Rumours,8.98,cass,6,2019-12-23,X022
+Queen,Night at the Opera,7.98,cass,5,2019-12-23,X022
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-12-23,X022
+The Cars,The Cars,8.98,cass,1,2019-12-23,X022
+The Beatles,Abbey Road,7.98,cass,5,2019-08-29,X038
+Queen,Night at the Opera,7.98,cass,9,2019-08-29,X038
+Boston,Boston,8.98,lp,1,2019-08-29,X038
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-08-26,X026
+Rush,Moving Pictures,8.98,lp,7,2019-08-26,X026
+Pink Floyd,The Wall,14.98,cass,3,2019-08-26,X026
+U2,War,9.98,cass,4,2019-08-26,X026
+Boston,Boston,8.98,cass,6,2019-08-26,X026
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-08-26,X026
+Foreigner,4,8.98,lp,8,2019-11-10,X041
+Van Halen,1984,9.98,cass,3,2019-11-10,X041
+Journey,Escape,8.98,cass,3,2019-11-10,X041
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-08-30,X042
+Pink Floyd,The Wall,14.98,lp,3,2019-08-30,X042
+Lynyrd Skynyrd,Second Helping,7.98,lp,2,2019-08-30,X042
+U2,War,9.98,lp,3,2019-08-30,X042
+Boston,Boston,8.98,cass,4,2019-08-30,X042
+U2,War,9.98,lp,5,2019-08-30,X042
+Eagles,Hotel California,8.98,lp,1,2019-08-30,X042
+Pink Floyd,The Wall,14.98,cass,2,2019-10-15,X044
+AC/DC,Back in Black,8.98,cass,1,2019-10-15,X044
+The Doors,The Doors,7.98,cass,4,2019-10-15,X044
+Boston,Boston,8.98,cass,3,2019-10-15,X044
+AC/DC,Back in Black,8.98,cass,4,2019-10-15,X044
+Bad Company,Bad Company,7.98,lp,7,2019-10-15,X044
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-11-11,X045
+Van Halen,1984,9.98,lp,5,2019-11-11,X045
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-10-08,X036
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-10-08,X036
+Boston,Boston,8.98,lp,5,2019-10-08,X036
+Journey,Escape,8.98,lp,2,2019-10-08,X036
+The Doors,The Doors,7.98,cass,7,2019-10-08,X036
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-10-08,X036
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-10-08,X036
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-10-08,X036
+Def Leppard,Hysteria,9.98,cass,3,2019-09-05,X016
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-09-05,X016
+Van Halen,1984,9.98,cass,3,2019-09-05,X016
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-09-05,X016
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-09-05,X016
+Rush,Moving Pictures,8.98,cass,4,2019-09-05,X016
+Van Halen,1984,9.98,lp,4,2019-06-14,X037
+Boston,Boston,8.98,cass,4,2019-06-14,X037
+Fleetwood Mac,Rumours,8.98,lp,4,2019-06-14,X037
+Journey,Escape,8.98,cass,3,2019-06-14,X037
+Eagles,Hotel California,8.98,lp,1,2019-06-14,X037
+ZZ Top,Eliminator,9.98,cass,3,2019-06-14,X037
+Van Halen,1984,9.98,cass,7,2019-01-08,X040
+Pink Floyd,The Wall,14.98,cass,7,2019-01-08,X040
+Foreigner,4,8.98,lp,4,2019-01-08,X040
+Heart,Dreamboat Annie,7.98,lp,5,2019-01-08,X040
+Aerosmith,Toys in the Attic,7.98,cass,0,2019-01-08,X040
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-01-08,X040
+Pink Floyd,The Wall,14.98,cass,6,2019-01-08,X040
+Foreigner,4,8.98,lp,4,2019-01-08,X040
+Lynyrd Skynyrd,Second Helping,7.98,cass,6,2019-08-12,X043
+Eagles,Hotel California,8.98,cass,7,2019-08-12,X043
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-08-12,X043
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-08-12,X043
+Queen,Night at the Opera,7.98,cass,3,2019-08-12,X043
+Van Halen,1984,9.98,cass,6,2019-06-11,X031
+Fleetwood Mac,Rumours,8.98,cass,3,2019-06-11,X031
+Fleetwood Mac,Rumours,8.98,lp,2,2019-11-12,X032
+Heart,Dreamboat Annie,7.98,lp,4,2019-11-12,X032
+Eagles,Hotel California,8.98,cass,6,2019-11-12,X032
+AC/DC,Back in Black,8.98,cass,3,2019-11-12,X032
+Journey,Escape,8.98,cass,4,2019-07-19,X013
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-07-19,X013
+Lynyrd Skynyrd,Second Helping,7.98,lp,2,2019-07-19,X013
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-19,X013
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-07-19,X013
+The Beatles,Abbey Road,7.98,cass,2,2019-07-19,X013
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-07-19,X013
+The Who,Who's Next,7.98,cass,6,2019-03-15,X035
+Van Halen,1984,9.98,cass,4,2019-03-15,X035
+Journey,Escape,8.98,cass,3,2019-03-15,X035
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-03-15,X035
+Bad Company,Bad Company,7.98,cass,5,2019-03-15,X035
+Bad Company,Bad Company,7.98,cass,3,2019-10-20,X015
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-10-20,X015
+Van Halen,1984,9.98,cass,3,2019-10-20,X015
+Led Zeppelin,IV (untitled),7.98,cass,9,2019-10-20,X015
+ZZ Top,Eliminator,9.98,cass,4,2019-04-18,X028
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-04-18,X028
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-04-18,X028
+Rush,Moving Pictures,8.98,cass,4,2019-04-18,X028
+Queen,Night at the Opera,7.98,cass,4,2019-07-26,X044
+Boston,Boston,8.98,cass,4,2019-07-26,X044
+Boston,Boston,8.98,lp,8,2019-07-26,X044
+ZZ Top,Eliminator,9.98,cass,3,2019-04-28,X004
+Def Leppard,Hysteria,9.98,cass,4,2019-04-28,X004
+Fleetwood Mac,Rumours,8.98,lp,2,2019-04-28,X004
+The Cars,The Cars,8.98,cass,6,2019-04-28,X004
+The Cars,The Cars,8.98,cass,6,2019-04-28,X004
+The Beatles,Abbey Road,7.98,cass,5,2019-04-28,X004
+Boston,Boston,8.98,cass,3,2019-04-28,X004
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-04-28,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-04-28,X004
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-03-14,X010
+AC/DC,Back in Black,8.98,lp,4,2019-03-14,X010
+U2,War,9.98,cass,3,2019-02-01,X014
+Lynyrd Skynyrd,Second Helping,7.98,cass,4,2019-02-01,X014
+Queen,Night at the Opera,7.98,cass,4,2019-02-01,X014
+Rush,Moving Pictures,8.98,lp,6,2019-05-13,X020
+Def Leppard,Hysteria,9.98,cass,1,2019-05-13,X020
+The Who,Who's Next,7.98,cass,7,2019-05-13,X020
+Pink Floyd,The Wall,14.98,cass,8,2019-05-13,X020
+The Beatles,Abbey Road,7.98,cass,7,2019-12-02,X039
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-12-02,X039
+U2,War,9.98,cass,2,2019-12-02,X039
+Van Halen,1984,9.98,cass,2,2019-12-02,X039
+ZZ Top,Eliminator,9.98,cass,5,2019-12-02,X039
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-12-02,X039
+ZZ Top,Eliminator,9.98,cass,4,2019-09-17,X018
+Pink Floyd,The Wall,14.98,lp,3,2019-09-17,X018
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-09-17,X018
+Queen,Night at the Opera,7.98,lp,4,2019-09-17,X018
+Van Halen,1984,9.98,cass,1,2019-09-30,X033
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-09-30,X033
+AC/DC,Back in Black,8.98,cass,6,2019-09-30,X033
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-09-30,X033
+Queen,Night at the Opera,7.98,cass,3,2019-09-30,X033
+Boston,Boston,8.98,lp,6,2019-09-30,X033
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-09-30,X033
+The Doors,The Doors,7.98,lp,4,2019-09-30,X033
+ZZ Top,Eliminator,9.98,lp,2,2019-09-30,X033
+Van Halen,1984,9.98,cass,3,2019-11-26,X025
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-11-26,X025
+Eagles,Hotel California,8.98,cass,9,2019-11-26,X025
+Def Leppard,Hysteria,9.98,lp,3,2019-11-26,X025
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-11-26,X025
+Van Halen,1984,9.98,cass,4,2019-11-26,X025
+Fleetwood Mac,Rumours,8.98,cass,4,2019-01-09,X018
+Van Halen,1984,9.98,cass,3,2019-01-09,X018
+The Beatles,Abbey Road,7.98,lp,3,2019-01-09,X018
+Lynyrd Skynyrd,Second Helping,7.98,cass,8,2019-01-09,X018
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-06-15,X006
+The Doors,The Doors,7.98,lp,1,2019-06-15,X006
+Lynyrd Skynyrd,Second Helping,7.98,lp,5,2019-06-15,X006
+AC/DC,Back in Black,8.98,cass,8,2019-06-15,X006
+Foreigner,4,8.98,lp,4,2019-06-15,X006
+The Beatles,Abbey Road,7.98,lp,4,2019-08-17,X005
+Eagles,Hotel California,8.98,cass,3,2019-08-17,X005
+Steve Miller Band,Fly Like an Eagle,8.98,lp,4,2019-08-17,X005
+Pink Floyd,The Wall,14.98,cass,0,2019-08-17,X005
+The Rolling Stones,Sticky Fingers,7.98,lp,3,2019-08-17,X005
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-08-17,X005
+Boston,Boston,8.98,lp,6,2019-08-17,X005
+Bad Company,Bad Company,7.98,cass,1,2019-02-20,X005
+ZZ Top,Eliminator,9.98,cass,2,2019-02-20,X005
+Def Leppard,Hysteria,9.98,cass,2,2019-02-20,X005
+Steve Miller Band,Fly Like an Eagle,8.98,lp,3,2019-02-20,X005
+The Rolling Stones,Sticky Fingers,7.98,cass,0,2019-02-20,X005
+Eagles,Hotel California,8.98,cass,3,2019-02-20,X005
+The Doors,The Doors,7.98,cass,2,2019-06-21,X008
+Journey,Escape,8.98,lp,6,2019-06-21,X008
+Queen,Night at the Opera,7.98,cass,3,2019-06-21,X008
+Van Halen,1984,9.98,cass,2,2019-06-21,X008
+Fleetwood Mac,Rumours,8.98,cass,0,2019-06-21,X008
+Pink Floyd,The Wall,14.98,lp,3,2019-01-09,X021
+ZZ Top,Eliminator,9.98,cass,3,2019-01-09,X021
+AC/DC,Back in Black,8.98,lp,3,2019-01-09,X021
+Foreigner,4,8.98,lp,4,2019-01-09,X021
+Eagles,Hotel California,8.98,lp,3,2019-10-21,X039
+AC/DC,Back in Black,8.98,cass,5,2019-10-21,X039
+Led Zeppelin,IV (untitled),7.98,lp,6,2019-10-21,X039
+AC/DC,Back in Black,8.98,cass,10,2019-10-21,X039
+Eagles,Hotel California,8.98,lp,1,2019-10-21,X039
+Boston,Boston,8.98,cass,5,2019-10-21,X039
+Led Zeppelin,IV (untitled),7.98,cass,9,2019-10-21,X039
+Pink Floyd,The Wall,14.98,lp,1,2019-10-21,X039
+The Who,Who's Next,7.98,cass,3,2019-10-21,X039
+Boston,Boston,8.98,cass,4,2019-09-16,X026
+Eagles,Hotel California,8.98,cass,6,2019-09-16,X026
+The Cars,The Cars,8.98,cass,2,2019-09-16,X026
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-09-16,X026
+AC/DC,Back in Black,8.98,lp,2,2019-01-28,X018
+Heart,Dreamboat Annie,7.98,cass,5,2019-01-28,X018
+The Doors,The Doors,7.98,cass,4,2019-01-28,X018
+The Beatles,Abbey Road,7.98,lp,3,2019-09-11,X042
+The Beatles,Abbey Road,7.98,cass,4,2019-09-11,X042
+Journey,Escape,8.98,cass,1,2019-09-11,X042
+Fleetwood Mac,Rumours,8.98,cass,1,2019-09-11,X042
+AC/DC,Back in Black,8.98,cass,4,2019-05-24,X028
+The Doors,The Doors,7.98,cass,1,2019-05-24,X028
+Pink Floyd,The Wall,14.98,lp,4,2019-08-20,X009
+The Beatles,Abbey Road,7.98,cass,1,2019-08-20,X009
+Foreigner,4,8.98,cass,4,2019-08-20,X009
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-08-20,X009
+The Who,Who's Next,7.98,lp,2,2019-08-20,X009
+AC/DC,Back in Black,8.98,lp,3,2019-10-09,X010
+Van Halen,1984,9.98,lp,3,2019-10-09,X010
+Heart,Dreamboat Annie,7.98,lp,7,2019-10-09,X010
+Foreigner,4,8.98,cass,4,2019-10-09,X010
+The Who,Who's Next,7.98,cass,5,2019-06-28,X031
+Rush,Moving Pictures,8.98,lp,4,2019-06-28,X031
+U2,War,9.98,cass,2,2019-06-28,X031
+Pink Floyd,The Wall,14.98,lp,3,2019-06-28,X031
+ZZ Top,Eliminator,9.98,cass,7,2019-06-28,X031
+Van Halen,1984,9.98,lp,2,2019-06-28,X031
+Pink Floyd,The Wall,14.98,cass,5,2019-06-28,X031
+Van Halen,1984,9.98,cass,3,2019-06-28,X031
+Foreigner,4,8.98,cass,2,2019-06-28,X031
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-06-28,X031
+Journey,Escape,8.98,cass,4,2019-09-08,X017
+Journey,Escape,8.98,cass,1,2019-09-08,X017
+Queen,Night at the Opera,7.98,cass,3,2019-09-08,X017
+Van Halen,1984,9.98,lp,9,2019-09-08,X017
+U2,War,9.98,cass,4,2019-09-08,X017
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-09-08,X017
+Led Zeppelin,IV (untitled),7.98,cass,8,2019-09-08,X017
+The Rolling Stones,Sticky Fingers,7.98,lp,4,2019-10-23,X045
+Pink Floyd,The Wall,14.98,cass,5,2019-10-23,X045
+Queen,Night at the Opera,7.98,cass,8,2019-10-23,X045
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-10-23,X045
+Led Zeppelin,IV (untitled),7.98,lp,8,2019-10-23,X045
+Bad Company,Bad Company,7.98,cass,3,2019-10-23,X045
+Eagles,Hotel California,8.98,lp,1,2019-10-23,X045
+Bad Company,Bad Company,7.98,cass,5,2019-10-23,X045
+Aerosmith,Toys in the Attic,7.98,lp,2,2019-10-23,X045
+Queen,Night at the Opera,7.98,cass,4,2019-10-23,X045
+Journey,Escape,8.98,lp,2,2019-10-23,X045
+Van Halen,1984,9.98,cass,2,2019-07-20,X042
+Rush,Moving Pictures,8.98,cass,2,2019-07-20,X042
+The Beatles,Abbey Road,7.98,cass,7,2019-07-20,X042
+Led Zeppelin,IV (untitled),7.98,lp,4,2019-07-20,X042
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-02,X008
+The Doors,The Doors,7.98,lp,2,2019-08-02,X008
+Led Zeppelin,IV (untitled),7.98,lp,1,2019-08-02,X008
+The Cars,The Cars,8.98,lp,3,2019-08-02,X008
+Van Halen,1984,9.98,cass,4,2019-08-02,X008
+Rush,Moving Pictures,8.98,cass,3,2019-08-02,X008
+Bad Company,Bad Company,7.98,lp,9,2019-08-02,X008
+Pink Floyd,The Wall,14.98,cass,3,2019-08-02,X008
+Queen,Night at the Opera,7.98,cass,5,2019-10-12,X002
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-10-12,X002
+Led Zeppelin,IV (untitled),7.98,cass,7,2019-10-12,X002
+Pink Floyd,The Wall,14.98,cass,6,2019-10-12,X002
+Van Halen,1984,9.98,cass,6,2019-10-12,X002
+Heart,Dreamboat Annie,7.98,cass,4,2019-10-12,X002
+U2,War,9.98,cass,4,2019-01-09,X007
+Bad Company,Bad Company,7.98,lp,5,2019-01-09,X007
+The Doors,The Doors,7.98,lp,5,2019-01-09,X007
+Journey,Escape,8.98,cass,3,2019-01-09,X007
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-09-19,X025
+The Who,Who's Next,7.98,lp,5,2019-09-19,X025
+Journey,Escape,8.98,cass,4,2019-09-19,X025
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,5,2019-09-19,X025
+ZZ Top,Eliminator,9.98,lp,5,2019-05-16,X002
+Def Leppard,Hysteria,9.98,lp,3,2019-05-16,X002
+AC/DC,Back in Black,8.98,lp,2,2019-05-16,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,7,2019-04-18,X012
+The Who,Who's Next,7.98,cass,2,2019-04-18,X012
+The Beatles,Abbey Road,7.98,lp,5,2019-04-18,X012
+Lynyrd Skynyrd,Second Helping,7.98,cass,5,2019-04-18,X012
+Bad Company,Bad Company,7.98,cass,2,2019-04-18,X012
+U2,War,9.98,lp,5,2019-04-18,X012
+The Who,Who's Next,7.98,cass,3,2019-04-18,X012
+Eagles,Hotel California,8.98,cass,7,2019-04-14,X030
+AC/DC,Back in Black,8.98,cass,4,2019-04-14,X030
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,1,2019-04-14,X030
+Queen,Night at the Opera,7.98,cass,0,2019-04-14,X030
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-04-14,X030
+Boston,Boston,8.98,lp,3,2019-04-14,X030
+Heart,Dreamboat Annie,7.98,cass,1,2019-04-14,X030
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-04-14,X030
+AC/DC,Back in Black,8.98,lp,4,2019-08-08,X034
+Foreigner,4,8.98,cass,3,2019-08-08,X034
+Eagles,Hotel California,8.98,cass,2,2019-08-08,X034
+Foreigner,4,8.98,cass,6,2019-08-08,X034
+The Cars,The Cars,8.98,cass,0,2019-08-08,X034
+Foreigner,4,8.98,cass,2,2019-08-08,X034
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-08-08,X034
+U2,War,9.98,cass,4,2019-08-08,X034
+The Beatles,Abbey Road,7.98,cass,4,2019-08-08,X034
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,8,2019-08-08,X034
+Bad Company,Bad Company,7.98,cass,3,2019-08-08,X034
+The Doors,The Doors,7.98,cass,3,2019-04-03,X031
+Rush,Moving Pictures,8.98,lp,10,2019-04-03,X031
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-04-03,X031
+Fleetwood Mac,Rumours,8.98,cass,3,2019-04-03,X031
+Eagles,Hotel California,8.98,cass,6,2019-04-03,X031
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-04-03,X031
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-02-07,X001
+Fleetwood Mac,Rumours,8.98,lp,6,2019-02-07,X001
+Bad Company,Bad Company,7.98,cass,8,2019-02-07,X001
+Eagles,Hotel California,8.98,cass,5,2019-02-07,X001
+Fleetwood Mac,Rumours,8.98,cass,7,2019-07-15,X006
+Van Halen,1984,9.98,cass,4,2019-07-15,X006
+Foreigner,4,8.98,cass,7,2019-07-15,X006
+ZZ Top,Eliminator,9.98,cass,6,2019-07-15,X006
+The Doors,The Doors,7.98,lp,1,2019-07-15,X006
+Aerosmith,Toys in the Attic,7.98,lp,1,2019-07-15,X006
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-07-15,X006
+Van Halen,1984,9.98,cass,6,2019-03-28,X019
+Eagles,Hotel California,8.98,cass,4,2019-03-28,X019
+Van Halen,1984,9.98,cass,6,2019-01-23,X034
+Queen,Night at the Opera,7.98,lp,3,2019-05-06,X035
+Foreigner,4,8.98,lp,3,2019-05-06,X035
+The Who,Who's Next,7.98,cass,4,2019-05-06,X035
+The Beatles,Abbey Road,7.98,cass,5,2019-05-06,X035
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-08-02,X020
+Pink Floyd,The Wall,14.98,cass,3,2019-08-02,X020
+Fleetwood Mac,Rumours,8.98,cass,7,2019-08-02,X020
+Eagles,Hotel California,8.98,lp,3,2019-08-02,X020
+Foreigner,4,8.98,cass,6,2019-08-02,X020
+Queen,Night at the Opera,7.98,cass,2,2019-08-02,X020
+Boston,Boston,8.98,cass,1,2019-08-02,X020
+AC/DC,Back in Black,8.98,lp,4,2019-04-07,X038
+Foreigner,4,8.98,lp,6,2019-04-07,X038
+The Doors,The Doors,7.98,lp,2,2019-04-07,X038
+Aerosmith,Toys in the Attic,7.98,lp,5,2019-04-07,X038
+AC/DC,Back in Black,8.98,cass,5,2019-04-07,X038
+Van Halen,1984,9.98,cass,4,2019-04-07,X038
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,5,2019-04-07,X038
+Pink Floyd,The Wall,14.98,cass,11,2019-04-07,X038
+Foreigner,4,8.98,cass,5,2019-09-08,X010
+Queen,Night at the Opera,7.98,cass,5,2019-09-08,X010
+Def Leppard,Hysteria,9.98,cass,5,2019-09-08,X010
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,2,2019-08-12,X028
+Eagles,Hotel California,8.98,cass,4,2019-08-12,X028
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-08-12,X028
+Boston,Boston,8.98,cass,3,2019-08-12,X028
+Van Halen,1984,9.98,cass,4,2019-08-12,X028
+The Who,Who's Next,7.98,lp,4,2019-08-12,X028
+The Cars,The Cars,8.98,cass,4,2019-08-12,X028
+Queen,Night at the Opera,7.98,cass,5,2019-08-12,X028
+The Beatles,Abbey Road,7.98,cass,5,2019-11-12,X009
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-12,X009
+Heart,Dreamboat Annie,7.98,cass,5,2019-11-12,X009
+Bad Company,Bad Company,7.98,cass,1,2019-11-12,X009
+U2,War,9.98,cass,3,2019-11-12,X009
+Eagles,Hotel California,8.98,lp,6,2019-11-12,X009
+Heart,Dreamboat Annie,7.98,lp,8,2019-06-11,X004
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-06-11,X004
+Led Zeppelin,IV (untitled),7.98,lp,3,2019-06-11,X004
+Van Halen,1984,9.98,cass,4,2019-06-11,X004
+Bad Company,Bad Company,7.98,cass,4,2019-06-11,X004
+Fleetwood Mac,Rumours,8.98,lp,2,2019-06-11,X004
+The Who,Who's Next,7.98,lp,3,2019-10-01,X035
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-10-01,X035
+Van Halen,1984,9.98,cass,4,2019-10-01,X035
+Queen,Night at the Opera,7.98,cass,5,2019-10-01,X035
+Foreigner,4,8.98,cass,2,2019-10-01,X035
+Van Halen,1984,9.98,cass,3,2019-10-01,X035
+Boston,Boston,8.98,cass,4,2019-10-01,X035
+Journey,Escape,8.98,cass,1,2019-08-06,X008
+Van Halen,1984,9.98,lp,4,2019-08-06,X008
+ZZ Top,Eliminator,9.98,lp,3,2019-08-06,X008
+Fleetwood Mac,Rumours,8.98,cass,2,2019-08-06,X008
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-11-03,X044
+Fleetwood Mac,Rumours,8.98,cass,4,2019-11-03,X044
+The Doors,The Doors,7.98,cass,6,2019-11-03,X044
+Journey,Escape,8.98,lp,2,2019-11-03,X044
+The Who,Who's Next,7.98,cass,2,2019-11-03,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-03,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-11-03,X044
+Bad Company,Bad Company,7.98,lp,7,2019-06-09,X011
+Journey,Escape,8.98,lp,3,2019-06-09,X011
+Steve Miller Band,Fly Like an Eagle,8.98,lp,6,2019-06-09,X011
+Pink Floyd,The Wall,14.98,cass,3,2019-06-09,X011
+Fleetwood Mac,Rumours,8.98,cass,5,2019-06-09,X011
+Boston,Boston,8.98,lp,4,2019-07-21,X040
+ZZ Top,Eliminator,9.98,cass,5,2019-07-21,X040
+Queen,Night at the Opera,7.98,cass,4,2019-07-21,X040
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-07-21,X040
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-07-03,X030
+Eagles,Hotel California,8.98,cass,6,2019-02-09,X004
+Van Halen,1984,9.98,cass,3,2019-02-09,X004
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-02-09,X004
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,6,2019-02-09,X004
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-01-22,X002
+AC/DC,Back in Black,8.98,lp,7,2019-01-22,X002
+Led Zeppelin,IV (untitled),7.98,lp,2,2019-01-22,X002
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-01-22,X002
+Bad Company,Bad Company,7.98,cass,5,2019-05-15,X028
+Def Leppard,Hysteria,9.98,lp,9,2019-05-15,X028
+Eagles,Hotel California,8.98,lp,4,2019-05-15,X028
+The Who,Who's Next,7.98,cass,2,2019-05-15,X028
+Queen,Night at the Opera,7.98,cass,2,2019-05-15,X028
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-05-15,X028
+Foreigner,4,8.98,lp,4,2019-05-15,X028
+Pink Floyd,The Wall,14.98,cass,3,2019-05-15,X028
+Boston,Boston,8.98,cass,11,2019-05-15,X028
+U2,War,9.98,cass,4,2019-05-15,X028
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-05-15,X028
+Journey,Escape,8.98,cass,3,2019-11-02,X008
+Van Halen,1984,9.98,cass,4,2019-11-02,X008
+Heart,Dreamboat Annie,7.98,cass,4,2019-11-02,X008
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-11-02,X008
+The Rolling Stones,Sticky Fingers,7.98,cass,8,2019-11-02,X008
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-01-06,X019
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-01-06,X019
+The Doors,The Doors,7.98,cass,8,2019-02-04,X004
+Led Zeppelin,IV (untitled),7.98,lp,7,2019-02-04,X004
+The Who,Who's Next,7.98,cass,5,2019-02-04,X004
+Boston,Boston,8.98,lp,9,2019-02-04,X004
+U2,War,9.98,cass,4,2019-02-04,X004
+Pink Floyd,The Wall,14.98,lp,3,2019-02-04,X004
+Queen,Night at the Opera,7.98,lp,5,2019-04-01,X002
+AC/DC,Back in Black,8.98,cass,4,2019-04-01,X002
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-04-13,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-04-13,X012
+Heart,Dreamboat Annie,7.98,lp,5,2019-04-13,X012
+Journey,Escape,8.98,lp,4,2019-04-13,X012
+AC/DC,Back in Black,8.98,cass,4,2019-04-13,X012
+Fleetwood Mac,Rumours,8.98,lp,8,2019-04-13,X012
+Foreigner,4,8.98,lp,1,2019-04-13,X012
+Led Zeppelin,IV (untitled),7.98,cass,1,2019-04-13,X012
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-08-13,X012
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-08-13,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,7,2019-08-13,X012
+The Rolling Stones,Sticky Fingers,7.98,cass,1,2019-08-13,X012
+Eagles,Hotel California,8.98,cass,5,2019-03-27,X028
+AC/DC,Back in Black,8.98,lp,4,2019-03-27,X028
+Van Halen,1984,9.98,cass,5,2019-03-27,X028
+Pink Floyd,The Wall,14.98,cass,2,2019-12-29,X023
+Pink Floyd,The Wall,14.98,cass,5,2019-12-29,X023
+Pink Floyd,The Wall,14.98,lp,9,2019-12-29,X023
+Eagles,Hotel California,8.98,lp,1,2019-12-29,X023
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-12-29,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-12-29,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,5,2019-12-29,X023
+Queen,Night at the Opera,7.98,lp,6,2019-12-29,X023
+Van Halen,1984,9.98,cass,2,2019-12-29,X023
+Journey,Escape,8.98,cass,6,2019-08-13,X023
+Journey,Escape,8.98,lp,4,2019-08-13,X023
+The Doors,The Doors,7.98,cass,3,2019-08-13,X023
+Aerosmith,Toys in the Attic,7.98,lp,4,2019-08-13,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,1,2019-08-13,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-08-13,X023
+Foreigner,4,8.98,cass,8,2019-08-13,X023
+ZZ Top,Eliminator,9.98,cass,4,2019-08-13,X023
+Foreigner,4,8.98,cass,4,2019-10-15,X035
+Bad Company,Bad Company,7.98,lp,6,2019-10-15,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-10-15,X035
+Bad Company,Bad Company,7.98,lp,5,2019-10-15,X035
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-10-15,X035
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-10-15,X035
+Van Halen,1984,9.98,cass,1,2019-10-15,X035
+Fleetwood Mac,Rumours,8.98,cass,4,2019-10-15,X035
+Pink Floyd,The Wall,14.98,cass,1,2019-10-15,X035
+The Who,Who's Next,7.98,lp,5,2019-09-19,X027
+The Who,Who's Next,7.98,cass,6,2019-09-19,X027
+Boston,Boston,8.98,cass,4,2019-09-19,X027
+The Rolling Stones,Sticky Fingers,7.98,lp,6,2019-09-19,X027
+The Cars,The Cars,8.98,lp,3,2019-09-19,X027
+Pink Floyd,The Wall,14.98,cass,4,2019-09-19,X027
+AC/DC,Back in Black,8.98,cass,5,2019-06-03,X030
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-06-03,X030
+Lynyrd Skynyrd,Second Helping,7.98,lp,2,2019-06-03,X030
+Bad Company,Bad Company,7.98,lp,3,2019-06-03,X030
+Led Zeppelin,IV (untitled),7.98,cass,3,2019-09-09,X022
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-09-09,X022
+The Beatles,Abbey Road,7.98,lp,3,2019-09-09,X022
+Led Zeppelin,IV (untitled),7.98,cass,5,2019-09-09,X022
+ZZ Top,Eliminator,9.98,cass,2,2019-09-09,X022
+Steve Miller Band,Fly Like an Eagle,8.98,cass,5,2019-01-26,X010
+AC/DC,Back in Black,8.98,lp,2,2019-01-26,X010
+Rush,Moving Pictures,8.98,cass,2,2019-01-26,X010
+Van Halen,1984,9.98,cass,1,2019-01-26,X010
+Bad Company,Bad Company,7.98,lp,1,2019-01-26,X010
+The Beatles,Abbey Road,7.98,cass,3,2019-09-21,X030
+Steve Miller Band,Fly Like an Eagle,8.98,cass,11,2019-09-21,X030
+Pink Floyd,The Wall,14.98,lp,5,2019-09-21,X030
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,0,2019-04-08,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,6,2019-04-08,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,4,2019-04-08,X023
+Rush,Moving Pictures,8.98,lp,7,2019-04-08,X023
+The Who,Who's Next,7.98,lp,1,2019-11-24,X044
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-11-24,X044
+Def Leppard,Hysteria,9.98,lp,7,2019-11-24,X044
+Pink Floyd,The Wall,14.98,cass,6,2019-11-24,X044
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-11-24,X044
+Boston,Boston,8.98,cass,3,2019-11-24,X044
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-01-16,X027
+Foreigner,4,8.98,lp,4,2019-01-16,X027
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,3,2019-01-16,X027
+Fleetwood Mac,Rumours,8.98,lp,6,2019-01-22,X006
+ZZ Top,Eliminator,9.98,cass,8,2019-01-22,X006
+U2,War,9.98,cass,5,2019-01-22,X006
+Led Zeppelin,IV (untitled),7.98,cass,4,2019-01-22,X006
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-01-22,X006
+The Who,Who's Next,7.98,cass,2,2019-06-12,X023
+Lynyrd Skynyrd,Second Helping,7.98,cass,3,2019-06-12,X023
+Van Halen,1984,9.98,cass,5,2019-06-12,X023
+The Who,Who's Next,7.98,cass,5,2019-06-12,X023
+Aerosmith,Toys in the Attic,7.98,cass,4,2019-06-12,X023
+Fleetwood Mac,Rumours,8.98,cass,4,2019-06-12,X023
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,3,2019-06-17,X006
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,2,2019-06-17,X006
+Heart,Dreamboat Annie,7.98,cass,5,2019-06-17,X006
+U2,War,9.98,cass,2,2019-10-05,X021
+Pink Floyd,The Wall,14.98,lp,5,2019-10-05,X021
+Pink Floyd,The Wall,14.98,lp,2,2019-10-05,X021
+Aerosmith,Toys in the Attic,7.98,cass,6,2019-06-20,X034
+The Rolling Stones,Sticky Fingers,7.98,lp,5,2019-06-20,X034
+ZZ Top,Eliminator,9.98,cass,6,2019-06-20,X034
+AC/DC,Back in Black,8.98,cass,4,2019-06-20,X034
+The Beatles,Abbey Road,7.98,cass,2,2019-06-20,X034
+Queen,Night at the Opera,7.98,lp,2,2019-07-23,X023
+Lynyrd Skynyrd,Second Helping,7.98,lp,7,2019-07-23,X023
+Boston,Boston,8.98,lp,5,2019-07-23,X023
+Fleetwood Mac,Rumours,8.98,cass,5,2019-07-23,X023
+The Cars,The Cars,8.98,cass,4,2019-07-23,X023
+The Rolling Stones,Sticky Fingers,7.98,cass,8,2019-07-23,X023
+The Doors,The Doors,7.98,cass,3,2019-11-16,X020
+The Beatles,Abbey Road,7.98,cass,2,2019-11-16,X020
+Journey,Escape,8.98,lp,4,2019-11-16,X020
+Lynyrd Skynyrd,Second Helping,7.98,cass,2,2019-09-14,X020
+Boston,Boston,8.98,lp,3,2019-09-14,X020
+The Rolling Stones,Sticky Fingers,7.98,cass,2,2019-09-14,X020
+Pink Floyd,The Wall,14.98,cass,3,2019-09-14,X020
+Eagles,Hotel California,8.98,cass,5,2019-09-14,X020
+Queen,Night at the Opera,7.98,cass,3,2019-09-14,X020
+Journey,Escape,8.98,lp,4,2019-09-14,X020
+Led Zeppelin,IV (untitled),7.98,cass,2,2019-09-14,X020
+U2,War,9.98,cass,4,2019-01-27,X012
+Aerosmith,Toys in the Attic,7.98,cass,3,2019-02-06,X005
+Foreigner,4,8.98,cass,2,2019-02-06,X005
+Pink Floyd,The Wall,14.98,cass,2,2019-02-06,X005
+Van Halen,1984,9.98,lp,4,2019-01-05,X013
+Heart,Dreamboat Annie,7.98,cass,2,2019-01-05,X013
+Queen,Night at the Opera,7.98,lp,8,2019-01-05,X013
+Van Halen,1984,9.98,lp,3,2019-01-05,X013
+The Rolling Stones,Sticky Fingers,7.98,lp,2,2019-01-11,X045
+Heart,Dreamboat Annie,7.98,cass,3,2019-01-11,X045
+ZZ Top,Eliminator,9.98,cass,3,2019-01-11,X045
+Foreigner,4,8.98,cass,3,2019-01-11,X045
+AC/DC,Back in Black,8.98,cass,5,2019-01-11,X045
+Fleetwood Mac,Rumours,8.98,cass,5,2019-01-11,X045
+The Rolling Stones,Sticky Fingers,7.98,cass,4,2019-09-05,X042
+Van Halen,1984,9.98,cass,1,2019-06-04,X016
+The Cars,The Cars,8.98,cass,5,2019-06-04,X016
+Aerosmith,Toys in the Attic,7.98,cass,5,2019-12-07,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,lp,7,2019-12-07,X045
+Tom Petty & The Heartbreakers,Hard Promises,8.98,cass,4,2019-12-07,X045
+Aerosmith,Toys in the Attic,7.98,lp,6,2019-12-07,X045
+Aerosmith,Toys in the Attic,7.98,lp,3,2019-12-07,X045
+The Rolling Stones,Sticky Fingers,7.98,cass,3,2019-04-02,X007
+Rush,Moving Pictures,8.98,cass,3,2019-04-02,X007
+Led Zeppelin,IV (untitled),7.98,cass,6,2019-04-02,X007
+Pink Floyd,The Wall,14.98,lp,5,2019-04-02,X007
+The Cars,The Cars,8.98,lp,2,2019-04-02,X007
+Rush,Moving Pictures,8.98,lp,7,2019-04-02,X007

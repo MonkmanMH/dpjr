@@ -44,7 +44,7 @@ I also added a price field; albums released before 1976 are \$7.98, [those relea
 
 ```{r}
 
-albumlist <- read_csv(dpjr::dpjr_data("cr25_538.csv"))
+albumlist <- read_csv(dpjr::dpjr_data("cr25/cr25_538.csv"))
 albumlist
 
 ```
@@ -55,7 +55,8 @@ The next step was to create a csv file with some fictional stores. What I did he
 I also assigned each store to one of four regions (based on the cardinal points of the compass), and gave them a store ID number.
 
 ```{r}
-storelist <- read_csv((dpjr::dpjr_data("cr25/cr25_storelist.csv"))
+
+storelist <- read_csv(dpjr::dpjr_data("cr25/cr25_storelist.csv"))
 
 storelist
 
@@ -73,6 +74,7 @@ storelist %>%
 
   
 ```
+
 
 ## Create order
 
@@ -237,9 +239,9 @@ order_fun()
 
 Now a run of multiple orders...
 
-```{r}
+```{r multi-order, eval=FALSE}
 
-m = 750
+m <- 750
 
 
 order_multi <- data.frame(artist = as.character(),
@@ -256,16 +258,29 @@ order_multi <- data.frame(artist = as.character(),
     order_multi <- rbind(order_multi, order_final)
   }
   
-order_multi
 
-write_csv(order_multi, "order_multi.csv")  
+#write_csv(order_multi, "cr25_order_multi.csv")  
+#write_rds(order_multi, "cr25_order_multi.rds")  
+
+```
+
+```{r read-order_multi, echo=FALSE}
+
+order_multi <- read_rds(dpjr::dpjr_data("cr25/cr25_order_multi.rds"))
+
+
+```
+
+```{r}
+head(order_multi)
 
 ```
 
 
+
 #### Summary tables
 
-```{r}
+```{r, eval=FALSE}
 
 order_multi %>%
   group_by(store.id, orderdate) %>%
@@ -281,7 +296,7 @@ order_multi %>%
 
 Build a large scale summary table
 
-```{r}
+```{r, eval=FALSE}
 
 order_multi %>%
   mutate(order_price = qty * price) %>%
@@ -311,28 +326,6 @@ order_multi %>%
 ```
 
 
-
----
-
-
-```{r}
-order_multi %>%
-  mutate(order_price = qty * price) %>%
-  left_join(storelist, by = "store.id") %>%
-  group_by(region) %>%
-  summarise(qty = sum(qty),
-            sales = sum(order_price)) %>%
-  mutate(pct_of_sales = sales / sum(sales) * 100) %>%
-  arrange(desc(qty)) %>% 
-#
-ggplot(mapping = aes(x = reorder(region, -sales), y = sales)) +
-  geom_point(size = 5) + 
-  geom_segment(aes(xend = region), yend = 0, colour = "black", size = 2) +
-  ylim(0, 60000)
-
-#ggsave("sales_region.png")
-
-```
 
 
 
