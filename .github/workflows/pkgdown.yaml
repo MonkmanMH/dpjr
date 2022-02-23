@@ -25,9 +25,7 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v1
         with:
-          extra-packages: |
-            any::tidyverse
-            any::pkgdown
+          extra-packages: tidyverse, pkgdown
           needs: website
 
       - name: Deploy package
