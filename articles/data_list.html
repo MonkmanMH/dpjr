@@ -86,8 +86,8 @@
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
 <pre><code><span class="co">## [1] "authors_count_fwf.txt" "authors_fwf.txt"       "authors2_fwf.txt"     </span>
-<span class="co">## [4] "cr25"                  "gapminder.csv"         "mpg.csv"              </span>
-<span class="co">## [7] "mtcars.csv"            "penguins_fwf.txt"</span></code></pre>
+<span class="co">## [4] "cr25"                  "gapminder.csv"         "JCUSH.txt"            </span>
+<span class="co">## [7] "mpg.csv"               "mtcars.csv"            "penguins_fwf.txt"</span></code></pre>
 </div>
 <div class="section level2">
 <h2 id="licenses">Licenses<a class="anchor" aria-label="anchor" href="#licenses"></a>
@@ -150,6 +150,16 @@
 <h3 id="gapminder-csv">gapminder.csv<a class="anchor" aria-label="anchor" href="#gapminder-csv"></a>
 </h3>
 <p>A csv version of the dataset in the <a href="https://CRAN.R-project.org/package=gapminder" class="external-link">{gapminder}</a> package</p>
+</div>
+<div class="section level3">
+<h3 id="jcush-txt">JCUSH.txt<a class="anchor" aria-label="anchor" href="#jcush-txt"></a>
+</h3>
+<p>Statistics Canada has made available an anonymized Public-Use Microdata File (PUMF) of the Joint Canada/United States Survey of Health, a telephone survey conducted in late 2002 and early 2003. There were 8,688 respondents to the survey, 3,505 Canadians and 5,183 Americans.</p>
+<p>The PUMF is a fixed-width file named “JCUSH.txt”. Each line is 552 columns in length.</p>
+<p>The webpage for the survey, including the PUMF file, data dictionary, and methodological notes, is here: <a href="https://www150.statcan.gc.ca/n1/pub/82m0022x/2003001/4069119-eng.htm" class="external-link uri">https://www150.statcan.gc.ca/n1/pub/82m0022x/2003001/4069119-eng.htm</a></p>
+<p><strong>License:</strong></p>
+<p><a href="https://www.statcan.gc.ca/en/reference/licence" class="external-link">Statistics Canada Open License</a></p>
+<p>Source: Statistics Canada, Joint Canada/United States Survey of Health 2002-03, 2004. Reproduced and distributed on an “as is” basis with the permission of Statistics Canada.</p>
 </div>
 <div class="section level3">
 <h3 id="mpg-csv">mpg.csv<a class="anchor" aria-label="anchor" href="#mpg-csv"></a>
@@ -219,19 +229,24 @@
 </tr>
 </tbody>
 </table>
-<p>The fixed-width file has been created to minimize white space. The first 4 and last 2 rows of the data look like this:</p>
-<p><code>Adelie   Torgersen39.118.71813750male  2007</code></p>
-<p><code>Adelie   Torgersen39.517.41863800female2007</code></p>
-<p><code>Adelie   Torgersen40.318.01953250female2007</code></p>
-<p><code>Adelie   Torgersen                     2007</code></p>
-<p><code>ChinstrapDream    50.819.02104100male  2009</code></p>
-<p><code>ChinstrapDream    50.218.71983775female2009</code></p>
-<p>Note that the first row is <em>not</em> the variable names—this is common in fixed-width files.</p>
+<p>The fixed-width file has been created to minimize white space. The first four and last two rows of the data look like this:</p>
+<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span>, n <span class="op">=</span> <span class="fl">4</span><span class="op">)</span></code></pre></div>
+<pre><code><span class="co">## [1] "Adelie   Torgersen39.118.71813750male  2007"</span>
+<span class="co">## [2] "Adelie   Torgersen39.517.41863800female2007"</span>
+<span class="co">## [3] "Adelie   Torgersen40.318.01953250female2007"</span>
+<span class="co">## [4] "Adelie   Torgersen                     2007"</span></code></pre>
+<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">tail</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span><span class="op">)</span>, <span class="fl">2</span><span class="op">)</span></code></pre></div>
+<pre><code><span class="co">## [1] "ChinstrapDream    50.819.02104100male  2009"</span>
+<span class="co">## [2] "ChinstrapDream    50.218.71983775female2009"</span></code></pre>
+<p>Note that the first row is <em>not</em> the variable names. This is common in fixed-width files.</p>
 <p><strong>License:</strong></p>
 <p>Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.</p>
 </div>
 </div>
-  </main>
+  </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
+    </nav></aside>
 </div>
 
 
