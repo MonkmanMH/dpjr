@@ -1,5 +1,9 @@
 ---
 title: "Data list"
+output:
+  rmarkdown::html_document:
+    toc: true
+    toc_float: true
 pkgdown:
   as_is: true
 ---
@@ -47,6 +51,7 @@ state_of_birth     10      21               30
 unique_id          12      31               42
 
 
+
 ### cr25
 
 The files within the subdirectory `cr25` are as follows:
@@ -61,6 +66,27 @@ For information about these files see [the vignette "Data generation—CR25 orde
 ### gapminder.csv
 
 A csv version of the dataset in the [{gapminder}](https://CRAN.R-project.org/package=gapminder) package
+
+
+### JCUSH.txt
+
+Statistics Canada has made available an anonymized Public-Use Microdata File (PUMF) of the Joint Canada/United States Survey of Health, a telephone survey conducted in late 2002 and early 2003. There were 8,688 respondents to the survey, 3,505 Canadians and 5,183 Americans. 
+
+The PUMF is a fixed-width file named "JCUSH.txt". Each line is 552 columns in length.
+
+
+The webpage for the survey, including the PUMF file, data dictionary, and methodological notes, is here:
+https://www150.statcan.gc.ca/n1/pub/82m0022x/2003001/4069119-eng.htm
+
+
+
+**License:**
+
+[Statistics Canada Open License](https://www.statcan.gc.ca/en/reference/licence)
+
+Source: Statistics Canada, Joint Canada/United States Survey of Health 2002-03, 2004. Reproduced and distributed on an "as is" basis with the permission of Statistics Canada.
+
+
 
 ### mpg.csv
 
@@ -87,23 +113,23 @@ year               4       40               43
 
 
 
-The fixed-width file has been created to minimize white space. The first 4 and last 2 rows of the data look like this:
+The fixed-width file has been created to minimize white space. The first four and last two rows of the data look like this:
 
-`Adelie   Torgersen39.118.71813750male  2007`
 
-`Adelie   Torgersen39.517.41863800female2007`
+```{r penguin_readLines_head}
+readLines(dpjr::dpjr_data("penguins_fwf.txt"), n = 4)
+```
 
-`Adelie   Torgersen40.318.01953250female2007`
+```{r penguin_readLines_tail}
+tail(readLines(dpjr::dpjr_data("penguins_fwf.txt")), 2)
+```
 
-`Adelie   Torgersen                     2007`
-
-`ChinstrapDream    50.819.02104100male  2009`
-
-`ChinstrapDream    50.218.71983775female2009`
-
-Note that the first row is _not_ the variable names—this is common in fixed-width files.
+Note that the first row is _not_ the variable names. This is common in fixed-width files.
 
 
 **License:**
 
 Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
+
+
+
