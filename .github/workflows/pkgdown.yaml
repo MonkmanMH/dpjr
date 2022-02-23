@@ -25,7 +25,12 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v1
         with:
-          extra-packages: pkgdown
+          cache-version: 2
+          extra-packages: |
+            any::ggplot2
+            any::dplyr
+            any::readr
+            any::pkgdown
           needs: website
 
       - name: Deploy package
