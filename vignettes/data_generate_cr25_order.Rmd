@@ -16,7 +16,7 @@ These can then be linked to other tables about the stores.
 
 ## The Scenario
 
-The fictional wholesale company, CR25 (for "Classic Rock 25") only sells 25 album titles. They are the biggest selling / most famous albums by the 25 most-played artists shown in Walt Hickey's article "Why Classic Rock Isn’t What It Used To Be". ^[Walt Hickey, [Why Classic Rock Isn’t What It Used To Be](https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/) (FiveThirtyEight, 2014-07-07). <P>The GitHub page with the data for Walt Hickey's article is available through [GitHub](https://github.com/fivethirtyeight/data/tree/master/classic-rock).] 
+The fictional wholesale company, CR25 (for "Classic Rock 25") only sells 25 album titles. They are the biggest selling / most famous albums by the 25 most-played artists shown in Walt Hickey's article "Why Classic Rock Isn’t What It Used To Be". ^[Walt Hickey, [Why Classic Rock Isn’t What It Used To Be](https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/) (FiveThirtyEight, 2014-07-07). The GitHub page with the data for Walt Hickey's article is available through [GitHub](https://github.com/fivethirtyeight/data/tree/master/classic-rock).] 
 
 
 ### Setup

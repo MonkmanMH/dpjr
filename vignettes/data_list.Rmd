@@ -94,10 +94,15 @@ A csv version of the famous mpg dataset, included in the [{ggplot2} package](htt
 
 
 
-### penguins_csv.csv
+### penguins.*
 
-A comma separated version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/)
+The `penguins` dataframe from the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/), in different formats:
 
+* comma-separated values `penguins.csv`
+
+* SAS `penguins.sas`
+
+* Stata `penguins.dta`
 
 
 ### penguins_fwf.txt
