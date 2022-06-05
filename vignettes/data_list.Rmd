@@ -93,6 +93,13 @@ Source: Statistics Canada, Joint Canada/United States Survey of Health 2002-03, 
 A csv version of the famous mpg dataset, included in the [{ggplot2} package](https://ggplot2.tidyverse.org/reference/mpg.html)
 
 
+
+### penguins_csv.csv
+
+A comma separated version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/)
+
+
+
 ### penguins_fwf.txt
 
 A fixed-width version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/)
