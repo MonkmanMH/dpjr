@@ -100,9 +100,38 @@ The `penguins` dataframe from the [{palmerpenguins} dataset](https://allisonhors
 
 * comma-separated values `penguins.csv`
 
+```
+# code to create file
+readr::write_csv(palmerpenguins::penguins, 
+                 here::here("penguins.csv"))
+```
+
 * SAS `penguins.sas`
 
+```
+# code to create file
+haven::write_sas(palmerpenguins::penguins, 
+                 here::here("penguins.sas"))
+```
+
+* SPSS `penguins.sav`
+
+
+```
+# code to create file
+haven::write_sav(palmerpenguins::penguins,
+                 here::here("penguins.sav"))
+```
+
+
 * Stata `penguins.dta`
+
+
+```
+# code to create file
+haven::write_dta(palmerpenguins::penguins,
+                 here::here("penguins.dta"))
+```
 
 
 ### penguins_fwf.txt
@@ -137,6 +166,24 @@ tail(readLines(dpjr::dpjr_data("penguins_fwf.txt")), 2)
 ```
 
 Note that the first row is _not_ the variable names. This is common in fixed-width files.
+
+```
+# code to create fwf file
+gdata::write.fwf(penguins_df, file = "penguins_fwf.txt",
+                 width = c(
+                   9,   # species
+                   9,   # island
+                   4,   # bill_length_mm
+                   4,   # bill_depth_mm
+                   3,   # flipper_length_mm
+                   4,   # body_mass_g
+                   6,   # sex
+                   4    # year
+                 ),
+                 sep = "",
+                 colname = FALSE)
+
+```
 
 
 **License:**
