@@ -30,9 +30,10 @@ This file describes the values in the synthetic data file "CR25_staff_list.xls".
 
 ### Setup
 
-Are there any random variables?
+_Are there any random variables?_
 
----
+
+
 
 The first step is to install the necessary packages. The seed is set to [a number associated with a classic rock staple](https://www.youtube.com/watch?v=axLRUszuu9I), so that future runs of the code will generate the same data table. This is important, as some of the examples in the book are based on summary tables drawn from the master file.
 
@@ -52,5 +53,6 @@ set.seed(8675309)
 ### Input data
 
 
+-30-
 
 
