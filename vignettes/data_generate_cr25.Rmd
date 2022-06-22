@@ -1,5 +1,5 @@
 ---
-title: "Data generation—CR25 orders"
+title: "Data generation—CR25"
 pkgdown:
   as_is: true
 ---
@@ -7,6 +7,7 @@ pkgdown:
 ## Introduction
 
 This set of R chunks creates synthetic datasets that presents a variety of data wrangling challenges, as well as some interesting analytic opportunities.
+
 
 This is based on my own experience in the late 1980s, to a time when I was working for a wholesale company that distributed LPs, cassettes, and those new-fangled compact discs to a wide range of retailers. 
 
@@ -16,6 +17,15 @@ This is based on my own experience in the late 1980s, to a time when I was worki
 The fictional wholesale company, CR25 (for "Classic Rock 25") only sells 25 album titles. They are the biggest selling / most famous albums by the 25 most-played artists shown in Walt Hickey's article "Why Classic Rock Isn’t What It Used To Be". ^[Walt Hickey, [Why Classic Rock Isn’t What It Used To Be](https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/) (FiveThirtyEight, 2014-07-07). The GitHub page with the data for Walt Hickey's article is available through [GitHub](https://github.com/fivethirtyeight/data/tree/master/classic-rock).] 
 
 There are two sets of files. The first is associated with the orders placed by individual stores to the warehouse. The second cover a variety of human resource files, including responses to a staff survey.
+
+
+The files within the subdirectory `cr25` are as follows:
+
+```{r data_list_cr25}
+list.files(dpjr::dpjr_data("cr25"))
+```
+
+
 
 ## Orders
 
