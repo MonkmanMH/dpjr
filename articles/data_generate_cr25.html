@@ -6,12 +6,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="dpjr">
-<title>Data generation—CR25 orders • dpjr</title>
+<title>Data generation—CR25 • dpjr</title>
 <script src="../deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="../deps/bootstrap-5.1.0/bootstrap.min.css" rel="stylesheet">
 <script src="../deps/bootstrap-5.1.0/bootstrap.bundle.min.js"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous">
-<!-- bootstrap-toc --><script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script><!-- headroom.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script><!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><!-- search --><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="Data generation—CR25 orders">
+<!-- bootstrap-toc --><script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script><!-- headroom.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script><!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><!-- search --><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="Data generation—CR25">
 <meta property="og:description" content="dpjr">
 <!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" integrity="sha256-nvJJv9wWKEm88qvoQl9ekL2J+k/RWIsaSScxxlsrv8k=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/config/TeX-AMS-MML_HTMLorMML.js" integrity="sha256-84DKXVJXs0/F8OTMzX4UR909+jtl4G7SPypPavF+GfA=" crossorigin="anonymous"></script><!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -43,8 +43,7 @@
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
     <a class="dropdown-item" href="../articles/data_list.html">Data list</a>
     <a class="dropdown-item" href="../articles/data_licenses.html">Data licenses</a>
-    <a class="dropdown-item" href="../articles/data_generate_cr25_order.html">Data generation—CR25 orders</a>
-    <a class="dropdown-item" href="../articles/data_generate_cr25_staff.html">Data generation—CR25 staff</a>
+    <a class="dropdown-item" href="../articles/data_generate_cr25.html">Data generation—CR25</a>
   </div>
 </li>
       </ul>
@@ -69,11 +68,11 @@
 
 <div class="row">
   <main id="main" class="col-md-9"><div class="page-header">
-      <img src="" class="logo" alt=""><h1>Data generation—CR25 orders</h1>
+      <img src="" class="logo" alt=""><h1>Data generation—CR25</h1>
             
       
-      <small class="dont-index">Source: <a href="https://github.com/MonkmanMH/dpjr/blob/HEAD/vignettes/data_generate_cr25_order.Rmd" class="external-link"><code>vignettes/data_generate_cr25_order.Rmd</code></a></small>
-      <div class="d-none name"><code>data_generate_cr25_order.Rmd</code></div>
+      <small class="dont-index">Source: <a href="https://github.com/MonkmanMH/dpjr/blob/HEAD/vignettes/data_generate_cr25.Rmd" class="external-link"><code>vignettes/data_generate_cr25.Rmd</code></a></small>
+      <div class="d-none name"><code>data_generate_cr25.Rmd</code></div>
     </div>
 
     
@@ -81,20 +80,30 @@
 <div class="section level2">
 <h2 id="introduction">Introduction<a class="anchor" aria-label="anchor" href="#introduction"></a>
 </h2>
-<p>This set of R chunks creates a synthetic dataset that presents a variety of data wrangling challenges, as well as some interesting analytic opportunities.</p>
+<p>This set of R chunks creates synthetic datasets that presents a variety of data wrangling challenges, as well as some interesting analytic opportunities.</p>
 <p>This is based on my own experience in the late 1980s, to a time when I was working for a wholesale company that distributed LPs, cassettes, and those new-fangled compact discs to a wide range of retailers.</p>
-<p>The central table in this relational database shows the details of each store’s orders…but this table needs to be compiled for four quarterly CSV files.</p>
-<p>These can then be linked to other tables about the stores.</p>
 </div>
 <div class="section level2">
 <h2 id="the-scenario">The Scenario<a class="anchor" aria-label="anchor" href="#the-scenario"></a>
 </h2>
 <p>The fictional wholesale company, CR25 (for “Classic Rock 25”) only sells 25 album titles. They are the biggest selling / most famous albums by the 25 most-played artists shown in Walt Hickey’s article “Why Classic Rock Isn’t What It Used To Be”. <a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content='&lt;p&gt;Walt Hickey, &lt;a href="https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/" class="external-link"&gt;Why Classic Rock Isn’t What It Used To Be&lt;/a&gt; (FiveThirtyEight, 2014-07-07). The GitHub page with the data for Walt Hickey’s article is available through &lt;a href="https://github.com/fivethirtyeight/data/tree/master/classic-rock" class="external-link"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;'><sup>1</sup></a></p>
+<p>There are two sets of files. The first is associated with the orders placed by individual stores to the warehouse. The second cover a variety of human resource files, including responses to a staff survey.</p>
+<p>The files within the subdirectory <code>cr25</code> are as follows:</p>
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/base/list.files.html" class="external-link">list.files</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"cr25"</span><span class="op">)</span><span class="op">)</span></code></pre></div>
+<pre><code><span class="co">## [1] "cr25_538.csv"         "cr25_order_multi.csv" "cr25_order_multi.rds"</span>
+<span class="co">## [4] "cr25_storelist.csv"</span></code></pre>
+</div>
+<div class="section level2">
+<h2 id="orders">Orders<a class="anchor" aria-label="anchor" href="#orders"></a>
+</h2>
+<p>The central table in this relational database shows the details of each store’s orders…but this table needs to be compiled for four quarterly CSV files.</p>
+<p>These can then be linked to other tables about the stores.</p>
 <div class="section level3">
 <h3 id="setup">Setup<a class="anchor" aria-label="anchor" href="#setup"></a>
 </h3>
 <p>The first step is to install the necessary packages. The seed is set to <a href="https://www.youtube.com/watch?v=axLRUszuu9I" class="external-link">a number associated with a classic rock staple</a>, so that future runs of the code will generate the same data table. This is important, as some of the examples in the book are based on summary tables drawn from the master file.</p>
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="co"># tidyverse packages</span>
 <span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span>
 <span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://readr.tidyverse.org" class="external-link">readr</a></span><span class="op">)</span>
@@ -107,9 +116,9 @@
 <div class="section level3">
 <h3 id="input-data">Input data<a class="anchor" aria-label="anchor" href="#input-data"></a>
 </h3>
-<p>To create the album list, I created a csv file with the artist and percentage of all plays fields, using the table in the article (which is displayed as an image; note that there appears to be an error in the table, in that Boston has a lower rank but a higher percentage than Queen or Journey). I also added a representative album by that artist—I used some judgement here. The album is the biggest selling, most famous, and/or the one with the most hit singles that the artist made. I also opted for a “no compilations” rule; one could make the case that, as one example, The Rolling Stones might be better or more accurately represented by <em>Hot Rocks</em>.</p>
+<p>To create the album list, I created a csv file with the artist and percentage of all plays fields, using the table in the 538 article (which is displayed as an image; note that there appears to be an error in the table, in that Boston has a lower rank but a higher percentage than Queen or Journey). I also added a representative album by that artist—I used some judgement here. The album is the biggest selling, most famous, and/or the one with the most hit singles that the artist made. I also opted for a “no compilations” rule; one could make the case that, as one example, The Rolling Stones might be better or more accurately represented by <em>Hot Rocks</em>.</p>
 <p>I also added a price field; albums released before 1976 are $7.98, <a href="https://en.wikipedia.org/wiki/Hard_Promises#History" class="external-link">those released 1976-1981 are $8.98</a>, and 1982 and beyond are $9.98. The sole exception to this is Pink Floyd’s double album <em>The Wall</em>, which I priced at $14.98.</p>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">albumlist</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://readr.tidyverse.org/reference/read_delim.html" class="external-link">read_csv</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"cr25/cr25_538.csv"</span><span class="op">)</span><span class="op">)</span>
 <span class="va">albumlist</span></code></pre></div>
 <pre><code><span class="co">## <span style="color: #949494;"># A tibble: 25 × 6</span></span>
@@ -126,9 +135,9 @@
 <span class="co">## <span style="color: #BCBCBC;"> 9</span>     9 The Beatles                   Abbey Road          <span style="text-decoration: underline;">1</span>969       1.9  7.98</span>
 <span class="co">## <span style="color: #BCBCBC;">10</span>    10 Queen                         Night at the Opera  <span style="text-decoration: underline;">1</span>975       1.8  7.98</span>
 <span class="co">## <span style="color: #949494;"># … with 15 more rows</span></span></code></pre>
-<p>The next step was to create a csv file with some fictional stores. What I did here was use the names of now-defunct Canadian chains that were record retailers active in the 70s and 80s. You can find them listed in the <a href="https://en.wikipedia.org/wiki/List_of_defunct_Canadian_companies#Consumer_retail,_including_grocery" class="external-link">Wikipedia List of defunct Canadian companies</a> I left off HMV, as it was an international brand that was late to the market.</p>
+<p>The next step was to create a csv file with some fictional stores. What I did here was use the names of now-defunct Canadian retail chains that were active selling records in the 70s and 80s. You can find them listed in the <a href="https://en.wikipedia.org/wiki/List_of_defunct_Canadian_companies#Consumer_retail,_including_grocery" class="external-link">Wikipedia List of defunct Canadian companies</a> I left off HMV, as it was an international brand that was late to the market.</p>
 <p>I also assigned each store to one of four regions (based on the cardinal points of the compass), and gave them a store ID number.</p>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">storelist</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://readr.tidyverse.org/reference/read_delim.html" class="external-link">read_csv</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"cr25/cr25_storelist.csv"</span><span class="op">)</span><span class="op">)</span>
 
 <span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">storelist</span><span class="op">)</span></code></pre></div>
@@ -141,7 +150,7 @@
 <span class="co">## <span style="color: #BCBCBC;">4</span> A&amp;A Records         east   2019-01-01 X004    </span>
 <span class="co">## <span style="color: #BCBCBC;">5</span> A&amp;A Records         east   2019-01-01 X005    </span>
 <span class="co">## <span style="color: #BCBCBC;">6</span> Kelly's Stereo Mart east   2019-01-01 X017</span></code></pre>
-<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">storelist</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">chain</span>, <span class="va">region</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">tally</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
@@ -161,7 +170,7 @@
 <span class="co">## <span style="color: #BCBCBC;">10</span> Sam the Record Man  north      2</span>
 <span class="co">## <span style="color: #BCBCBC;">11</span> Sam the Record Man  south     10</span>
 <span class="co">## <span style="color: #BCBCBC;">12</span> Sam the Record Man  west       3</span></code></pre>
-<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb10"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">storelist</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">region</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">tally</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
@@ -172,7 +181,7 @@
 <span class="co">## <span style="color: #BCBCBC;">2</span> north      5</span>
 <span class="co">## <span style="color: #BCBCBC;">3</span> south     20</span>
 <span class="co">## <span style="color: #BCBCBC;">4</span> west      10</span></code></pre>
-<div class="sourceCode" id="cb10"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">storelist</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">chain</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">tally</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
@@ -184,11 +193,10 @@
 <span class="co">## <span style="color: #BCBCBC;">3</span> Kelly's Stereo Mart    11</span>
 <span class="co">## <span style="color: #BCBCBC;">4</span> Sam the Record Man     18</span></code></pre>
 </div>
-</div>
-<div class="section level2">
-<h2 id="create-order">Create order<a class="anchor" aria-label="anchor" href="#create-order"></a>
-</h2>
-<div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
+<div class="section level3">
+<h3 id="create-order">Create order<a class="anchor" aria-label="anchor" href="#create-order"></a>
+</h3>
+<div class="sourceCode" id="cb14"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="co"># order date</span>
 <span class="co"># based on https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html</span>
 
@@ -276,7 +284,7 @@
   <span class="op">}</span>
 <span class="co"># end function</span>
 <span class="op">}</span></code></pre></div>
-<div class="sourceCode" id="cb13"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb15"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="co"># run one order...</span>
 <span class="fu">order_fun</span><span class="op">(</span><span class="op">)</span></code></pre></div>
 <pre><code><span class="co">##              artist             album price format qty  orderdate store.id</span>
@@ -288,7 +296,7 @@
 <span class="co">## 6     Fleetwood Mac           Rumours  8.98     lp   1 2019-07-31     X026</span>
 <span class="co">## 7         The Doors         The Doors  7.98     lp   3 2019-07-31     X026</span></code></pre>
 <p>Now a run of multiple orders…</p>
-<div class="sourceCode" id="cb15"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb17"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">m</span> <span class="op">&lt;-</span> <span class="fl">750</span>
 
 
@@ -309,7 +317,7 @@
 
 <span class="co">#write_csv(order_multi, "cr25_order_multi.csv")  </span>
 <span class="co">#write_rds(order_multi, "cr25_order_multi.rds")  </span></code></pre></div>
-<div class="sourceCode" id="cb16"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb18"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">order_multi</span><span class="op">)</span></code></pre></div>
 <pre><code><span class="co">##               artist             album price format qty  orderdate store.id</span>
 <span class="co">## 1          Aerosmith Toys in the Attic  7.98   cass   1 2019-11-13     X008</span>
@@ -321,11 +329,11 @@
 <div class="section level4">
 <h4 id="summary-tables">Summary tables<a class="anchor" aria-label="anchor" href="#summary-tables"></a>
 </h4>
-<div class="sourceCode" id="cb18"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb20"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">order_multi</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">store.id</span>, <span class="va">orderdate</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">tally</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
-<div class="sourceCode" id="cb19"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb21"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">order_multi</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">artist</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span>qty <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">qty</span><span class="op">)</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -345,14 +353,14 @@
 <span class="co">## <span style="color: #BCBCBC;">10</span> Foreigner                       551</span>
 <span class="co">## <span style="color: #949494;"># … with 15 more rows</span></span></code></pre>
 <p>Build a large scale summary table</p>
-<div class="sourceCode" id="cb21"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb23"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">order_multi</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>order_price <span class="op">=</span> <span class="va">qty</span> <span class="op">*</span> <span class="va">price</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">artist</span>, <span class="va">format</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span>qty <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">qty</span><span class="op">)</span>,
             cost <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">order_price</span><span class="op">)</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">qty</span><span class="op">)</span><span class="op">)</span></code></pre></div>
-<div class="sourceCode" id="cb22"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb24"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">order_multi</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>order_price <span class="op">=</span> <span class="va">qty</span> <span class="op">*</span> <span class="va">price</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="external-link">left_join</a></span><span class="op">(</span><span class="va">storelist</span>, by <span class="op">=</span> <span class="st">"store.id"</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -367,7 +375,7 @@
 <span class="co">## <span style="color: #BCBCBC;">2</span> A&amp;A Records          <span style="text-decoration: underline;">3</span>459 <span style="text-decoration: underline;">31</span>789.</span>
 <span class="co">## <span style="color: #BCBCBC;">3</span> Kelly's Stereo Mart  <span style="text-decoration: underline;">3</span>416 <span style="text-decoration: underline;">30</span>903.</span>
 <span class="co">## <span style="color: #BCBCBC;">4</span> A&amp;B Sound            <span style="text-decoration: underline;">1</span>744 <span style="text-decoration: underline;">15</span>751.</span></code></pre>
-<div class="sourceCode" id="cb24"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb26"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="va">order_multi</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>order_price <span class="op">=</span> <span class="va">qty</span> <span class="op">*</span> <span class="va">price</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="external-link">left_join</a></span><span class="op">(</span><span class="va">storelist</span>, by <span class="op">=</span> <span class="st">"store.id"</span><span class="op">)</span> <span class="op"><a href="https://magrittr.tidyverse.org/reference/pipe.html" class="external-link">%&gt;%</a></span>
@@ -384,11 +392,42 @@
 <span class="co">## <span style="color: #BCBCBC;">3</span> west    <span style="text-decoration: underline;">3</span>077 <span style="text-decoration: underline;">28</span>000.         21.0</span>
 <span class="co">## <span style="color: #BCBCBC;">4</span> north   <span style="text-decoration: underline;">1</span>698 <span style="text-decoration: underline;">15</span>284.         11.5</span></code></pre>
 </div>
+<div class="section level4">
+<h4 id="future-development">Future development<a class="anchor" aria-label="anchor" href="#future-development"></a>
+</h4>
+<p>It could also be expanded to include additional years (with some trends embedded), inventory management, and customer relationship management (CRM).</p>
+<hr>
+</div>
+</div>
 </div>
 <div class="section level2">
-<h2 id="future-development">Future development<a class="anchor" aria-label="anchor" href="#future-development"></a>
+<h2 id="human-resources">Human resources<a class="anchor" aria-label="anchor" href="#human-resources"></a>
 </h2>
-<p>It could also be expanded to include additional years (with some trends embedded), inventory management, and customer relationship management (CRM).</p>
+<div class="section level3">
+<h3 id="staff-list">Staff list<a class="anchor" aria-label="anchor" href="#staff-list"></a>
+</h3>
+<p>This file describes the values in the synthetic data file “CR25_staff_list.xls”. This file is the list of all staff of the fictional wholesale company, CR25 (for “Classic Rock 25”). This file can be linked to the survey data file [SPSS file name here].</p>
+<div class="section level4">
+<h4 id="variables">Variables<a class="anchor" aria-label="anchor" href="#variables"></a>
+</h4>
+<ul>
+<li><p>Last name</p></li>
+<li><p>First name</p></li>
+<li><p>Employee ID</p></li>
+<li><p>Date of birth</p></li>
+<li><p>Canadian employee equity group</p></li>
+<li><p>Date of hire</p></li>
+<li><p>Classification group</p></li>
+<li><p>Occupation</p></li>
+<li><p>Department</p></li>
+</ul>
+</div>
+</div>
+<div class="section level3">
+<h3 id="survey-results">Survey results<a class="anchor" aria-label="anchor" href="#survey-results"></a>
+</h3>
+<p>This is an SPSS “.sav” file.</p>
+</div>
 </div>
 
   </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
