@@ -94,7 +94,9 @@ A csv version of the famous mpg dataset, included in the [{ggplot2} package](htt
 
 
 
-### penguins.*
+### penguins
+
+#### penguins.*
 
 The `penguins` dataframe from the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/), in different formats:
 
@@ -134,7 +136,7 @@ haven::write_dta(palmerpenguins::penguins,
 ```
 
 
-### penguins_fwf.txt
+#### penguins_fwf.txt
 
 A fixed-width version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/)
 
@@ -191,4 +193,17 @@ gdata::write.fwf(penguins_df, file = "penguins_fwf.txt",
 Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
 
 
+### tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r.xlsx
 
+**International Tuition Fees at Public Post-Secondary Institutions by Economic Development Region **
+
+Sourced from the British Columbia Data Catalogue, this Excel file contains "Annual Academic Arts Program tuition fees for full-time international students at public post-secondary institutions by Economic Development Region (EDR) and by institution. Academic Years 2011/12 to 2021/22."
+
+https://catalogue.data.gov.bc.ca/dataset/international-tuition-fees-at-public-post-secondary-institutions-by-economic-development-region
+
+**License:**
+
+[Open Government Licence - British Columbia](https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61)
+
+
+-30-
