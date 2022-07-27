@@ -8,8 +8,8 @@
 <meta name="description" content="dpjr">
 <title>Data list • dpjr</title>
 <script src="../deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="../deps/bootstrap-5.1.0/bootstrap.min.css" rel="stylesheet">
-<script src="../deps/bootstrap-5.1.0/bootstrap.bundle.min.js"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous">
+<link href="../deps/bootstrap-5.1.3/bootstrap.min.css" rel="stylesheet">
+<script src="../deps/bootstrap-5.1.3/bootstrap.bundle.min.js"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous">
 <!-- bootstrap-toc --><script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script><!-- headroom.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script><!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><!-- search --><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="Data list">
 <meta property="og:description" content="dpjr">
@@ -81,15 +81,24 @@
 <h2 id="raw-data">Raw data<a class="anchor" aria-label="anchor" href="#raw-data"></a>
 </h2>
 <p>This page is a listing of the raw data files in the {dpjr} package. The files can be accessed using the appropriate “read” function, with the package function <code><a href="../reference/dpjr_data.html">dpjr_data()</a></code> providing the path. For example,</p>
-<pre><code><span class="va">df_mpg</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.csv</a></span><span class="op">(</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"mpg.csv"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="va">df_mpg</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/utils/read.table.html" class="external-link">read.csv</a></span><span class="op">(</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"mpg.csv"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
 <p>The full list of files is as follows:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="op">)</span></code></pre></div>
-<pre><code><span class="co">##  [1] "authors_count_fwf.txt" "authors_fwf.txt"       "authors2_fwf.txt"     </span>
-<span class="co">##  [4] "cr25"                  "gapminder.csv"         "JCUSH.txt"            </span>
-<span class="co">##  [7] "mpg.csv"               "mtcars.csv"            "penguins_fwf.txt"     </span>
-<span class="co">## [10] "penguins.csv"          "penguins.dta"          "penguins.sas"         </span>
-<span class="co">## [13] "penguins.sav"</span></code></pre>
+<code class="sourceCode R"><span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">##  [1] "authors_count_fwf.txt"                                                                               </span></span>
+<span><span class="co">##  [2] "authors_fwf.txt"                                                                                     </span></span>
+<span><span class="co">##  [3] "authors2_fwf.txt"                                                                                    </span></span>
+<span><span class="co">##  [4] "cr25"                                                                                                </span></span>
+<span><span class="co">##  [5] "gapminder.csv"                                                                                       </span></span>
+<span><span class="co">##  [6] "JCUSH.txt"                                                                                           </span></span>
+<span><span class="co">##  [7] "mpg.csv"                                                                                             </span></span>
+<span><span class="co">##  [8] "mtcars.csv"                                                                                          </span></span>
+<span><span class="co">##  [9] "penguins_fwf.txt"                                                                                    </span></span>
+<span><span class="co">## [10] "penguins.csv"                                                                                        </span></span>
+<span><span class="co">## [11] "penguins.dta"                                                                                        </span></span>
+<span><span class="co">## [12] "penguins.sas"                                                                                        </span></span>
+<span><span class="co">## [13] "penguins.sav"                                                                                        </span></span>
+<span><span class="co">## [14] "tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r.xlsx"</span></span></code></pre>
 </div>
 <div class="section level2">
 <h2 id="licenses">Licenses<a class="anchor" aria-label="anchor" href="#licenses"></a>
@@ -143,9 +152,9 @@
 </h3>
 <p>The files within the subdirectory <code>cr25</code> are as follows:</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/base/list.files.html" class="external-link">list.files</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"cr25"</span><span class="op">)</span><span class="op">)</span></code></pre></div>
-<pre><code><span class="co">## [1] "cr25_538.csv"         "cr25_order_multi.csv" "cr25_order_multi.rds"</span>
-<span class="co">## [4] "cr25_storelist.csv"</span></code></pre>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/list.files.html" class="external-link">list.files</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"cr25"</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">## [1] "cr25_538.csv"         "cr25_order_multi.csv" "cr25_order_multi.rds"</span></span>
+<span><span class="co">## [4] "cr25_storelist.csv"</span></span></code></pre>
 <p>For information about these files see <a href="data_generate_cr25.html">the vignette “Data generation—CR25”</a>.</p>
 </div>
 <div class="section level3">
@@ -169,41 +178,44 @@
 <p>A csv version of the famous mpg dataset, included in the <a href="https://ggplot2.tidyverse.org/reference/mpg.html" class="external-link">{ggplot2} package</a></p>
 </div>
 <div class="section level3">
-<h3 id="penguins-">penguins.*<a class="anchor" aria-label="anchor" href="#penguins-"></a>
+<h3 id="penguins">penguins<a class="anchor" aria-label="anchor" href="#penguins"></a>
 </h3>
+<div class="section level4">
+<h4 id="penguins-">penguins.*<a class="anchor" aria-label="anchor" href="#penguins-"></a>
+</h4>
 <p>The <code>penguins</code> dataframe from the <a href="https://allisonhorst.github.io/palmerpenguins/" class="external-link">{palmerpenguins} dataset</a>, in different formats:</p>
 <ul>
 <li>comma-separated values <code>penguins.csv</code>
 </li>
 </ul>
-<pre><code><span class="co"># code to create file</span>
-<span class="fu">readr</span><span class="fu">::</span><span class="fu"><a href="https://readr.tidyverse.org/reference/write_delim.html" class="external-link">write_csv</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>, 
-                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.csv"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="co"># code to create file</span></span>
+<span><span class="fu">readr</span><span class="fu">::</span><span class="fu"><a href="https://readr.tidyverse.org/reference/write_delim.html" class="external-link">write_csv</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>, </span>
+<span>                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.csv"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
 <ul>
 <li>SAS <code>penguins.sas</code>
 </li>
 </ul>
-<pre><code><span class="co"># code to create file</span>
-<span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_sas.html" class="external-link">write_sas</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>, 
-                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.sas"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="co"># code to create file</span></span>
+<span><span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_sas.html" class="external-link">write_sas</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>, </span>
+<span>                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.sas"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
 <ul>
 <li>SPSS <code>penguins.sav</code>
 </li>
 </ul>
-<pre><code><span class="co"># code to create file</span>
-<span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_spss.html" class="external-link">write_sav</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>,
-                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.sav"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="co"># code to create file</span></span>
+<span><span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_spss.html" class="external-link">write_sav</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>,</span>
+<span>                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.sav"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
 <ul>
 <li>Stata <code>penguins.dta</code>
 </li>
 </ul>
-<pre><code><span class="co"># code to create file</span>
-<span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_dta.html" class="external-link">write_dta</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>,
-                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.dta"</span><span class="op">)</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="co"># code to create file</span></span>
+<span><span class="fu">haven</span><span class="fu">::</span><span class="fu"><a href="https://haven.tidyverse.org/reference/read_dta.html" class="external-link">write_dta</a></span><span class="op">(</span><span class="fu">palmerpenguins</span><span class="fu">::</span><span class="va">penguins</span>,</span>
+<span>                 <span class="fu">here</span><span class="fu">::</span><span class="fu">here</span><span class="op">(</span><span class="st">"penguins.dta"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
 </div>
-<div class="section level3">
-<h3 id="penguins_fwf-txt">penguins_fwf.txt<a class="anchor" aria-label="anchor" href="#penguins_fwf-txt"></a>
-</h3>
+<div class="section level4">
+<h4 id="penguins_fwf-txt">penguins_fwf.txt<a class="anchor" aria-label="anchor" href="#penguins_fwf-txt"></a>
+</h4>
 <p>A fixed-width version of the <a href="https://allisonhorst.github.io/palmerpenguins/" class="external-link">{palmerpenguins} dataset</a></p>
 <p>There are 8 different variables, described in the table below:</p>
 <table class="table">
@@ -266,32 +278,43 @@
 </table>
 <p>The fixed-width file has been created to minimize white space. The first four and last two rows of the data look like this:</p>
 <div class="sourceCode" id="cb10"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span>, n <span class="op">=</span> <span class="fl">4</span><span class="op">)</span></code></pre></div>
-<pre><code><span class="co">## [1] "Adelie   Torgersen39.118.71813750male  2007"</span>
-<span class="co">## [2] "Adelie   Torgersen39.517.41863800female2007"</span>
-<span class="co">## [3] "Adelie   Torgersen40.318.01953250female2007"</span>
-<span class="co">## [4] "Adelie   Torgersen                     2007"</span></code></pre>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span>, n <span class="op">=</span> <span class="fl">4</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">## [1] "Adelie   Torgersen39.118.71813750male  2007"</span></span>
+<span><span class="co">## [2] "Adelie   Torgersen39.517.41863800female2007"</span></span>
+<span><span class="co">## [3] "Adelie   Torgersen40.318.01953250female2007"</span></span>
+<span><span class="co">## [4] "Adelie   Torgersen                     2007"</span></span></code></pre>
 <div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">tail</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span><span class="op">)</span>, <span class="fl">2</span><span class="op">)</span></code></pre></div>
-<pre><code><span class="co">## [1] "ChinstrapDream    50.819.02104100male  2009"</span>
-<span class="co">## [2] "ChinstrapDream    50.218.71983775female2009"</span></code></pre>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">tail</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf.txt"</span><span class="op">)</span><span class="op">)</span>, <span class="fl">2</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">## [1] "ChinstrapDream    50.819.02104100male  2009"</span></span>
+<span><span class="co">## [2] "ChinstrapDream    50.218.71983775female2009"</span></span></code></pre>
 <p>Note that the first row is <em>not</em> the variable names. This is common in fixed-width files.</p>
-<pre><code><span class="co"># code to create fwf file</span>
-<span class="fu">gdata</span><span class="fu">::</span><span class="fu">write.fwf</span><span class="op">(</span><span class="va">penguins_df</span>, file <span class="op">=</span> <span class="st">"penguins_fwf.txt"</span>,
-                 width <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span>
-                   <span class="fl">9</span>,   <span class="co"># species</span>
-                   <span class="fl">9</span>,   <span class="co"># island</span>
-                   <span class="fl">4</span>,   <span class="co"># bill_length_mm</span>
-                   <span class="fl">4</span>,   <span class="co"># bill_depth_mm</span>
-                   <span class="fl">3</span>,   <span class="co"># flipper_length_mm</span>
-                   <span class="fl">4</span>,   <span class="co"># body_mass_g</span>
-                   <span class="fl">6</span>,   <span class="co"># sex</span>
-                   <span class="fl">4</span>    <span class="co"># year</span>
-                 <span class="op">)</span>,
-                 sep <span class="op">=</span> <span class="st">""</span>,
-                 colname <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></code></pre>
+<pre><code><span><span class="co"># code to create fwf file</span></span>
+<span><span class="fu">gdata</span><span class="fu">::</span><span class="fu">write.fwf</span><span class="op">(</span><span class="va">penguins_df</span>, file <span class="op">=</span> <span class="st">"penguins_fwf.txt"</span>,</span>
+<span>                 width <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span></span>
+<span>                   <span class="fl">9</span>,   <span class="co"># species</span></span>
+<span>                   <span class="fl">9</span>,   <span class="co"># island</span></span>
+<span>                   <span class="fl">4</span>,   <span class="co"># bill_length_mm</span></span>
+<span>                   <span class="fl">4</span>,   <span class="co"># bill_depth_mm</span></span>
+<span>                   <span class="fl">3</span>,   <span class="co"># flipper_length_mm</span></span>
+<span>                   <span class="fl">4</span>,   <span class="co"># body_mass_g</span></span>
+<span>                   <span class="fl">6</span>,   <span class="co"># sex</span></span>
+<span>                   <span class="fl">4</span>    <span class="co"># year</span></span>
+<span>                 <span class="op">)</span>,</span>
+<span>                 sep <span class="op">=</span> <span class="st">""</span>,</span>
+<span>                 colname <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre>
 <p><strong>License:</strong></p>
 <p>Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.</p>
+</div>
+</div>
+<div class="section level3">
+<h3 id="tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r-xlsx">tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r.xlsx<a class="anchor" aria-label="anchor" href="#tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r-xlsx"></a>
+</h3>
+<p><strong>International Tuition Fees at Public Post-Secondary Institutions by Economic Development Region </strong></p>
+<p>Sourced from the British Columbia Data Catalogue, this Excel file contains “Annual Academic Arts Program tuition fees for full-time international students at public post-secondary institutions by Economic Development Region (EDR) and by institution. Academic Years 2011/12 to 2021/22.”</p>
+<p><a href="https://catalogue.data.gov.bc.ca/dataset/international-tuition-fees-at-public-post-secondary-institutions-by-economic-development-region" class="external-link uri">https://catalogue.data.gov.bc.ca/dataset/international-tuition-fees-at-public-post-secondary-institutions-by-economic-development-region</a></p>
+<p><strong>License:</strong></p>
+<p><a href="https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61" class="external-link">Open Government Licence - British Columbia</a></p>
+<p>-30-</p>
 </div>
 </div>
   </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
@@ -307,7 +330,7 @@
 
 <div class="pkgdown-footer-right">
   <p></p>
-<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.4.</p>
+<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.6.</p>
 </div>
 
     </footer>

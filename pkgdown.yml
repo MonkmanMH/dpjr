@@ -1,11 +1,11 @@
 pandoc: 2.7.3
-pkgdown: 2.0.4
+pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   data_generate_cr25: data_generate_cr25.html
   data_licenses: data_licenses.html
   data_list: data_list.html
-last_built: 2022-06-22T16:09Z
+last_built: 2022-07-27T14:02Z
 urls:
   reference: https://monkmanmh.github.io/dpjr/reference
   article: https://monkmanmh.github.io/dpjr/articles
