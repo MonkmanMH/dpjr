@@ -68,6 +68,21 @@ For information about these files see [the vignette "Data generation—CR25"](da
 A csv version of the dataset in the [{gapminder}](https://CRAN.R-project.org/package=gapminder) package
 
 
+### intl_tuition_fees_bc.xlsx
+
+**International Tuition Fees at Public Post-Secondary Institutions by Economic Development Region **
+
+Sourced from the British Columbia Data Catalogue, this Excel file contains "Annual Academic Arts Program tuition fees for full-time international students at public post-secondary institutions by Economic Development Region (EDR) and by institution. Academic Years 2011/12 to 2021/22."
+
+Original file name: "tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r.xlsx"
+
+https://catalogue.data.gov.bc.ca/dataset/international-tuition-fees-at-public-post-secondary-institutions-by-economic-development-region
+
+**License:**
+
+[Open Government Licence - British Columbia](https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61)
+
+
 ### JCUSH.txt
 
 Statistics Canada has made available an anonymized Public-Use Microdata File (PUMF) of the Joint Canada/United States Survey of Health, a telephone survey conducted in late 2002 and early 2003. There were 8,688 respondents to the survey, 3,505 Canadians and 5,183 Americans. 
@@ -193,17 +208,6 @@ gdata::write.fwf(penguins_df, file = "penguins_fwf.txt",
 Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
 
 
-### tui2_international_tuition_fees_at_public_post_secondary_institutions_by_economic_development_r.xlsx
-
-**International Tuition Fees at Public Post-Secondary Institutions by Economic Development Region **
-
-Sourced from the British Columbia Data Catalogue, this Excel file contains "Annual Academic Arts Program tuition fees for full-time international students at public post-secondary institutions by Economic Development Region (EDR) and by institution. Academic Years 2011/12 to 2021/22."
-
-https://catalogue.data.gov.bc.ca/dataset/international-tuition-fees-at-public-post-secondary-institutions-by-economic-development-region
-
-**License:**
-
-[Open Government Licence - British Columbia](https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61)
 
 
 -30-
