@@ -26,3 +26,4 @@ dpjr_data <- function(path = NULL) {
     system.file("extdata", path, package = "dpjr", mustWork = TRUE)
   }
 }
+
