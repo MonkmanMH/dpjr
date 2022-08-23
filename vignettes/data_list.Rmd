@@ -236,11 +236,11 @@ sex        1      female
 The fixed-width file is now less than half the width of the fixed-width file that has the character values. The first four and last two rows of the data look like this:
 
 
-```{r penguin_readLines_head}
+```{r penguin_code_readLines_head}
 readLines(dpjr::dpjr_data("penguins_fwf_code.txt"), n = 4)
 ```
 
-```{r penguin_readLines_tail}
+```{r penguin_code_readLines_tail}
 tail(readLines(dpjr::dpjr_data("penguins_fwf_code.txt")), 2)
 ```
 
