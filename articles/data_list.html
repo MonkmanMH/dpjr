@@ -89,9 +89,10 @@
 <span><span class="co">##  [3] "authors2_fwf.txt"          "cr25"                     </span></span>
 <span><span class="co">##  [5] "gapminder.csv"             "intl_tuition_fees_bc.xlsx"</span></span>
 <span><span class="co">##  [7] "JCUSH.txt"                 "mpg.csv"                  </span></span>
-<span><span class="co">##  [9] "mtcars.csv"                "penguins_fwf.txt"         </span></span>
-<span><span class="co">## [11] "penguins.csv"              "penguins.dta"             </span></span>
-<span><span class="co">## [13] "penguins.sas"              "penguins.sav"</span></span></code></pre>
+<span><span class="co">##  [9] "mtcars.csv"                "penguins_fwf_code.txt"    </span></span>
+<span><span class="co">## [11] "penguins_fwf.txt"          "penguins.csv"             </span></span>
+<span><span class="co">## [13] "penguins.dta"              "penguins.sas"             </span></span>
+<span><span class="co">## [15] "penguins.sav"</span></span></code></pre>
 </div>
 <div class="section level2">
 <h2 id="licenses">Licenses<a class="anchor" aria-label="anchor" href="#licenses"></a>
@@ -305,6 +306,128 @@
 <span>                 <span class="op">)</span>,</span>
 <span>                 sep <span class="op">=</span> <span class="st">""</span>,</span>
 <span>                 colname <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre>
+</div>
+<div class="section level4">
+<h4 id="penguins_fwf_code-txt">penguins_fwf_code.txt<a class="anchor" aria-label="anchor" href="#penguins_fwf_code-txt"></a>
+</h4>
+<p>A fixed-width version of the <a href="https://allisonhorst.github.io/palmerpenguins/" class="external-link">{palmerpenguins} dataset</a>, where the character strings associated with the values have been replaced by numeric values.</p>
+<p>There are 8 different variables, described in the table below:</p>
+<table class="table">
+<thead><tr class="header">
+<th>Variable</th>
+<th>Width</th>
+<th>Start position</th>
+<th>End position</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>species</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>island</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>bill_length_mm</td>
+<td>4</td>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td>bill_depth_mm</td>
+<td>4</td>
+<td>7</td>
+<td>10</td>
+</tr>
+<tr class="odd">
+<td>flipper_length_mm</td>
+<td>3</td>
+<td>11</td>
+<td>13</td>
+</tr>
+<tr class="even">
+<td>body_mass_g</td>
+<td>4</td>
+<td>14</td>
+<td>17</td>
+</tr>
+<tr class="odd">
+<td>sex</td>
+<td>1</td>
+<td>18</td>
+<td>18</td>
+</tr>
+<tr class="even">
+<td>year</td>
+<td>4</td>
+<td>19</td>
+<td>22</td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<thead><tr class="header">
+<th>Variable</th>
+<th>Value</th>
+<th>Character</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>species</td>
+<td>1</td>
+<td>Adelie</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>2</td>
+<td>Gentoo</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>3</td>
+<td>Chinstrap</td>
+</tr>
+<tr class="even">
+<td>island</td>
+<td>1</td>
+<td>Torgersen</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>2</td>
+<td>Biscoe</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>3</td>
+<td>Dream</td>
+</tr>
+<tr class="odd">
+<td>sex</td>
+<td>1</td>
+<td>female</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>2</td>
+<td>male</td>
+</tr>
+</tbody>
+</table>
+<p>The fixed-width file is now less than half the width of the fixed-width file that has the character values. The first four and last two rows of the data look like this:</p>
+<div class="sourceCode" id="cb15"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf_code.txt"</span><span class="op">)</span>, n <span class="op">=</span> <span class="fl">4</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">## [1] "1139.118.7181375022007" "1139.517.4186380012007" "1140.318.0195325012007"</span></span>
+<span><span class="co">## [4] "11                2007"</span></span></code></pre>
+<div class="sourceCode" id="cb17"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">tail</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/readLines.html" class="external-link">readLines</a></span><span class="op">(</span><span class="fu">dpjr</span><span class="fu">::</span><span class="fu"><a href="../reference/dpjr_data.html">dpjr_data</a></span><span class="op">(</span><span class="st">"penguins_fwf_code.txt"</span><span class="op">)</span><span class="op">)</span>, <span class="fl">2</span><span class="op">)</span></span></code></pre></div>
+<pre><code><span><span class="co">## [1] "3350.819.0210410022009" "3350.218.7198377512009"</span></span></code></pre>
+<p>Note that the first row is <em>not</em> the variable names. This is common in fixed-width files.</p>
 <p><strong>License:</strong></p>
 <p>Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.</p>
 <p>-30-</p>
