@@ -248,12 +248,13 @@ Note that the first row is _not_ the variable names. This is common in fixed-wid
 
 #### penguins_labelled.xlsx
 
-An Excel version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/), 
+An Excel version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/).
 
 This file simulates the circumstance where the data were originally collected and stored in an SPSS file, and the data collectors have made the data available as an Excel file.
 
 
 The file contains two sheets,
+
 * **penguins_values**, containing the individual records, with the variables coded numerically. Note that for all variables, "NA" is used to represent missing values.
 
 * **penguins_codebook** contains the output SPSS creates when the "DISPLAY DICTIONARY" syntax (or the "File > Display Data File Information > Working File" GUI menu sequence) in SPSS is used to produce the "dictionary" (or codebook). There is information about each of the variables, including whether that variable is nominal or scale..

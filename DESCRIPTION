@@ -13,4 +13,4 @@ LazyData: true
 URL: https://github.com/MonkmanMH/dpjr,
     https://monkmanmh.github.io/dpjr
 BugReports: https://github.com/MonkmanMH/dpjr/issues
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1
