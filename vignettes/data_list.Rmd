@@ -246,7 +246,7 @@ tail(readLines(dpjr::dpjr_data("penguins_fwf_code.txt")), 2)
 
 Note that the first row is _not_ the variable names. This is common in fixed-width files.
 
-#### penguins_labelled.xlsx
+#### penguins_spss_output.xlsx
 
 An Excel version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/).
 
@@ -264,11 +264,11 @@ The file contains two sheets,
 Variable   Value  Character 
 --------   -----  ---------
 species    1      Adelie
-           2      Gentoo
-           3      Chinstrap
-island     1      Torgersen
-           2      Biscoe
-           3      Dream
+           2      Chinstrap
+           3      Gentoo
+island     1      Biscoe
+           2      Dream
+           3      Torgersen
 sex        1      female
            2      male
 
