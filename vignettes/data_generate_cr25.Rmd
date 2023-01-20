@@ -1,8 +1,18 @@
 ---
 title: "Data generation—CR25"
-pkgdown:
-  as_is: true
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Data generation—CR25}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 
 ## Introduction
 
