@@ -26,13 +26,18 @@ Once you have {dpjr} installed, load it using the `library()` function:
 
 ## Usage
 
-There are two groups of datasets in the package: pre-rendered? tables,
-and raw files.
+The package contains a number of data sets in a variety of formats. 
 
-### Raw data files
+### Function
 
-The convenience function `dpjr_data()` generates the path to the raw
-data file, independent of the specific location on the user’s computer.
+There is one convenience function in the package: 
+
+    dprj::dpjr_data()
+
+which returns a complete list of the data files in the package.
+
+
+The function can also be used to access individual files in the package.
 
 For example, to read the CSV file “mtcars.csv”:
 
@@ -49,10 +54,10 @@ Example:
 
     read.csv(system.file("extdata", "mtcars.csv", package = "dpjr"))
 
+
 ## Data files
 
-A list of the the raw data files [can be found here](). *link to
-readme.md?*
+An annotated list of the the raw data files [can be found here](https://monkmanmh.github.io/dpjr/articles/data_list.html).
 
 ## Licenses
 
@@ -60,12 +65,12 @@ readme.md?*
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
 --->
 
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width=80px height=auto} /></a><br />
+
+
 The data files in this package are created by [Martin
-Monkman](https://github.com/MonkmanMH) and are licensed under
+Monkman](https://github.com/MonkmanMH) and are licensed under 
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative
+Commons Attribution 4.0 International</a>, with the exceptions listed in the ["Data licenses" vignette](https://monkmanmh.github.io/dpjr/articles/data_licenses.html).
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative
-Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
 
-With the following exceptions:
-
--   

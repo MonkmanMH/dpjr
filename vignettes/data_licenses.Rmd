@@ -21,10 +21,9 @@ The data in this package is licensed in the following ways:
 
 ### Original to {dpjr} 
 
-The data files created for the {dpjr} package by [Martin Monkman](https://github.com/MonkmanMH) are licensed under 
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width=80px height=auto} /></a><br />
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
-
+The data files created for the {dpjr} package by [Martin Monkman](https://github.com/MonkmanMH) are licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 ### Sourced from other R packages
 
