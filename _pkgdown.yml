@@ -8,4 +8,5 @@ articles:
   contents:
   - data_list
   - data_licenses
+  - data_generate_cr25_order.Rmd
 
