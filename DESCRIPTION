@@ -7,7 +7,7 @@ Maintainer: Martin Monkman <monkmanmh@yahoo.ca>
 Description: Data files used in the book 
     _The Data Preparation Journey: Finding Your Way With R_
     by Martin Monkman and published by CRC Press (forthcoming).
-License: Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/MonkmanMH/dpjr,
