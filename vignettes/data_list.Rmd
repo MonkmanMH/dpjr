@@ -113,6 +113,21 @@ Source: Statistics Canada, Joint Canada/United States Survey of Health 2002-03, 
 
 
 
+### lfs_canada_employment.rds
+
+Total employment in Canada, monthly, unadjusted for seasonality, both sexes, age 15 and over, total all population centres and rural areas (thousands), 2011-01 to 2022-12
+
+Table 14-10-0374-01, vector v1234977815
+
+**License:**
+
+[Statistics Canada Open License](https://www.statcan.gc.ca/en/reference/licence)
+
+
+Source: Statistics Canada. Table 14-10-0374-01  [Employment and unemployment rate, monthly, unadjusted for seasonality](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037401)
+DOI: https://doi.org/10.25318/1410037401-eng 
+
+
 ### mpg.csv
 
 A csv version of the famous mpg dataset, included in the [{ggplot2} package](https://ggplot2.tidyverse.org/reference/mpg.html)
