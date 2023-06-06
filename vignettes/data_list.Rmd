@@ -61,6 +61,25 @@ state_of_birth     10      21               30
 unique_id          12      31               42
 
 
+### census2021firstresultsenglandwales1.xlsx
+
+Data is a tabulation of the population of England and Wales, drawn from the 2021 Census, and downloaded from the UK Office of National Statistics (ONS): [Population and household estimates, England and Wales: Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationandhouseholdestimatesenglandandwalescensus2021), 2022-06-28
+
+* Statistical bulletin: ["Population and household estimates, England and Wales: Census 2021"](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021), 2022-06-28
+
+* [Main Census page](https://www.ons.gov.uk/census)
+
+* [Area classifications](https://www.ons.gov.uk/methodology/geography/geographicalproducts/areaclassifications/2011areaclassifications/datasets)
+
+* [The hierarchy of the administrative geographies of the UK can be found at the "England" and "Wales" links](https://www.ons.gov.uk/methodology/geography/ukgeographies/administrativegeography)
+
+* ["Local Authority Districts, Counties and Unitary Authorities (April 2021) Map in United Kingdom"](https://geoportal.statistics.gov.uk/documents/ons::local-authority-districts-counties-and-unitary-authorities-april-2021-map-in-united-kingdom--1/about)
+
+
+**License**
+
+The [UK Open Government License for Public Sector Information](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
 
 ### cr25
 
