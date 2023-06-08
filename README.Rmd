@@ -85,3 +85,8 @@ The data files in this package that are created by [Martin Monkman](https://gith
 
 Data files sourced from elsewhere are licensed under a variety of open licenses; see [the "Data licenses" vignette](articles/data_licenses.html) for details.
 
+
+## Latest update
+
+Updated `r Sys.Date()`
+
