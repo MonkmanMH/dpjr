@@ -75,7 +75,8 @@
 <!-- badges: end -->
 <p>Companion Data for the book <em>The Data Preparation Journey: Finding Your Way With R</em></p>
 <ul>
-<li>a work in progress, to be published by Chapman &amp; Hall/CRC Press at some point in the future.</li>
+<li><p>a work in progress, to be published by Chapman &amp; Hall/CRC Press at some point in the future.</p></li>
+<li><p>the web version of the current draft is available <a href="https://bookdown.org/martin_monkman/DataPreparationJourney_draft/" class="external-link">here</a></p></li>
 </ul>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
@@ -89,29 +90,26 @@
 <div class="section level2">
 <h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
 </h2>
-<p>The package contains a number of data sets in a variety of formats.</p>
+<p>There are two groups of datasets in the package: pre-rendered? tables, and raw files.</p>
 <div class="section level3">
-<h3 id="function">Function<a class="anchor" aria-label="anchor" href="#function"></a>
+<h3 id="raw-data-files">Raw data files<a class="anchor" aria-label="anchor" href="#raw-data-files"></a>
 </h3>
-<p>There is one convenience function in the package:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>dprj<span class="sc">::</span><span class="fu">dpjr_data</span>()</span></code></pre></div>
-<p>which returns a complete list of the data files in the package.</p>
-<p>The function can also be used to access individual files in the package.</p>
-<p>For example, to read the CSV file “mtcars.csv”:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>df_mtcars <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(dpjr<span class="sc">::</span><span class="fu">dpjr_data</span>(<span class="st">"mtcars.csv"</span>))</span></code></pre></div>
+<p>The convenience function <code><a href="reference/dpjr_data.html">dpjr_data()</a></code> generates the path to the raw data file, independent of the specific location on the user’s computer.</p>
+<p>For example, to read the CSV file “mpg.csv”:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df_mtcars <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(dpjr<span class="sc">::</span><span class="fu">dpjr_data</span>(<span class="st">"mpg.csv"</span>))</span></code></pre></div>
 <p>An alternative to this approach is to access files using the <code><a href="https://rdrr.io/r/base/system.file.html" class="external-link">system.file()</a></code> function.</p>
 <p>Example:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>)</span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="st">"mtcars.csv"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>)</span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="fu">read.csv</span>(<span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="st">"mtcars.csv"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>))</span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="st">"mpg.csv"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>)</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">read.csv</span>(<span class="fu">system.file</span>(<span class="st">"extdata"</span>, <span class="st">"mpg.csv"</span>, <span class="at">package =</span> <span class="st">"dpjr"</span>))</span></code></pre></div>
 </div>
 </div>
 <div class="section level2">
 <h2 id="data-files">Data files<a class="anchor" aria-label="anchor" href="#data-files"></a>
 </h2>
-<p>An annotated list of the the raw data files <a href="https://monkmanmh.github.io/dpjr/articles/data_list.html">can be found here</a>.</p>
+<p>A list of the the raw data files <a href="articles/data_list.html">can be found in the vignette “Data list”</a>.</p>
 </div>
 <div class="section level2">
 <h2 id="licenses">Licenses<a class="anchor" aria-label="anchor" href="#licenses"></a>
@@ -119,8 +117,14 @@
 <!---
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
 --->
-<p><a rel="license" href="https://creativecommons.org/licenses/by/4.0/" class="external-link"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="80px" height="auto}"></a><br></p>
-<p>The data files in this package are created by <a href="https://github.com/MonkmanMH" class="external-link">Martin Monkman</a> and are licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" class="external-link">Creative Commons Attribution 4.0 International</a>, with the exceptions listed in the <a href="https://monkmanmh.github.io/dpjr/articles/data_licenses.html">“Data licenses” vignette</a>.</p>
+<p>The data files in this package that are created by <a href="https://github.com/MonkmanMH" class="external-link">Martin Monkman</a> and are licensed under</p>
+<p><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/" class="external-link">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.</p>
+<p>Data files sourced from elsewhere are licensed under a variety of open licenses; see <a href="articles/data_licenses.html">the “Data licenses” vignette</a> for details.</p>
+</div>
+<div class="section level2">
+<h2 id="latest-update">Latest update<a class="anchor" aria-label="anchor" href="#latest-update"></a>
+</h2>
+<p>Updated 2023-06-08</p>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="links">
