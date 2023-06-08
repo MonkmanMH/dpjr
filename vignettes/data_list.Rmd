@@ -43,7 +43,7 @@ All of the data in this package is covered under an open license. For informatio
 
 ### authors_fwf.txt; authors2_fwf.txt
 
-A pair of fixed-width files containing information about ten authors from the United States of America: 
+A pair of fixed-width files containing information about ten authors born in the United States of America: 
 
 * "name"
 
@@ -62,6 +62,8 @@ unique_id          12      31               42
 
 
 ### census2021firstresultsenglandwales1.xlsx
+
+**Population and household estimates, England and Wales: Census 2021**
 
 Data is a tabulation of the population of England and Wales, drawn from the 2021 Census, and downloaded from the UK Office of National Statistics (ONS): [Population and household estimates, England and Wales: Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationandhouseholdestimatesenglandandwalescensus2021), 2022-06-28
 
