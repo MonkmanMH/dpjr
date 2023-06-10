@@ -31,7 +31,7 @@ library(readxl)
 library(lubridate)
 library(ggplot2)
 #
-# utilities
+# Tommy Tutone
 set.seed(8675309)
 
 ```
@@ -50,7 +50,7 @@ To create the album list, I created a csv file with the artist and percentage of
 
 I also added a price field; albums released before 1976 are \$7.98, [those released 1976-1981 are $8.98](https://en.wikipedia.org/wiki/Hard_Promises#History), and 1982 and beyond are \$9.98. The sole exception to this is Pink Floyd's double album _The Wall_, which I priced at \$14.98.
 
-```{r cr25_538_read, warning=FALSE, message=FALSE}
+```{r cr25_538_read, eval=FALSE}
 
 albumlist <- read_csv(dpjr::dpjr_data("cr25/cr25_538.csv"))
 albumlist
@@ -62,7 +62,7 @@ The next step was to create a csv file with some fictional stores. What I did he
 
 I also assigned each store to one of four regions (based on the cardinal points of the compass), and gave them a store ID number.
 
-```{r cr25_storelist_read, warning=FALSE, message=FALSE}
+```{r cr25_storelist_read, eval=FALSE}
 
 storelist <- read_csv(dpjr::dpjr_data("cr25/cr25_storelist.csv"))
 
@@ -87,7 +87,7 @@ storelist %>%
 ### Create order
 
 
-```{r}
+```{r, eval=FALSE}
 # order date
 # based on https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
 
@@ -179,7 +179,7 @@ order_fun <- function(){
 ```
 
 
-```{r}
+```{r, eval=FALSE}
 # run one order...
 order_fun()
 ```
@@ -212,14 +212,14 @@ order_multi <- data.frame(artist = as.character(),
 
 ```
 
-```{r read-order_multi, echo=FALSE}
+```{r read-order_multi, eval=FALSE}
 
 order_multi <- read_rds(dpjr::dpjr_data("cr25/cr25_order_multi.rds"))
 
 
 ```
 
-```{r}
+```{r, eval=FALSE}
 head(order_multi)
 
 ```
@@ -233,9 +233,6 @@ head(order_multi)
 order_multi %>%
   group_by(store.id, orderdate) %>%
   tally()
-```
-
-```{r}
 
 order_multi %>%
   group_by(artist) %>%
@@ -256,7 +253,7 @@ order_multi %>%
   arrange(desc(qty))
 ```
 
-```{r}
+```{r, eval=FALSE}
 
 
 
@@ -269,7 +266,7 @@ order_multi %>%
   arrange(desc(qty))
 ```
 
-```{r}
+```{r, eval=FALSE}
 
 
 order_multi %>%
@@ -289,7 +286,7 @@ order_multi %>%
 
 File: "cr25_human_resources.xlsx"
 
-```{r}
+```{r, eval=FALSE}
 
 readxl::excel_sheets(dpjr::dpjr_data("cr25/cr25_human_resources.xlsx"))
 
