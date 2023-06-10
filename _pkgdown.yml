@@ -7,5 +7,6 @@ articles:
   navbar: ~
   contents:
   - data_list
+  - data_generate_cr25
   - data_licenses
 
