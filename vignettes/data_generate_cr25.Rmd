@@ -1,5 +1,5 @@
 ---
-title: "Data generation—CR25"
+title: "Data generation: CR25"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Data generation: CR25}
