@@ -1,0 +1,45 @@
+---
+title: "Data generation: CR25"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Data generation: CR25}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Introduction
+
+This set of R chunks creates a synthetic dataset that presents a variety of data importation and wrangling challenges, as well as some interesting analytic opportunities.
+
+This is based on my own experience in the late 1980s, to a time when I was working for a wholesale company that distributed LPs, cassettes, and those new-fangled compact discs to a wide range of retailers. 
+
+The files within the subdirectory `cr25` are as follows:
+
+```{r data_list_cr25}
+list.files(dpjr::dpjr_data("cr25"))
+```
+
+## The Scenario
+
+The fictional wholesale company, CR25 (for "Classic Rock 25") only sells 25 album titles. They are the biggest selling / most famous albums by the 25 most-played artists shown in Walt Hickey's article "Why Classic Rock Isn’t What It Used To Be". ^[Walt Hickey, [Why Classic Rock Isn’t What It Used To Be](https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/) (FiveThirtyEight, 2014-07-07). The GitHub page with the data for Walt Hickey's article is available through [GitHub](https://github.com/fivethirtyeight/data/tree/master/classic-rock).] 
+
+
+### Setup
+
+The first step is to install the necessary packages. The seed is set to [a number associated with a classic rock staple](https://www.youtube.com/watch?v=axLRUszuu9I), so that future runs of the code will generate the same data table. This is important, as some of the examples in the book are based on summary tables drawn from the master file.
+
+```{r setup, warning=FALSE, message=FALSE}
+# tidyverse packages
+library(dplyr)
+library(readr)
+library(readxl)
+library(lubridate)
+library(ggplot2)
+#
+# Tommy Tutone
+set.seed(8675309)
+
+```
+
+
+
