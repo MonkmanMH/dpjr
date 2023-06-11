@@ -13,7 +13,7 @@ Way With R*
   some point in the future.
 
 - the web version of the current draft is available
-  [here](https://bookdown.org/martin_monkman/DataPreparationJourney_draft/)
+  [here](https://bookdown.org/martin_monkman/DataPreparationJourney/)
 
 ## Installation
 
