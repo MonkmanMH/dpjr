@@ -9,10 +9,9 @@
 Companion Data for the book *The Data Preparation Journey: Finding Your
 Way With R*
 
-- a work in progress, to be published by Chapman & Hall/CRC Press at
-  some point in the future.
+- The [book is published with CRC Press](https://www.routledge.com/The-Data-Preparation-Journey-Finding-Your-Way-with-R/Monkman/p/book/9781032189758) as part of [The Data Science Series](https://www.routledge.com/Chapman--HallCRC-Data-Science-Series/book-series/CHDSS).
 
-- the web version of the current draft is available
+- The web edition of the current version of the book is available
   [here](https://bookdown.org/martin_monkman/DataPreparationJourney/)
 
 ## Installation
