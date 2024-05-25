@@ -74,4 +74,4 @@ vignette](articles/data_licenses.html) for details.
 
 ## Latest update
 
-Updated 2023-06-08
+Updated 2024-05-25
