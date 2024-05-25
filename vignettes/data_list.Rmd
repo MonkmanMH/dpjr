@@ -320,6 +320,17 @@ sex        1      female
 
 
 
+### National Travel Survey (NTS)
+
+
+Note that the National Travel Survey (NTS) data referenced in [Chapter 7 of _The Data Preparation Journey_](https://bookdown.org/martin_monkman/DataPreparationJourney/importing-stats.html#national-travel-survey-nts) is _not_ included in the {dpjr} package. The microdata file for the 2020 reference year can be found here:
+
+* https://doi.org/10.25318/24250001
+
+* Additional information about the NTS can be found here: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=1535550& 
+
+
+
 **License:**
 
 Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
