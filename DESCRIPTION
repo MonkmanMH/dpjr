@@ -3,7 +3,7 @@ Type: Package
 Title: Companion data for the book The Data Preparation Journey: Finding Your Way With R
 Version: 1.0.0
 Author: Martin Monkman
-Maintainer: Martin Monkman <monkmanmh@yahoo.ca>
+Maintainer: Martin Monkman
 Description: Data files used in the book 
     _The Data Preparation Journey: Finding Your Way With R_
     by Martin Monkman and published by CRC Press.
