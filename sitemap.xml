@@ -1,33 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/404.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/articles/data_generate_cr25.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/articles/data_licenses.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/articles/data_list.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/index.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/reference/dpjr_data.html</loc>
-  </url>
-  <url>
-    <loc>https://monkmanmh.github.io/dpjr/reference/index.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://monkmanmh.github.io/dpjr/404.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/LICENSE.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/articles/data_generate_cr25.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/articles/data_licenses.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/articles/data_list.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/articles/index.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/authors.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/index.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/reference/dpjr_data.html</loc></url>
+<url><loc>https://monkmanmh.github.io/dpjr/reference/index.html</loc></url>
 </urlset>
+
