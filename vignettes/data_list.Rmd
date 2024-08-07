@@ -292,7 +292,7 @@ tail(readLines(dpjr::dpjr_data("penguins_fwf_code.txt")), 2)
 
 Note that the first row is _not_ the variable names. This is common in fixed-width files.
 
-#### penguins_spss_output.xlsx
+#### penguins_labelled.xlsx
 
 An Excel version of the [{palmerpenguins} dataset](https://allisonhorst.github.io/palmerpenguins/).
 

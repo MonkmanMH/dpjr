@@ -1,7 +1,7 @@
 Package: dpjr
 Type: Package
 Title: Companion data for the book The Data Preparation Journey: Finding Your Way With R
-Version: 1.0.0
+Version: 1.0.1
 Author: Martin Monkman
 Maintainer: Martin Monkman <monkmanmh@yahoo.ca>
 Description: Data files used in the book 
